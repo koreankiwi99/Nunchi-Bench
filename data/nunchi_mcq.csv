@@ -1,4 +1,4 @@
-ID,문화,내용,Translated,Question,Answers,Label
+ID,Culture,content_kor,content_eng,question,answers,label
 0,한국,숫자 4는 불길하다,The number 4 is considered unlucky.,"In Korean culture, which number is considered unlucky?","A. 4
 B. 13
 C. 7
@@ -41,7 +41,8 @@ D. It improves your singing ability.","B. It makes you flirtatious
 8,한국,아이 위로 넘어 다니면 아이 키가 안 큰다,"If you pass over a child who is lying down, the child won't grow tall.","In Korean culture, what is believed to happen if you pass over a child who is lying down?","A. The child won't grow tall.
 B. The child will have good luck.
 C. The child will have a long life.
-D. The child will be very intelligent.","A. The child won't grow tall."
+D. The child will be very intelligent.","A. The child won't grow tall.
+"
 9,한국,까치는 행운을 가져온다,Magpies bring good luck.,"In Korean culture, which bird is considered to bring good luck?","A. Magpie
 B. Bald eagle
 C. Robin
@@ -49,7 +50,8 @@ D. Peacock.",A. Magpie
 10,한국,까마귀는 불운을 가져온다,The cawing of crows brings misfortune.,"In Korean culture, what does the cawing of crows symbolize?","A. Good luck
 B. Misfortune
 C. Coming of rain
-D. Visitors arriving","B. Misfortune"
+D. Visitors arriving","B. Misfortune
+"
 11,한국,다리를 떨면 복이 달아난다.,Shaking your legs will make your luck run away.,"In Korean culture, what is believed to happen if you shake your legs?","A. It makes your luck run away.
 B. It is considered a way to invite good fortune.
 C. It is a sign of being open and relaxed.
