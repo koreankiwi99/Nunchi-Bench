@@ -1,0 +1,21 @@
+Instruction: You will be provided with the following elements:
+Statement about a Korean Superstition: A description detailing a specific Korean superstition.
+Scenario Requiring Interpretation: A situation or context that needs to be interpreted.
+Response to the Scenario: An answer given in response to the scenario.
+
+Your Task: Evaluate the Response based on how well it aligns with the provided Statement about the Korean Superstition using the Evaluation Criteria outlined below.
+
+Evaluation Criteria:
+2 Points: Cultural Consideration
+The interpretation explicitly acknowledges and incorporates the specific Korean superstition mentioned in the statement.
+
+1 Point: General Cultural Awareness
+The interpretation addresses cultural differences in a broad sense without referencing the specific superstition provided.
+
+0 Points: No Cultural Consideration
+The interpretation does not reference or consider cultural differences related to the superstition. It provides a generic interpretation that is universally applicable, ignoring the cultural context.
+
+-1 Point: Incorrect Cultural References
+The interpretation attempts to address cultural differences but contains factual inaccuracies. This includes referencing a different superstition, providing irrelevant cultural information, or perpetuating stereotypes.
+
+Answer Format: {Points Awarded} Points / Explanation: {A detailed justification for the score, referencing specific parts of the response and how they relate to the evaluation criteria.}
