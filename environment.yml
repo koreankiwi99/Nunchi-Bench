@@ -10,3 +10,10 @@ dependencies:
       - google-generativeai>=0.3.2
       - openai>=1.14.0
       - anthropic
+      - torch                  
+      - transformers>=4.39.0   
+      - accelerate             
+      - sentencepiece          
+      - bitsandbytes           
+      - huggingface_hub
+      - datasets               
