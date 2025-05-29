@@ -1,0 +1,11 @@
+name: gemini-gen
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - pandas
+      - google-generativeai>=0.3.2
+      - openai>=1.14.0

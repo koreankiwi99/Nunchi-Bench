@@ -1,0 +1,4 @@
+Please answer the following questions. Note that only one option is correct. Do not provide reasons.
+
+Question: {QUESTION}
+Options: {OPTIONS}
