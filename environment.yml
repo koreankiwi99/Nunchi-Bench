@@ -1,4 +1,4 @@
-name: gemini-gen
+name: nunchi-bench
 channels:
   - defaults
   - conda-forge
@@ -9,3 +9,4 @@ dependencies:
       - pandas
       - google-generativeai>=0.3.2
       - openai>=1.14.0
+      - anthropic

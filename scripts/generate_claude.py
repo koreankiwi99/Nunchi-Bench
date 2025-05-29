@@ -2,26 +2,27 @@ import argparse
 import csv
 import os
 import pandas as pd
-import openai
+import anthropic
 
 MCQ_COLUMNS = ["id", "question", "choices", "output", "correct"]
 INTERPRET_COLUMNS = ["id", "idx", "question", "response", "eval", "score"]
 VARIANTS = ["kor_default", "eng_default", "kor_kor", "eng_kor"]
 
-def init_openai(api_key):
-    return openai.OpenAI(api_key=api_key)
+def init_claude(api_key):
+    return anthropic.Anthropic(api_key=api_key)
 
 def generate_response(client, model_name, prompt, max_tokens=1000, temperature=0.0):
     try:
-        response = client.chat.completions.create(
+        response = client.messages.create(
             model=model_name,
-            messages=[{"role": "user", "content": prompt}],
             max_tokens=max_tokens,
-            temperature=temperature
+            temperature=temperature,
+            system="You are a helpful assistant.",
+            messages=[{"role": "user", "content": prompt}]
         )
-        return response.choices[0].message.content.strip()
+        return response.content[0].text.strip()
     except Exception as e:
-        print(f"OpenAI generation failed: {e}")
+        print(f"Claude generation failed: {e}")
         return "[NO RESPONSE]"
 
 def load_prompt_template(path):
@@ -117,7 +118,7 @@ def main():
     parser.add_argument("--prompt_dir", default="debug/prompts")
     args = parser.parse_args()
 
-    client = init_openai(args.api_key)
+    client = init_claude(args.api_key)
     df = pd.read_csv(args.input_csv)
     ensure_dir(args.prompt_dir)
 
