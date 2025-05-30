@@ -1,0 +1,32 @@
+id,total_attempts,correct_count,wrong_models
+0,18,13,"kullm3, llama3-8b-instruct, claude3sonnet, mistral-7b-instruct-v2, llama3.1-8b-instruct"
+1,18,16,"llama3-8b-instruct, mistral-7b-instruct-v2"
+2,18,11,"kullm3, llama3-8b-instruct, mistral-7b-instruct-v2, hyperclovaX-HCX-003, llama3.1-8b-instruct, exaone3-7.8B, gpt3.5turbo"
+3,18,14,"qwen2.5-7b-instruct, llama3-8b-instruct, mistral-7b-instruct-v2, llama3.1-8b-instruct"
+4,18,10,"kullm3, qwen2.5-7b-instruct, llama3-8b-instruct, claude3sonnet, hyperclovaX-HCX-003, llama3.1-8b-instruct, exaone3-7.8B, gpt3.5turbo"
+5,18,10,"kullm3, qwen2.5-7b-instruct, claude3sonnet, mistral-7b-instruct-v2, exaone3-7.8B, claude3opus, mistral-large-2402, gpt3.5turbo"
+6,18,16,"mistral-7b-instruct-v2, llama3.1-8b-instruct"
+7,18,10,"kullm3, qwen2.5-7b-instruct, llama3-8b-instruct, claude3sonnet, mistral-7b-instruct-v2, exaone3-7.8B, mistral-large-2402, gpt3.5turbo"
+9,18,9,"gemini1.5pro, kullm3, qwen2.5-7b-instruct, llama3-8b-instruct, claude3sonnet, mistral-7b-instruct-v2, llama3.1-8b-instruct, exaone3-7.8B, gpt3.5turbo"
+10,18,16,"claude3sonnet, mistral-7b-instruct-v2"
+11,18,14,"llama3-8b-instruct, claude3sonnet, mistral-7b-instruct-v2, gpt-4.5-preview-2025-02-27"
+12,18,14,"llama3-8b-instruct, claude3sonnet, llama3.1-8b-instruct, gpt3.5turbo"
+13,18,17,llama3-8b-instruct
+14,18,15,"gemini1.5pro, qwen2.5-7b-instruct, claude3sonnet"
+15,18,16,"qwen2.5-7b-instruct, claude3sonnet"
+16,18,5,"gemini1.5pro, kullm3, qwen2.5-7b-instruct, claude3sonnet, gpt4turbo-0409, hyperclovaX-HCX-003, llama3.1-8b-instruct, exaone3-7.8B, gpt-4o-2024-05-13, claude3opus, mistral-large-2402, gpt3.5turbo, deepseek-chat"
+17,18,16,"claude3sonnet, gpt3.5turbo"
+19,18,11,"kullm3, qwen2.5-7b-instruct, llama3-8b-instruct, claude3sonnet, mistral-7b-instruct-v2, llama3.1-8b-instruct, exaone3-7.8B"
+20,18,13,"qwen2.5-7b-instruct, llama3-8b-instruct, claude3sonnet, llama3.1-8b-instruct, exaone3-7.8B"
+21,18,7,"kullm3, qwen2.5-7b-instruct, llama3-8b-instruct, claude3sonnet, mistral-7b-instruct-v2, llama3.1-8b-instruct, exaone3-7.8B, gpt-4o-2024-05-13, claude3opus, mistral-large-2402, gpt3.5turbo"
+22,18,13,"kullm3, claude3sonnet, mistral-7b-instruct-v2, hyperclovaX-HCX-003, llama3.1-8b-instruct"
+23,18,18,
+24,18,15,"llama3-8b-instruct, llama3.1-8b-instruct, gpt3.5turbo"
+25,18,9,"llama3-8b-instruct, claude3sonnet, mistral-7b-instruct-v2, llama3.1-8b-instruct, exaone3-7.8B, claude3opus, mistral-large-2402, gpt3.5turbo, deepseek-chat"
+26,18,13,"llama3-8b-instruct, claude3sonnet, llama3.1-8b-instruct, mistral-large-2402, gpt3.5turbo"
+28,18,13,"llama3-8b-instruct, claude3sonnet, mistral-7b-instruct-v2, exaone3-7.8B, mistral-large-2402"
+29,18,11,"qwen2.5-7b-instruct, llama3-8b-instruct, mistral-7b-instruct-v2, gpt-4.5-preview-2025-02-27, llama3.1-8b-instruct, mistral-large-2402, deepseek-chat"
+30,18,15,"llama3-8b-instruct, claude3sonnet, llama3.1-8b-instruct"
+31,18,17,claude3sonnet
+32,18,9,"kullm3, qwen2.5-7b-instruct, llama3-8b-instruct, claude3sonnet, mistral-7b-instruct-v2, llama3.1-8b-instruct, exaone3-7.8B, mistral-large-2402, deepseek-chat"
+33,18,17,kullm3

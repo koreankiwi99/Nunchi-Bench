@@ -1,0 +1,32 @@
+id,total_attempts,correct_count,wrong_models
+0,18,17,claude3sonnet
+1,18,17,mistral-7b-instruct-v2
+2,18,12,"gpt3.5turbo, exaone3-7.8B, mistral-7b-instruct-v2, kullm3, llama3-8b-instruct, claude3sonnet"
+3,18,15,"llama3.1-8b-instruct, mistral-7b-instruct-v2, llama3-8b-instruct"
+4,18,11,"llama3.1-8b-instruct, exaone3-7.8B, hyperclovaX-HCX-003, kullm3, qwen2.5-7b-instruct, llama3-8b-instruct, claude3sonnet"
+5,18,8,"mistral-large-2402, gpt3.5turbo, llama3.1-8b-instruct, exaone3-7.8B, mistral-7b-instruct-v2, hyperclovaX-HCX-003, kullm3, qwen2.5-7b-instruct, llama3-8b-instruct, claude3sonnet"
+6,18,18,
+7,18,7,"claude3opus, mistral-large-2402, gpt3.5turbo, exaone3-7.8B, mistral-7b-instruct-v2, hyperclovaX-HCX-003, gpt-4.5-preview-2025-02-27, kullm3, qwen2.5-7b-instruct, llama3-8b-instruct, claude3sonnet"
+9,18,18,
+10,18,18,
+11,18,18,
+12,18,18,
+13,18,17,mistral-7b-instruct-v2
+14,18,14,"claude3opus, hyperclovaX-HCX-003, kullm3, claude3sonnet"
+15,18,15,"exaone3-7.8B, qwen2.5-7b-instruct, claude3sonnet"
+16,18,4,"gpt-4o-2024-05-13, claude3opus, gpt3.5turbo, deepseek-chat, llama3.1-8b-instruct, exaone3-7.8B, gpt4turbo-0409, hyperclovaX-HCX-003, gpt-4.5-preview-2025-02-27, gemini1.5pro, kullm3, qwen2.5-7b-instruct, llama3-8b-instruct, claude3sonnet"
+17,18,17,claude3sonnet
+19,18,11,"claude3opus, mistral-large-2402, gpt3.5turbo, exaone3-7.8B, kullm3, qwen2.5-7b-instruct, claude3sonnet"
+20,18,18,
+21,18,9,"claude3opus, mistral-large-2402, gpt3.5turbo, claude-opus-4-20250514, exaone3-7.8B, hyperclovaX-HCX-003, kullm3, qwen2.5-7b-instruct, claude3sonnet"
+22,18,15,"llama3.1-8b-instruct, exaone3-7.8B, claude3sonnet"
+23,18,18,
+24,18,11,"gpt3.5turbo, llama3.1-8b-instruct, exaone3-7.8B, hyperclovaX-HCX-003, kullm3, llama3-8b-instruct, claude3sonnet"
+25,18,12,"mistral-large-2402, gpt3.5turbo, exaone3-7.8B, mistral-7b-instruct-v2, hyperclovaX-HCX-003, claude3sonnet"
+26,18,17,claude3opus
+28,18,14,"mistral-7b-instruct-v2, hyperclovaX-HCX-003, llama3-8b-instruct, claude3sonnet"
+29,18,15,"deepseek-chat, mistral-7b-instruct-v2, llama3-8b-instruct"
+30,18,18,
+31,18,18,
+32,18,12,"gpt3.5turbo, exaone3-7.8B, mistral-7b-instruct-v2, hyperclovaX-HCX-003, kullm3, claude3sonnet"
+33,18,18,
