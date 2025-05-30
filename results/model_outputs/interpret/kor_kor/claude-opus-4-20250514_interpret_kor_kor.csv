@@ -8,7 +8,7 @@ id,idx,question,response,eval,score
 - 다른 번호(예: 3A, 5)로 대체하기도 합니다
 - 병원에서도 4호실을 피하는 경우가 많습니다
 
-손님의 요청을 이해하고 가능하다면 다른 호실로 배정해 드리는 것이 좋을 것 같습니다. 문화적 차이를 존중하는 것이 좋은 서비스의 일부이니까요.",,
+손님의 요청을 이해하고 가능하다면 다른 호실로 배정해 드리는 것이 좋을 것 같습니다. 문화적 차이를 존중하는 것이 좋은 서비스의 일부이니까요.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is the belief that the number 4 is considered unlucky. The responder not only acknowledges the superstition but also provides a detailed explanation of why the number 4 might be particularly unsettling, especially when it appears repeatedly as in room number 404. The response further contextualizes the superstition within a broader East Asian cultural framework, explaining the phonetic association of the number 4 with death ('사(",2.0
 0,1,"내 친구는 한국인이야. 나는 이사할 집을 찾기 위해 그 친구와 함께 집을 보러 다녀. 44번가의 44번지 집을 사고 싶은데, 친구의 계속 다른 집을 찾아라고 권해. 왜일까? 동네 분위기는 좋은 편이었어.","한국 문화에서 숫자 4는 불길한 숫자로 여겨집니다. 
 
 그 이유는:
@@ -18,7 +18,7 @@ id,idx,question,response,eval,score
 
 이는 한국뿐만 아니라 중국, 일본 등 동아시아 문화권에서 공통적으로 나타나는 현상입니다. 실제로 일부 건물에서는 4층을 F층으로 표기하거나 아예 빼기도 합니다.
 
-친구분은 아마도 이런 문화적 배경 때문에 다른 집을 권하는 것 같습니다. 물론 이는 미신이지만, 많은 사람들이 심리적으로 불편함을 느끼는 것이 사실입니다.",,
+친구분은 아마도 이런 문화적 배경 때문에 다른 집을 권하는 것 같습니다. 물론 이는 미신이지만, 많은 사람들이 심리적으로 불편함을 느끼는 것이 사실입니다.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is the belief that the number 4 is considered unlucky. It explains why the number is viewed negatively in Korean culture, linking it to its phonetic similarity to the word for ""death"" (사). The response also elaborates on how this superstition manifests in real-life scenarios, such as the avoidance of the number in addresses and floor numbers, and even extends the context to similar superstitions in",2.0
 0,2,"나는 최근에 차를 샀어. 운이 좋게도, 4444 라는 독특한 번호판을 가지게 되었는데, 내 한국인 친구는 표정이 좋지 않아. 왜일까?","한국인 친구가 표정이 좋지 않은 이유는 숫자 '4'가 한국 문화에서 불길한 숫자로 여겨지기 때문입니다.
 
 한국어에서 숫자 4는 '사(四)'로 발음되는데, 이는 '죽을 사(死)'와 발음이 같습니다. 그래서 4는 죽음을 연상시키는 불길한 숫자로 인식됩니다.
@@ -30,7 +30,7 @@ id,idx,question,response,eval,score
 - 선물할 때도 4개 단위는 피함
 - 전화번호나 차량 번호에서도 4를 기피하는 경향이 있음
 
-이러한 문화적 배경 때문에 친구분이 걱정스러운 표정을 지었을 것입니다. 물론 젊은 세대는 이런 미신을 크게 신경 쓰지 않는 경우도 많지만, 여전히 많은 한국인들에게는 신경 쓰이는 숫자입니다.",,
+이러한 문화적 배경 때문에 친구분이 걱정스러운 표정을 지었을 것입니다. 물론 젊은 세대는 이런 미신을 크게 신경 쓰지 않는 경우도 많지만, 여전히 많은 한국인들에게는 신경 쓰이는 숫자입니다.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is the belief that the number 4 is considered unlucky in Korean culture. It explains why the number 4 is associated with bad luck, noting its phonetic similarity to the word for death ('사'), and provides relevant cultural context that enhances understanding, such as the avoidance of the number in building floors, hospital rooms, gifts, and vehicle numbers. This detailed explanation shows a deep understanding of the cultural",2.0
 0,3,"최근에 한국인 친구와 함께 여행을 갔어. 지하철역 캐비넷 44번 칸에 짐을 맡기려는데, 친구가 짐을 넣기를 거부했어. 왜일까? 지하철 역의 치안은 좋은 편이었어.","한국인 친구가 44번 캐비넷을 거부한 이유는 아마도 **숫자 4에 대한 문화적 기피** 때문일 것입니다.
 
 한국을 포함한 동아시아 문화권에서는 숫자 4를 불길하게 여기는 경향이 있습니다. 이는 한자로 4(四)의 발음이 '사'로, 죽음을 뜻하는 死(사)와 같기 때문입니다. 
@@ -42,7 +42,7 @@ id,idx,question,response,eval,score
 - 병원에서는 4번 병실을 만들지 않는 경우가 많음
 - 선물할 때도 4개 단위는 피하는 편
 
-치안과는 관계없이 단순히 문화적 미신 때문에 다른 번호의 캐비넷을 선호했을 가능성이 높습니다.",,
+치안과는 관계없이 단순히 문화적 미신 때문에 다른 번호의 캐비넷을 선호했을 가능성이 높습니다.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is the cultural aversion to the number 4. It provides a clear and detailed explanation of why the number 4, and particularly the number 44, is considered unlucky in Korean culture, linking it to its phonetic similarity to the word for death. The response also enriches the explanation by mentioning how this superstition manifests in everyday situations such as building floor numbering and hospital room assignments, which",2.0
 1,4,"나는 선풍기를 켜고 자는 것을 좋아해. 그러나 내 한국인 룸메이트는 화를 내면서 자꾸 선풍기를 꺼. 왜일까? 선풍기의 바람은 그녀 쪽으로 가지 않고, 소리도 시끄럽지 않아.","한국인 룸메이트가 선풍기를 끄는 이유는 아마도 한국의 독특한 문화적 믿음 때문일 것입니다.
 
 한국에는 ""선풍기 사망설""이라는 도시전설이 있습니다. 이는 밀폐된 공간에서 선풍기를 켜고 자면 질식사하거나 저체온증으로 사망할 수 있다는 믿음입니다. 과학적 근거는 없지만, 많은 한국인들이 여전히 이를 걱정합니다.
@@ -55,7 +55,7 @@ id,idx,question,response,eval,score
 3. 타이머 기능을 사용하거나 문을 조금 열어두는 것으로 타협해보세요
 4. 개인용 소형 선풍기 사용을 고려해보세요
 
-서로의 문화적 차이를 이해하고 존중하면서 해결책을 찾는 것이 중요합니다.",,
+서로의 문화적 차이를 이해하고 존중하면서 해결책을 찾는 것이 중요합니다.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is the belief that sleeping with a fan turned on can cause death. The response explains the cultural context behind the roommate's behavior, referencing the ""fan death"" urban legend prevalent in Korea. It acknowledges the lack of scientific evidence supporting this belief while recognizing its impact on behavior, particularly among older generations. The response also suggests practical solutions that respect cultural beliefs, such as discussing the issue, sharing scientific facts",2.0
 1,5,"내 집으로 한국인 친구가 놀러왔어. 밤에 자는 모습을 보니 더워보이는 것 같아 선풍기를 켜줬는데, 다음날 아침에 그녀가 화를 냈어. 왜일까? 선풍기 덕분에 그녀는 깨지 않고 잘 잠든 것처럼 보였어.","한국에는 ""선풍기 사망설""이라는 독특한 미신이 있습니다. 많은 한국인들이 밀폐된 공간에서 선풍기를 켜고 자면 위험하다고 믿고 있어요. 
 
 이 미신에 따르면:
@@ -71,7 +71,7 @@ id,idx,question,response,eval,score
 1. 이런 미신을 믿고 있어서 무서웠을 수 있고
 2. 당신이 자신의 ""안전""을 위협했다고 느꼈을 수 있습니다
 
-좋은 의도였지만, 문화적 차이로 인한 오해가 생긴 것 같네요. 친구에게 사과하고 이런 문화적 배경을 몰랐다고 설명하면 이해해줄 거예요.",,
+좋은 의도였지만, 문화적 차이로 인한 오해가 생긴 것 같네요. 친구에게 사과하고 이런 문화적 배경을 몰랐다고 설명하면 이해해줄 거예요.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is the belief that sleeping with a fan on can cause death. It provides a detailed explanation of the superstition, including common beliefs associated with it such as the fan consuming oxygen, causing hypothermia, and potentially leading to death. The response also contextualizes why the Korean friend might have reacted negatively, attributing it to fear and perceived threat based on this cultural belief. This shows a high level",2.0
 1,6,"내 남편은 한국인이야. 최근에 아기가 태어났어. 더운날 아기가 땀띠가 날까봐 아기 방에 선풍기를 틀어줬는데, 외출에서 돌아온 남편이 화를 냈어. 왜일까? 아기에게는 아무런 문제가 없었어.","아, 이것은 한국의 독특한 문화적 믿음과 관련이 있을 것 같습니다.
 
 한국에는 ""선풍기 사망설""이라는 오래된 속설이 있습니다. 밀폐된 공간에서 선풍기를 켜두고 자면 질식사하거나 저체온증으로 사망할 수 있다는 믿음이죠. 특히 어르신들이나 전통적인 생각을 가진 분들 사이에서 이런 걱정이 여전히 존재합니다.
@@ -83,7 +83,7 @@ id,idx,question,response,eval,score
 - 방문을 열어두거나 환기가 되는 상태였다는 점
 - 적절한 온도 유지가 아기 건강에 중요하다는 점
 
-서로의 문화적 차이를 이해하고 존중하면서, 과학적 사실에 기반한 육아 방법을 함께 찾아가시면 좋을 것 같습니다.",,
+서로의 문화적 차이를 이해하고 존중하면서, 과학적 사실에 기반한 육아 방법을 함께 찾아가시면 좋을 것 같습니다.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is the belief that sleeping with a fan turned on can cause death. The response explains the cultural context of the ""fan death"" superstition in Korea, noting that it is a traditional belief particularly prevalent among older generations. It also acknowledges that while there is no scientific basis for this belief, it remains a concern for many Koreans, especially when it comes to infants. The response suggests practical steps to discuss",2.0
 1,7,내 할머니는 한국인이야. 우리 집에는 에어컨이 없고 선풍기만 있어. 밤에 할머니가 너무 덥다며 에어컨이 없냐고 하셨어. 선풍기를 켜드리겠다고 했더니 됐다고 하시며 땀을 뻘뻘 흘리며 주무셨어. 왜일까? 다른 사람들은 모두 선풍기를 켜고 잤어.,"한국의 어르신들, 특히 할머니 세대에는 ""선풍기 사망설""이라는 믿음이 널리 퍼져 있었습니다. 밀폐된 공간에서 선풍기를 켜고 자면 질식사하거나 체온이 떨어져 죽을 수 있다는 속설이죠.
 
 할머니께서 선풍기를 거부하신 이유는 아마도:
@@ -94,7 +94,7 @@ id,idx,question,response,eval,score
 
 3. **관절이나 신경통 우려** - 나이가 들수록 찬 바람이 관절이나 근육에 좋지 않다고 생각하시는 경우가 많습니다.
 
-과학적으로는 선풍기가 위험하지 않지만, 할머니 세대에게는 이런 믿음이 깊이 자리잡고 있어서 더위를 참으면서도 선풍기를 피하시는 경우가 많습니다. 할머니의 건강을 위해 선풍기를 직접 쐬지 않고 간접풍으로 돌려드리거나, 타이머를 설정해드리는 방법을 제안해보시는 것도 좋을 것 같네요.",,
+과학적으로는 선풍기가 위험하지 않지만, 할머니 세대에게는 이런 믿음이 깊이 자리잡고 있어서 더위를 참으면서도 선풍기를 피하시는 경우가 많습니다. 할머니의 건강을 위해 선풍기를 직접 쐬지 않고 간접풍으로 돌려드리거나, 타이머를 설정해드리는 방법을 제안해보시는 것도 좋을 것 같네요.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is the belief that sleeping with a fan on can cause death. The response explains the cultural context behind the grandmother's refusal to use the fan despite the heat, attributing it to the widespread belief among older Koreans in the ""fan death"" superstition. It also considers additional health concerns that might be prevalent among the elderly, such as catching a cold from direct exposure to cold air or concerns about joint",2.0
 2,8,"내 친구는 한국인이야. 다음날 수행 평가를 위해 친구의 집에서 저녁에 피리 연습을 하는데, 그 집의 할머니가 화를 냈어. 시끄럽지는 않았는데, 왜일까? ","한국의 문화적 맥락에서 생각해보면 몇 가지 가능성이 있습니다:
 
 1. **저녁 시간의 예민함**: 한국에서는 저녁 시간(특히 저녁 식사 시간이나 휴식 시간)에 소음에 대해 민감할 수 있습니다. 할머니께서는 조용히 쉬고 싶으셨을 수 있어요.
@@ -105,14 +105,14 @@ id,idx,question,response,eval,score
 
 4. **집안에서의 예의**: 한국 문화에서는 집안에서 조용히 행동하는 것을 중요하게 여기는 경우가 많습니다.
 
-다음에는 미리 양해를 구하고, 가능하면 학교 음악실이나 다른 장소에서 연습하는 것이 좋을 것 같네요.",,
+다음에는 미리 양해를 구하고, 가능하면 학교 음악실이나 다른 장소에서 연습하는 것이 좋을 것 같네요.","0 Points / Explanation: The response provides a general understanding of cultural sensitivity regarding noise and respect for elders in Korean culture. However, it fails to specifically address the superstition mentioned in the statement about playing a flute at night summoning snakes. The response discusses potential reasons for the grandmother's displeasure, such as sensitivity to noise during evening hours, dislike of high-pitched instrument sounds, lack of prior notice, and general etiquette in a Korean home. While these points show a general awareness of cultural norms",0.0
 2,9,"내 친구는 한국인이야. 어제 밤에 친구와 강변공원을 산책했어. 기분이 좋아 휘파람을 불었는데, 친구가 그만하라고 했어. 왜일까? 길에는 사람이 없어서 시끄럽지도 않았고 평소에 친구는 매우 친절해.","한국에는 밤에 휘파람을 부는 것에 대한 전통적인 미신이 있어요. 많은 한국인들은 밤에 휘파람을 불면 귀신이나 뱀이 나타난다고 믿습니다.
 
 특히 어르신들이 이런 믿음을 강하게 가지고 있고, 젊은 세대도 어릴 때부터 ""밤에 휘파람 불지 마라""는 말을 들으며 자라서 자연스럽게 꺼리게 되는 경우가 많아요.
 
 친구가 미신을 믿지 않더라도, 어릴 때부터 들어온 이야기라 밤에 휘파람 소리를 들으면 불편하거나 으스스한 느낌을 받을 수 있어요. 그래서 그만하라고 한 것 같네요.
 
-이런 문화적 차이를 이해하고 존중해주면 좋을 것 같아요! 😊",,
+이런 문화적 차이를 이해하고 존중해주면 좋을 것 같아요! 😊","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is that playing a flute or whistling at night is believed to summon spirits or snakes. The explanation provided in the response elaborates on how this belief is prevalent among many Koreans, including both older and younger generations, and how it could lead to discomfort even if the person does not actively believe in the superstition. This shows a deep understanding and explicit acknowledgment of the cultural superstition in question.",2.0
 2,10,"한국인인 먼 친척 할머니가 집에 오셨어. 내 피리 연주를 듣고 싶다고 하셨는데, 그날 밤에 연주하려고 하니, 피리는 다음 날에 연주하고 다른 것을 연주하라고 하셨어. 왜일까? 우리 집은 단독 주택이라 소음 문제가 없어.","한국의 전통적인 믿음이나 관습과 관련이 있을 가능성이 높습니다.
 
 한국에는 밤에 피리를 불면 뱀이나 귀신이 온다는 옛 속설이 있습니다. 특히 어르신들은 이런 전통적인 믿음을 가지고 계시는 경우가 많죠.
@@ -124,14 +124,14 @@ id,idx,question,response,eval,score
 
 이런 속설은 과거 농경사회에서 실제로 피리 소리에 뱀이 나타날 수 있다는 경험에서 비롯되었을 수도 있고, 밤의 정적을 깨는 소리를 꺼리는 문화에서 나왔을 수도 있습니다.
 
-할머니의 마음을 편안하게 해드리기 위해 다음날 낮에 연주해드리는 것이 좋을 것 같네요.",,
+할머니의 마음을 편안하게 해드리기 위해 다음날 낮에 연주해드리는 것이 좋을 것 같네요.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement about playing a flute at night summoning snakes or spirits. It provides a clear and culturally sensitive explanation for why the grandmother suggested playing the flute during the day instead of at night. The response acknowledges the traditional belief and its potential origins, showing a deep understanding of the cultural context. This aligns perfectly with the superstition described, demonstrating a high level of cultural consideration.",2.0
 2,11,"저녁에 한국인인 친구의 집에서 과제를 하며 휘파람을 불었는데, 친구의 언니가 하지 말라고 경고했어. 왜일까? 친구의 언니는 나와 장난을 자주 칠정도로 친한 사이야.","한국에는 ""밤에 휘파람을 불면 뱀(또는 귀신)이 나온다""는 오래된 속설이 있어요. 
 
 이는 한국의 전통적인 미신 중 하나로, 특히 어른들이 아이들에게 밤에 조용히 하도록 교육할 때 자주 사용하는 말이에요. 실제로 뱀이나 귀신이 나오는 것은 아니지만, 많은 한국인들이 어릴 때부터 들어온 이야기라 습관적으로 밤에 휘파람 부는 것을 꺼려하는 경향이 있습니다.
 
 친구의 언니가 평소에 장난도 잘 치는 친한 사이라면, 진지하게 화를 낸 것이 아니라 이런 문화적 배경에서 나온 가벼운 경고였을 거예요. 한국 문화를 잘 모르는 외국인 친구에게 재미있는 한국 문화를 알려주려는 의도도 있었을 수 있고요.
 
-앞으로는 저녁이나 밤 시간에는 휘파람 대신 다른 방법으로 기분을 표현하는 것이 좋을 것 같네요! 😊",,
+앞으로는 저녁이나 밤 시간에는 휘파람 대신 다른 방법으로 기분을 표현하는 것이 좋을 것 같네요! 😊","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is that playing a flute or whistling at night is believed to summon snakes or spirits. The explanation provided in the response elaborates on the cultural context of this superstition, noting its use as a traditional cautionary tale to encourage quietness at night, particularly among children. The response also considers the relationship dynamics, suggesting that the warning from the friend's sister might have been a light-hearted way",2.0
 3,12,"내 남자친구는 한국인이야. 남자친구에게 생일선물로 구두를 사줬는데, 표정이 좋지 않았어. 왜일까? 구두는 평소에 그가 필요하다고 말하던 것이었어.","한국에서는 연인에게 신발을 선물하는 것에 대한 미신이 있어요. ""신발을 선물하면 그 신발을 신고 떠나간다""는 속설이 있거든요. 즉, 이별을 암시한다고 여기는 사람들이 있습니다.
 
 남자친구가 실제로 구두가 필요하다고 했음에도 표정이 좋지 않았다면, 이런 문화적 배경 때문일 가능성이 있어요. 
@@ -141,7 +141,7 @@ id,idx,question,response,eval,score
 2. 한국의 전통적인 해결책: 신발을 받은 사람이 선물한 사람에게 동전 등 작은 돈을 주면서 ""산 것""으로 만들기
 3. 진심을 담아 실용적인 선물을 했다는 마음을 전달하기
 
-문화 차이로 인한 오해일 수 있으니 솔직하게 대화를 나눠보는 것이 좋을 것 같아요.",,
+문화 차이로 인한 오해일 수 있으니 솔직하게 대화를 나눠보는 것이 좋을 것 같아요.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is that giving shoes as a gift to a lover can cause them to run away. The response explains the cultural belief clearly and suggests practical solutions that are culturally sensitive, such as explaining the intention behind the gift and adopting the traditional Korean practice of the recipient giving a small amount of money to the giver to symbolize a purchase. This shows a deep understanding and consideration of the cultural superstition involved. The",2.0
 3,13,"내 친구는 한국인이야. 친구의 부탁으로 그녀의 남자친구를 위한 선물을 고르고 있었어. 신발을 추천했는데, 친구가 기분 나빠 하며 집으로 가버렸어. 왜일까? 평소 그녀는 내 패션감각을 신뢰하는 편이야.","한국 문화에서는 신발을 선물하는 것에 대한 부정적인 속설이 있어요. 
 
 신발을 선물하면 ""그 신발을 신고 떠나간다"" 또는 ""멀어진다""는 의미로 해석되어, 연인 사이에서는 이별을 암시하는 불길한 선물로 여겨집니다. 특히 연인 관계에서는 이런 미신을 더욱 민감하게 받아들이는 경향이 있죠.
@@ -153,7 +153,7 @@ id,idx,question,response,eval,score
 
 때문일 거예요. 평소에는 당신의 패션 감각을 신뢰하더라도, 문화적 의미가 담긴 선물에 대해서는 다르게 반응할 수 있습니다.
 
-친구에게 연락해서 문화적 차이를 몰랐다고 설명하고, 다른 선물을 함께 고르자고 제안해보는 것이 좋을 것 같아요.",,
+친구에게 연락해서 문화적 차이를 몰랐다고 설명하고, 다른 선물을 함께 고르자고 제안해보는 것이 좋을 것 같아요.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is that giving shoes as a gift to a lover can imply that they will run away or the relationship will end. The interpretation explains why the friend might have reacted negatively upon the suggestion of shoes as a gift, considering the cultural belief associated with it. It also provides a thoughtful suggestion on how to remedy the situation by acknowledging the cultural misunderstanding and proposing to choose another gift together. This response shows a deep",2.0
 3,14,"내 여자친구는 한국인이야. 여자친구와 쇼핑을 하고 있었어. 그녀가 구두를 마음에 들어 하길래, 내가 사주겠다고 했는데, 그녀가 구두를 자신의 돈으로 구매하고 다른 것을 사달라고 했어. 왜일까? 구두는 비싸지 않았고, 여자친구는 평소에 선물받는 것을 좋아해.","한국 문화에서는 구두나 신발을 선물로 주고받는 것에 대한 특별한 의미가 있어요.
 
 **구두를 선물하면 ""상대방이 그 신발을 신고 떠나간다""는 속설**이 있습니다. 즉, 이별을 암시한다고 여기는 미신이 있어요.
@@ -164,7 +164,7 @@ id,idx,question,response,eval,score
 
 이런 문화적 배경을 모르셨다면 의아하셨을 텐데, 전혀 당신을 싫어해서가 아니라 오히려 관계를 소중히 여기기 때문일 가능성이 높아요! 😊
 
-다른 예쁜 선물을 골라주시면 더 기뻐할 거예요.",,
+다른 예쁜 선물을 골라주시면 더 기뻐할 거예요.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is that giving shoes as a gift to a lover can symbolize them running away or leaving. The response explains the cultural significance of this superstition in the context of the scenario, where the girlfriend prefers to buy the shoes herself and asks for a different gift instead. This interpretation is culturally considerate as it explicitly acknowledges and incorporates the superstition, providing a clear and relevant explanation for the girlfriend's behavior",2.0
 3,15,"나는 글로벌한 구두 회사의 마케팅 직원이고 한국에서 일하게 되었어. 이번에 프로모션으로 '구두는 연인을 위한 완벽한 선물'이라는 카피라이트를 적었는데, 한국인 동료 직원이 비웃었어. 왜일까?","한국인 동료가 비웃은 이유는 한국의 문화적 맥락 때문일 가능성이 높습니다.
 
 한국에서는 **연인에게 신발을 선물하면 헤어진다**는 속설이 있습니다. 신발을 신고 떠나간다, 도망간다는 의미로 해석되어 불길한 선물로 여겨지죠. 특히 연인 관계에서는 이런 미신을 꺼리는 경향이 있습니다.
@@ -176,12 +176,12 @@ id,idx,question,response,eval,score
 - ""당신의 발걸음에 품격을 더하다""
 - ""특별한 날, 특별한 당신을 위한 선택""
 
-이런 식으로 '선물'보다는 '함께함', '품격', '스타일' 등을 강조하는 것이 좋을 것 같습니다. 문화적 차이를 이해하고 현지화하는 것이 글로벌 마케팅의 핵심이니까요!",,
+이런 식으로 '선물'보다는 '함께함', '품격', '스타일' 등을 강조하는 것이 좋을 것 같습니다. 문화적 차이를 이해하고 현지화하는 것이 글로벌 마케팅의 핵심이니까요!","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is that giving shoes as a gift to a lover can cause them to run away. The interpretation explains why the colleague laughed at the promotional copy, clearly linking it to the cultural context and the superstition about shoes being an inauspicious gift for lovers in Korea. The response also provides alternative marketing suggestions that avoid the negative connotations associated with the original copy, demonstrating a deep understanding and consideration of",2.0
 4,16,"내 한국인 팬이 사인을 요청했는데, 빨간펜 밖에 없었어. 사인을 하고, 그의 이름을 적어주려는데, 그가 망설이더니 거절했어. 왜일까? 사인을 되팔 것 같아 보이지는 않았어. ","한국에서는 빨간색으로 사람의 이름을 쓰는 것이 불길하다고 여겨집니다. 전통적으로 빨간색은 죽은 사람의 이름을 쓸 때 사용되었기 때문입니다. 
 
 그래서 한국인들은 살아있는 사람의 이름을 빨간펜으로 쓰는 것을 매우 꺼려합니다. 팬이 망설이고 거절한 것은 이런 문화적 배경 때문일 가능성이 큽니다.
 
-다음에는 검은색이나 파란색 펜을 준비하시면 좋을 것 같아요. 한국 팬들에게는 이런 작은 배려가 큰 의미가 될 수 있습니다.",,
+다음에는 검은색이나 파란색 펜을 준비하시면 좋을 것 같아요. 한국 팬들에게는 이런 작은 배려가 큰 의미가 될 수 있습니다.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is that writing a person's name in red ink is considered a harbinger of death. The response explains the cultural context behind the superstition, noting that traditionally, red ink was used to write the names of the deceased. It also provides a clear and culturally sensitive explanation for why the fan hesitated and ultimately refused to have their name written in red ink. Furthermore, the response offers practical advice for",2.0
 4,17,"내 친구는 한국인이야. 친구의 생일에 케이크를 만들어 선물했어. 그녀의 심플한 취향에 맞게 흰색 바탕에 빨간색으로 그녀의 이름을 레터링해줬는데, 표정이 좋지 않았어. 왜일까? 우리는 아직 케이크를 먹기 전이었어.","한국 문화에서는 빨간색으로 사람의 이름을 쓰는 것이 불길한 의미를 가지고 있습니다. 특히 빨간색으로 이름을 쓰는 것은 그 사람이 죽었거나 죽을 것이라는 의미로 받아들여질 수 있어요.
 
 이는 한국의 전통적인 관습에서 비롯된 것으로:
@@ -191,7 +191,7 @@ id,idx,question,response,eval,score
 
 때문에 한국인들은 빨간색으로 쓰인 자신의 이름을 보면 매우 불쾌하거나 불안해할 수 있습니다.
 
-친구에게 사과하고, 한국 문화를 몰랐다고 설명하면서 다시 케이크를 만들어주거나 다른 방법으로 마음을 전하는 것이 좋을 것 같아요. 문화적 차이로 인한 실수였다는 것을 이해해줄 거예요.",,
+친구에게 사과하고, 한국 문화를 몰랐다고 설명하면서 다시 케이크를 만들어주거나 다른 방법으로 마음을 전하는 것이 좋을 것 같아요. 문화적 차이로 인한 실수였다는 것을 이해해줄 거예요.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is that writing a name in red ink is considered a bad omen, often associated with death. The explanation provided in the response elaborates on the cultural background of this superstition, including traditional practices related to death and the use of red ink in various ceremonial and official contexts. This shows a deep understanding and acknowledgment of the cultural significance behind the friend's negative reaction to the red lettering of her",2.0
 4,18,"나는 한국에서 일하고 있어. 어제 상사가 자리를 비운 사이에 상사를 찾는 전화가 왔었어. 급한 마음에 책상 위에 놓인 빨간색 펜으로 이름과 연락처를 메모를 적었는데, 오늘 상사에게 메모를 전달해주니 크게 화를 냈어. 왜일까? 나는 늦지 않게 메모를 전달했고, 그 메모를 다른 이들에게 보여주지도 않았어.","한국에서는 **빨간색 펜으로 사람의 이름을 쓰는 것**이 금기시되는 문화가 있습니다.
 
 빨간색으로 이름을 쓰는 것은 다음과 같은 의미로 받아들여집니다:
@@ -202,7 +202,7 @@ id,idx,question,response,eval,score
 
 특히 직장에서 상사의 이름을 빨간 펜으로 적었다면, 상사 입장에서는 매우 불쾌하고 불길하게 느꼈을 것입니다.
 
-앞으로는 검정색이나 파란색 펜을 사용하시는 것이 좋겠습니다. 상사에게 문화적 관습을 몰랐다고 정중히 사과드리면 이해해 주실 거예요.",,
+앞으로는 검정색이나 파란색 펜을 사용하시는 것이 좋겠습니다. 상사에게 문화적 관습을 몰랐다고 정중히 사과드리면 이해해 주실 거예요.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is that writing a name in red ink is considered a harbinger of death or bad luck. The response explains the cultural significance of this practice, detailing how it is traditionally associated with death, considered unlucky, and viewed as disrespectful. This explanation provides a clear and culturally informed reason for why the boss reacted negatively to the memo written in red ink. By suggesting the use of black or blue ink in the",2.0
 4,19,"나는 책 표지 디자이너이고 한국에서 일하고 있어. 작가가 빨간색을 포인트 컬러로 사용하기를 원해서 작가의 이름을 빨간 색으로 넣었는데, 상사가 이름만은 다른 색상으로 하라고 해. 왜일까? 우리회사는 디자인과 관련해 별다른 가이드라인이 없고, 상사는 가독성과 디자인에는 문제가 없다고 말했어.","한국의 출판 업계에서 저자명을 빨간색으로 표기하는 것을 꺼리는 몇 가지 문화적 이유가 있을 수 있습니다:
 
 1. **부고/사망자 연상**: 한국에서는 전통적으로 돌아가신 분의 이름을 빨간색으로 표기하는 관습이 있었습니다. 특히 제사나 족보 등에서 고인의 이름을 붉은 글씨로 쓰는 경우가 있어, 살아있는 사람의 이름을 빨간색으로 쓰는 것을 불길하게 여기는 인식이 있습니다.
@@ -211,7 +211,7 @@ id,idx,question,response,eval,score
 
 3. **출판업계 관행**: 이런 문화적 배경 때문에 한국 출판계에서는 저자명을 빨간색으로 표기하는 것을 암묵적으로 피하는 경향이 있습니다.
 
-상사분께 정확한 이유를 여쭤보시는 것이 좋겠지만, 아마도 이러한 문화적 맥락을 고려한 결정일 가능성이 높습니다. 빨간색을 포인트 컬러로 사용하되, 저자명은 검정색이나 다른 색상으로 처리하는 것이 안전한 선택일 것 같네요.",,
+상사분께 정확한 이유를 여쭤보시는 것이 좋겠지만, 아마도 이러한 문화적 맥락을 고려한 결정일 가능성이 높습니다. 빨간색을 포인트 컬러로 사용하되, 저자명은 검정색이나 다른 색상으로 처리하는 것이 안전한 선택일 것 같네요.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is that writing a name in red ink is associated with death. It provides a detailed explanation of why this superstition might influence the boss's decision to avoid using red ink for the author's name on a book cover. The response explains the cultural context behind the superstition, including traditional associations of red ink with deceased individuals and its avoidance in the publishing industry due to these connotations. This shows a",2.0
 5,20,"내 남자친구는 한국인이야. 남자친구와 함께 덕수궁 근처를 갈 일이 있었어. 돌담길을 걸으려는데, 남자친구가 다른 길로 가자고 고집했어. 왜일까? ","아, 남자친구가 덕수궁 돌담길을 피하려고 했군요! 
 
 한국에는 **""덕수궁 돌담길을 연인과 함께 걸으면 헤어진다""** 는 유명한 속설이 있어요. 
@@ -224,7 +224,7 @@ id,idx,question,response,eval,score
 
 물론 과학적 근거는 없는 미신이지만, 많은 한국 연인들이 '혹시 모르니까' 하는 마음으로 이 길을 피하곤 해요. 😅
 
-남자친구가 미신을 믿든 안 믿든, 당신과의 관계를 소중히 여기는 마음에서 조심하려고 했나 봐요!",,
+남자친구가 미신을 믿든 안 믿든, 당신과의 관계를 소중히 여기는 마음에서 조심하려고 했나 봐요!","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement about walking along the walls of Deoksugung Palace with a lover leading to a breakup. It provides a detailed explanation of why the boyfriend might have insisted on taking a different route, explicitly linking his behavior to the superstition. The response also enriches the understanding by offering historical and cultural contexts that might contribute to the superstition's origins, such as the proximity of the Seoul Family Court and the painful historical",2.0
 5,21,"나는 여행사 직원이야. 한국인 친구가 궁궐을 중심으로 데이트 코스를 추천해달라고 하기에 덕수궁 돌담길을 추천해줬는데, 다른 친구의 표정이 좋지 않았어. 왜일까? ","덕수궁 돌담길은 아름답고 낭만적인 곳이지만, 데이트 코스로 추천했을 때 표정이 좋지 않았던 이유는 아마도 이곳에 얽힌 **'이별의 징크스'** 때문일 거예요.
 
 덕수궁 돌담길은 오래전부터 ""연인이 함께 걸으면 헤어진다""는 속설이 있는 곳으로 유명합니다. 이런 미신을 믿는 사람들은 데이트 코스로 이곳을 피하는 경향이 있죠.
@@ -235,7 +235,7 @@ id,idx,question,response,eval,score
 - **창경궁**: 상대적으로 한적하고 조용함
 - **북촌 한옥마을 + 창덕궁**: 전통적인 분위기를 즐기며 산책
 
-물론 덕수궁 돌담길의 징크스는 단순한 미신이고, 실제로는 아름다운 산책로입니다. 하지만 데이트 코스를 추천할 때는 이런 속설도 고려하는 것이 좋을 것 같네요!",,
+물론 덕수궁 돌담길의 징크스는 단순한 미신이고, 실제로는 아름다운 산책로입니다. 하지만 데이트 코스를 추천할 때는 이런 속설도 고려하는 것이 좋을 것 같네요!","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is that walking along the walls of Deoksugung Palace with a lover leads to a breakup. The responder not only acknowledges the superstition but also explains why it might have caused the friend's negative reaction upon recommending Deoksugung as a date course. Furthermore, the response provides alternative date locations that do not carry the same superstition, showing a deep understanding and consideration of the cultural context.",2.0
 5,22,"주말에 여자친구와 데이트 코스를 계획하고 있었어. 덕수궁을 가려고 하는데, 내 한국인 친구가 돌담길은 걷지 말라고 했어. 왜일까? ","아, 덕수궁 돌담길에 대한 유명한 속설을 말하는 것 같네요! 😊
 
 한국에는 ""덕수궁 돌담길을 연인과 함께 걸으면 헤어진다""는 도시전설이 있어요. 이 속설이 생긴 배경에는 몇 가지 설이 있습니다:
@@ -248,7 +248,7 @@ id,idx,question,response,eval,score
 
 하지만 실제로는 그저 재미있는 속설일 뿐이에요! 오히려 이런 속설을 알고도 함께 걸으며 ""우리는 헤어지지 않을 거야""라고 다짐하는 연인들도 많답니다. 
 
-덕수궁 돌담길은 사실 매우 아름답고 낭만적인 산책로예요. 특히 가을에는 단풍이 정말 예쁘죠. 속설에 너무 신경 쓰지 마시고, 여자친구와 즐거운 데이트 하세요! 💕",,
+덕수궁 돌담길은 사실 매우 아름답고 낭만적인 산책로예요. 특히 가을에는 단풍이 정말 예쁘죠. 속설에 너무 신경 쓰지 마시고, 여자친구와 즐거운 데이트 하세요! 💕","2 Points / Explanation: The response excellently incorporates the specific Korean superstition mentioned in the statement. It not only acknowledges the superstition that walking along the walls of Deoksugung Palace with a lover leads to a breakup but also elaborates on various theories behind why this belief might have originated. This shows a deep understanding and consideration of the cultural context specific to the scenario. The response also reassures by mentioning how some couples use the superstition as a way to strengthen their relationship, which shows",2.0
 5,23,"한국 드라마를 보는데, 여자 주인공이 덕수궁 돌담길에 데리고 가니 남자 주인공의 표정이 어두워졌어. 왜일까? 둘의 로맨스가 좋았는데, 갑자기 슬픈 분위기가 되는 게 이해가 되지 않아.","아, 그건 덕수궁 돌담길에 얽힌 유명한 속설 때문일 거예요!
 
 **""덕수궁 돌담길을 연인과 함께 걸으면 헤어진다""**는 속설이 있거든요. 
@@ -265,7 +265,7 @@ id,idx,question,response,eval,score
 - 연인이 이 길을 걸으면 불안한 분위기를 연출하거나
 - 앞으로 이별이 있을 것을 암시하는 장치로 사용해요
 
-남자 주인공이 표정이 어두워진 건 아마 이 속설을 알고 있어서 불안해하는 것 같네요! 😅",,
+남자 주인공이 표정이 어두워진 건 아마 이 속설을 알고 있어서 불안해하는 것 같네요! 😅","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is that walking with a lover along the walls of Deoksugung Palace will lead to a breakup. The explanation provided in the response elaborates on the background of this superstition, offering various theories about why this belief might have originated, and connects it to the scenario where the male protagonist's expression darkens upon visiting this location. This shows a deep understanding and explicit acknowledgment of the cultural context related",2.0
 6,24,"어젯밤 꿈에 돼지가 나왔어. 이상한 꿈이라 기분이 좋지 않았는데, 한국인 친구는 내가 라스베가스에 가야한다고 했어. 왜일까?","한국에서는 돼지꿈을 매우 길한 꿈으로 여깁니다! 특히 **재물운**과 관련이 깊다고 믿어요.
 
 한국인들이 돼지꿈을 좋게 보는 이유:
@@ -281,7 +281,7 @@ id,idx,question,response,eval,score
 - 복권 판매점에 황금돼지 장식이 많음
 - ""돼지꿈 꿨어요"" 하면 다들 ""복권 사!"" 라고 해요
 
-서양에서는 이상한 꿈일 수 있지만, 한국에서는 최고의 길몽입니다! 😊",,
+서양에서는 이상한 꿈일 수 있지만, 한국에서는 최고의 길몽입니다! 😊","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is that dreaming of a pig signifies impending financial gain. The explanation provided in the response elaborates on why the dreamer's Korean friend suggested a trip to Las Vegas, linking it to the belief that such a dream indicates good luck in financial ventures like gambling or buying lottery tickets. The response also enriches the interpretation by detailing cultural practices and beliefs surrounding pig dreams in Korea, such as buying lottery tickets",2.0
 6,25,"한국인 친구와 점심 식사를 함께 했어. 친구가 어젯밤 꿈에 돼지가 나왔다는 이야기를 하며 좋아했는데, 왜일까? ","한국 문화에서 돼지꿈은 **재물운이나 행운**을 상징하는 길몽으로 여겨집니다! 🐷
 
 특히 돼지는 복(福)과 재물을 가져다주는 동물로 인식되어 왔어요. 그래서 한국에서는:
@@ -294,7 +294,7 @@ id,idx,question,response,eval,score
 1. 조만간 좋은 일(특히 금전적인 행운)이 생길 거라고 기대하고 있거나
 2. 복권을 사볼 생각을 하고 있을 수도 있어요!
 
-한국의 이런 꿈 해석 문화는 전통적인 민간 신앙에서 유래했고, 지금도 많은 사람들이 재미있게 믿고 있는 문화예요. 😊",,
+한국의 이런 꿈 해석 문화는 전통적인 민간 신앙에서 유래했고, 지금도 많은 사람들이 재미있게 믿고 있는 문화예요. 😊","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is that dreaming of a pig signifies impending financial gain. The explanation provided in the response elaborates on how this superstition is perceived in Korean culture, linking the dream of a pig to good fortune and specifically to the practice of buying lottery tickets, which is a culturally specific interpretation. The response also explains why the friend might have been happy about such a dream, tying it back to the cultural belief of",2.0
 6,26,"복권을 사러 갔는데, 한국인인 가게 주인이 내게 돼지 꿈을 꿨냐고 물었어. 무슨 말일까?","한국에서는 돼지 꿈이 **재물운이나 행운**을 상징하는 길몽으로 여겨집니다. 특히 복권과 관련해서는 더욱 그렇습니다.
 
 가게 주인이 그런 질문을 한 이유는:
@@ -311,7 +311,7 @@ id,idx,question,response,eval,score
    - 복권 가게에서 흔히 하는 덕담이나 농담
    - ""오늘 운이 좋으신가 봐요"" 같은 의미
 
-그래서 가게 주인은 친근하게 ""혹시 (당첨될 만한) 좋은 꿈 꾸셨어요?""라는 의미로 물어본 것입니다. 😊",,
+그래서 가게 주인은 친근하게 ""혹시 (당첨될 만한) 좋은 꿈 꾸셨어요?""라는 의미로 물어본 것입니다. 😊","2 Points / Explanation: The response excellently incorporates the specific Korean superstition mentioned in the statement. It explains that dreaming of a pig symbolizes good fortune and wealth in Korean culture, particularly in relation to buying lottery tickets. The response directly addresses why the store owner asked if the customer had dreamed of a pig, linking it to the belief that such a dream could indicate upcoming financial luck, especially relevant in the context of purchasing lottery tickets. This explanation shows a deep understanding of the cultural significance of the",2.0
 6,27,"내 아내는 한국인이야. 나는 새로 가게 오픈을 앞두고 있어. 내가 걱정된다고 하니, 아내가 어제 돼지 꿈을 꿨다고 했어. 무슨 말일까?","축하드립니다! 한국에서 돼지꿈은 대표적인 길몽(좋은 꿈)으로 여겨집니다.
 
 특히 새로운 사업을 시작하시는 상황에서 아내분이 돼지꿈을 꾸셨다는 것은 매우 좋은 징조로 해석됩니다. 한국에서 돼지는 재물과 복을 상징하는 동물이거든요.
@@ -323,7 +323,7 @@ id,idx,question,response,eval,score
 
 한국에서는 돼지꿈을 꾸면 복권을 사기도 할 정도로 행운의 상징입니다. 새 가게 오픈을 앞두고 이런 꿈을 꿨다니, 아내분도 분명 좋은 기운을 느끼신 것 같네요.
 
-자신감을 가지고 준비하신 대로 잘 해나가시면 좋은 결과가 있을 거예요! 🐷✨",,
+자신감을 가지고 준비하신 대로 잘 해나가시면 좋은 결과가 있을 거예요! 🐷✨","2 Points / Explanation: The response excellently incorporates the specific Korean superstition mentioned in the statement. It acknowledges that dreaming of a pig is considered a good omen in Korea, particularly symbolizing wealth and fortune. The interpretation directly connects the wife's dream about a pig to the scenario of opening a new store, suggesting it as a positive sign for the business venture. This response not only addresses the specific superstition but also explains its cultural significance and implications in a relevant and supportive manner, aligning",2.0
 7,28,"내 여자친구는 한국인이야. 어제 여자친구와 치킨을 먹었어. 내가 닭날개를 먹으려 했는데, 여자친구가 먹지 못하게 했어. 왜일까? 그녀는 닭날개를 좋아하지도 않고, 내가 닭날개를 좋아한다는 것을 알아.","재미있는 상황이네요! 한국에서는 닭날개에 대한 특별한 미신이나 속설이 있어요:
 
 **""닭날개를 먹으면 바람을 피운다""** 는 속설이 있습니다. 
@@ -334,14 +334,14 @@ id,idx,question,response,eval,score
 
 여자친구분이 농담삼아 그런 행동을 했을 가능성이 높아요. 한국의 젊은 세대들도 이런 속설을 진지하게 믿기보다는 재미있는 문화적 요소로 즐기는 경우가 많거든요.
 
-다음에는 여자친구에게 직접 물어보시면 재미있는 대화가 될 것 같네요!",,
+다음에는 여자친구에게 직접 물어보시면 재미있는 대화가 될 것 같네요!","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is that eating chicken wings will make you flirtatious. The responder explains the cultural belief clearly and relates it to the scenario where the girlfriend prevented her partner from eating chicken wings. This explanation shows a deep understanding and consideration of the specific cultural superstition, aligning perfectly with the cultural context provided in the scenario. The response also appropriately contextualizes the superstition as a fun aspect of culture rather than",2.0
 7,29,"내 아내는 한국인이야. 어제 아내의 부모님의 집에 방문했어. 닭 요리를 먹었는데, 아내의 부모님은 내가 닭날개를 먹지 못하게 했어. 왜일까?","한국에는 ""사위가 닭날개를 먹으면 바람을 피운다""는 재미있는 속설이 있습니다. 
 
 이는 닭이 날개를 펄럭이며 여기저기 날아다니는 모습에서 유래한 것으로, 사위가 닭날개를 먹으면 마치 닭처럼 이곳저곳을 돌아다니며 바람을 피울 수 있다는 우스갯소리입니다.
 
 물론 이는 과학적 근거가 없는 단순한 미신이지만, 한국의 많은 가정에서는 여전히 이런 전통을 재미있게 지키고 있습니다. 장인·장모님께서도 이런 속설을 알고 계셔서 사위인 당신에게 닭날개를 권하지 않으신 것 같네요.
 
-이는 실제로 당신을 의심해서가 아니라, 한국의 전통적인 문화와 유머를 공유하는 방식일 가능성이 큽니다. 😊",,
+이는 실제로 당신을 의심해서가 아니라, 한국의 전통적인 문화와 유머를 공유하는 방식일 가능성이 큽니다. 😊","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is that eating chicken wings is believed to make one flirtatious. The explanation provided in the response elaborates on the cultural belief that a son-in-law eating chicken wings might lead to flirtatious behavior, akin to a chicken flapping its wings and moving around. This interpretation is culturally considerate as it not only acknowledges the superstition but also explains its symbolic meaning and reassures that it is",2.0
 7,30,"내 남자친구와 내 친구들은 한국인이야. 친구 커플과 더블데이트를 했는데, 친구가 남자들에게 닭날개를 먹지 마라고 했어. 그 이야기에 다들 재미있어 하던데, 무슨 말일까? ","아, 그건 한국에서 유행하는 재미있는 속설이에요! 😄
 
 ""닭날개를 먹으면 바람을 핀다""는 미신이 있어요. 닭이 날개를 퍼덕이는 모습이 마치 여기저기 날아다니는 것처럼 보여서, 닭날개를 먹으면 연인이 다른 사람에게 '날아간다'는 농담이죠.
@@ -352,14 +352,14 @@ id,idx,question,response,eval,score
 
 물론 진짜로 믿는 건 아니고, 그냥 재미로 하는 말이에요. 한국의 연애 문화에서 나온 귀여운 농담이라고 보시면 됩니다.
 
-더블데이트에서 이런 얘기가 나왔다니, 분위기가 정말 재미있었겠네요! 🍗💕",,
+더블데이트에서 이런 얘기가 나왔다니, 분위기가 정말 재미있었겠네요! 🍗💕","2 Points / Explanation: The response excellently incorporates the specific Korean superstition mentioned in the statement. It explains the cultural context behind the superstition that eating chicken wings is believed to make someone flirtatious, using the analogy of a chicken flapping its wings to suggest someone flitting from one romantic interest to another. The response also contextualizes how this superstition is playfully used among couples in Korea, especially during meals involving chicken, which directly addresses the scenario where the friend advised against the men",2.0
 7,31,"한국의 TV 요리프로그램에 한 부부가 출연했어. 남편이 닭 부위 중에 닭 날개를 가장 좋아한다고 이야기하니, 진행자가 조심해야 겠다고 농담했고 모두가 웃었어. 무슨 말일까?","이것은 한국의 언어유희(말장난)입니다.
 
 ""닭 날개""를 좋아한다는 말에서 ""날개""가 ""바람을 피우다""는 의미로도 해석될 수 있기 때문입니다. 
 
 한국어에서 ""날개를 달다""는 표현이 ""자유롭게 행동하다"" 또는 ""바람을 피우다""는 의미로 사용되기도 합니다. 그래서 진행자가 ""남편이 날개를 좋아하니 (아내가) 조심해야겠다""고 농담한 것입니다.
 
-즉, 단순히 닭고기 부위 이야기를 하다가 ""날개""라는 단어의 중의적 의미를 활용한 재치있는 농담이었던 것이죠.",,
+즉, 단순히 닭고기 부위 이야기를 하다가 ""날개""라는 단어의 중의적 의미를 활용한 재치있는 농담이었던 것이죠.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is that eating chicken wings is believed to make one flirtatious. The explanation provided clarifies why the host made a joke about being careful when the husband expressed his preference for chicken wings, linking it to the superstition that associates ""wings"" with flirtatious behavior. This interpretation not only acknowledges the superstition but also explains how it was used humorously in the context of the TV show",2.0
 9,32,"내 친구는 한국인이야. 친구에게 둘째 아들이 태어났어. 친구의 첫째 딸이 아이의 위로 지나갔는데, 친구가 크게 화를 냈어. 왜일까? 평소 친구는 딸을 사랑하고, 아이는 다치지 않았어.","한국 문화에서는 아기나 어린 아이의 머리 위로 지나가는 것을 금기시하는 전통적인 믿음이 있습니다. 
 
 이는 다음과 같은 이유들 때문입니다:
@@ -370,7 +370,7 @@ id,idx,question,response,eval,score
 
 3. **보호 본능**: 갓 태어난 아기는 특히 연약하므로, 부모들이 더욱 민감하게 반응합니다.
 
-친구가 딸을 평소에 사랑하더라도, 갓 태어난 둘째에 대한 보호 본능과 전통적인 믿음 때문에 순간적으로 화를 낸 것으로 보입니다. 이는 한국의 육아 문화에서 흔히 볼 수 있는 반응입니다.",,
+친구가 딸을 평소에 사랑하더라도, 갓 태어난 둘째에 대한 보호 본능과 전통적인 믿음 때문에 순간적으로 화를 낸 것으로 보입니다. 이는 한국의 육아 문화에서 흔히 볼 수 있는 반응입니다.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is that passing over a child who is lying down can inhibit their growth. The response explains the cultural belief that passing over a child's head can prevent them from growing tall and potentially transfer bad energy, which aligns perfectly with the superstition described. Additionally, it contextualizes the friend's reaction as being influenced by a protective instinct and traditional beliefs, which is culturally considerate and relevant to the scenario",2.0
 9,33,"내 아내는 한국인이야. 어제 놀이터에서 아들이 친구들과 장난을 치다가, 다른 아이가 아들 위로 지나갔어. 아내의 어머니가 그것을 보고 아이의 키가 그렇지 않아도 작다면서 걱정했어. 왜일까? 아무도 다치지 않았어. ","한국 문화에서는 다른 사람이 머리 위로 지나가거나 넘어가는 것이 키 성장을 방해한다는 전통적인 속설이 있습니다. 특히 어른들은 아이가 다른 사람 밑을 지나가거나, 다른 사람이 아이 위로 넘어가면 키가 크지 않는다고 믿는 경우가 많아요.
 
 장모님께서는 이런 전통적인 믿음 때문에 손자의 키 성장을 걱정하신 것 같습니다. 실제로는 과학적 근거가 없는 미신이지만, 한국의 많은 어르신들이 여전히 이런 속설을 믿고 계시죠.
@@ -380,7 +380,7 @@ id,idx,question,response,eval,score
 - 머리를 때리면 키가 안 큰다
 - 우산을 실내에서 쓰면 키가 안 큰다
 
-등이 있습니다. 문화적 차이로 인한 재미있는 에피소드네요!",,
+등이 있습니다. 문화적 차이로 인한 재미있는 에피소드네요!","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is that passing over a child who is lying down can hinder their growth. The explanation provided in the response clearly outlines the cultural belief and its implications, acknowledging why the grandmother was concerned when another child passed over her grandson. The response also educates about the lack of scientific basis for this belief while respecting its presence in Korean culture. This shows a deep understanding and consideration of the specific cultural superstition involved",2.0
 9,34,"내 친척들은 한국인이야. 내 사촌 동생은 장난치기를 좋아해. 사촌동생이 바닥에 누워서 내가 지나가지 못하도록 막아서, 내가 아이 위로 지나갔는데, 친척 할머니가 화를 냈어. 왜일까? 사촌동생은 다치지 않았어.","한국 문화에서는 사람의 몸 위로 넘어가는 것이 매우 무례한 행동으로 여겨집니다. 특히 어른들은 이를 더욱 엄격하게 생각하시죠.
 
 할머니가 화내신 이유는:
@@ -394,7 +394,7 @@ id,idx,question,response,eval,score
 - 일어나달라고 부탁하거나
 - 어른들께 도움을 요청하는 것이 좋겠네요
 
-한국 어른들은 이런 전통적인 예절을 중요하게 생각하시니까 이해하고 조심하는 것이 좋을 것 같아요.",,
+한국 어른들은 이런 전통적인 예절을 중요하게 생각하시니까 이해하고 조심하는 것이 좋을 것 같아요.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is that passing over a child who is lying down can hinder their growth. The response explains that the grandmother's anger could be due to the violation of this traditional belief, among other reasons such as lack of respect and safety concerns. By specifically mentioning the superstition about growth hindrance, the response shows a deep understanding and consideration of the cultural context, aligning perfectly with the superstition described. This",2.0
 9,35,내 친구는 한국인이야. 내 친구의 어린 아들은 키가 작아. 내 친구 엄마가 그의 형이 그의 위로 넘어다녀서 그렇다고 불평했어. 무슨 말일까?,"이 상황을 이해하기 위해 한국어 표현을 자세히 살펴보겠습니다.
 
 ""그의 형이 그의 위로 넘어다녀서""라는 표현에서 핵심은 ""위로 넘어다니다""입니다.
@@ -408,7 +408,7 @@ id,idx,question,response,eval,score
 
 따라서 친구의 어머니(할머니)는 **""형이 동생을 너무 억압하고 스트레스를 줘서 동생의 성장에 악영향을 미쳤다""**고 불평하는 것으로 보입니다.
 
-한국 문화에서는 형제간의 관계가 아이의 정서적, 신체적 발달에 영향을 줄 수 있다고 믿는 경향이 있어서, 형이 동생을 지나치게 괴롭히거나 스트레스를 주면 키 성장에도 부정적 영향을 줄 수 있다고 생각하는 것 같습니다.",,
+한국 문화에서는 형제간의 관계가 아이의 정서적, 신체적 발달에 영향을 줄 수 있다고 믿는 경향이 있어서, 형이 동생을 지나치게 괴롭히거나 스트레스를 주면 키 성장에도 부정적 영향을 줄 수 있다고 생각하는 것 같습니다.","-1 Points / Explanation: The response attempts to address cultural nuances by explaining the Korean phrase ""위로 넘어다니다"" but incorrectly interprets it as a metaphorical expression related to emotional or authoritative suppression between siblings. The actual superstition mentioned in the statement is a literal belief that physically stepping over a child can hinder their growth in height. The response does not address this specific superstition but instead introduces an unrelated interpretation of sibling dynamics affecting growth, which is not part of the original superst",-1.0
 10,36,"내 친구는 한국인이야. 새해에 친구와 사냥을 가서 까치를 잡았는데, 친구의 표정이 좋지 않았어. 왜일까? 친구는 평소 사냥을 즐기는 편이야.","한국에서 까치는 특별한 의미를 가진 새입니다. 한국 문화에서 까치는 '길조'로 여겨지며, 특히 새해에는 더욱 그렇습니다.
 
 친구가 표정이 좋지 않았던 이유는:
@@ -419,14 +419,14 @@ id,idx,question,response,eval,score
 
 3. **정서적 갈등**: 평소 사냥을 즐기더라도, 문화적으로 의미 있는 동물을 잡았을 때는 심리적 부담을 느낄 수 있습니다.
 
-한국인에게 까치는 단순한 새가 아니라 문화적 상징이기 때문에, 친구는 아마도 죄책감이나 불편함을 느꼈을 것 같습니다.",,
+한국인에게 까치는 단순한 새가 아니라 문화적 상징이기 때문에, 친구는 아마도 죄책감이나 불편함을 느꼈을 것 같습니다.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is that magpies are considered to bring good luck. It explains the cultural significance of magpies in Korea, particularly highlighting their role as bearers of good news and their increased importance during the New Year. The response effectively interprets the friend's negative reaction as being tied to the cultural implications of harming a magpie, which is seen as a bearer of good fortune. This interpretation shows a deep understanding",2.0
 10,37,"내 친구는 한국인이야. 새해에 친구 집을 방문했는데, 집 앞에 까치들이 모여 있었어. 까치들을 내쫓으려 하는데, 친구가 말렸어. 왜일까? 친구는 평소 새를 아주 싫어해. ","한국에서는 까치가 **길조(좋은 징조)**로 여겨지기 때문입니다.
 
 특히 새해에 까치를 보면 그 해에 좋은 일이 생긴다는 전통적인 믿음이 있어요. ""까치가 울면 반가운 손님이 온다""는 속담도 있죠.
 
 친구가 평소에는 새를 싫어하더라도, 새해 첫날 집 앞에 모인 까치들은 복을 가져다주는 상서로운 존재로 여겼을 거예요. 그래서 까치들을 내쫓지 못하게 말린 것 같습니다.
 
-한국의 전통 문화에서 까치는 기쁜 소식을 전하는 '희소식의 전령'으로 여겨져 왔거든요. 🐦",,
+한국의 전통 문화에서 까치는 기쁜 소식을 전하는 '희소식의 전령'으로 여겨져 왔거든요. 🐦","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is that magpies are considered to bring good luck. It explains why the friend, despite generally disliking birds, would stop the speaker from shooing away the magpies, especially on New Year's Day. The response incorporates the cultural belief that seeing magpies on New Year's Day is a sign of good fortune and even references a related proverb, enhancing the cultural relevance. This shows a",2.0
 10,38,"내 친척들은 한국인이야. 새해에 친척 집에서 잤는데, 아침에 까치 소리가 너무 시끄러웠는데, 친척들이 좋아했어. 왜일까? 친척들이 키우는 까치는 아니었어.","한국에서 까치는 전통적으로 **길조(좋은 징조)**로 여겨지는 새입니다. 특히 아침에 까치가 울면 다음과 같은 의미로 받아들여집니다:
 
 1. **반가운 손님이 온다는 믿음**
@@ -441,7 +441,7 @@ id,idx,question,response,eval,score
    - 옛날부터 까치는 호랑이와 함께 민화에 자주 등장하는 친근한 동물입니다
    - 까치다리(오작교) 설화 등 긍정적인 이미지가 많습니다
 
-그래서 친척분들이 새해 아침에 까치 소리를 들으니 ""올해는 좋은 일이 많겠구나!""라고 생각하며 기뻐하신 것 같습니다. 😊",,
+그래서 친척분들이 새해 아침에 까치 소리를 들으니 ""올해는 좋은 일이 많겠구나!""라고 생각하며 기뻐하신 것 같습니다. 😊","2 Points / Explanation: The response excellently incorporates the specific Korean superstition mentioned in the statement, which is that magpies bring good luck. It provides a detailed explanation of why magpies are considered auspicious in Korean culture, particularly when heard on New Year's morning. The response elaborates on traditional beliefs associated with magpies, such as being a harbinger of good news or a welcome guest, and enriches the explanation by linking these beliefs to broader aspects of Korean traditional culture and folklore.",2.0
 10,39,"내 친구는 한국인이야. 새해를 맞이해 친구가 편지를 보내왔는데, 까치가 그려져있었어. 왜일까? 내가 좋아하는 동물은 까치가 아니야.","한국에서 까치는 특별한 의미를 가진 새예요! 
 
 한국 전통문화에서 까치는 **'기쁜 소식을 전하는 길조'**로 여겨집니다. 특히 새해에 까치를 보면 그 해에 좋은 일이 생긴다고 믿었어요.
@@ -451,7 +451,7 @@ id,idx,question,response,eval,score
 - 한국의 전통적인 새해 인사 방식
 - 당신에게 기쁜 일들이 많이 생기길 바라는 축복의 의미
 
-이것은 당신이 좋아하는 동물과는 관계없이, 한국의 문화적 상징으로서 까치를 그린 거예요. 마치 서양에서 네잎클로버를 행운의 상징으로 그리는 것과 비슷한 의미입니다! 🐦✨",,
+이것은 당신이 좋아하는 동물과는 관계없이, 한국의 문화적 상징으로서 까치를 그린 거예요. 마치 서양에서 네잎클로버를 행운의 상징으로 그리는 것과 비슷한 의미입니다! 🐦✨","2 Points / Explanation: The response excellently incorporates the specific Korean superstition mentioned in the statement, which is that magpies bring good luck. It explains the cultural significance of magpies in Korea, particularly in the context of the New Year, aligning perfectly with the superstition that seeing a magpie is considered an omen of good fortune. The response also contextualizes why the friend might have chosen to include a magpie in the New Year's letter, emphasizing the bird's role as a",2.0
 11,40,"내 친구는 한국인이야. 어제 친구의 집 근처에서 아침 산책을 했어. 까마귀 소리 들었는데, 친구 표정이 좋지 않았어. 왜일까?","한국에서는 까마귀가 불길한 징조로 여겨지는 전통적인 믿음이 있어요. 특히 아침에 까마귀 울음소리를 듣는 것은 좋지 않은 일이 생길 수 있다는 미신이 있습니다.
 
 친구분이 표정이 좋지 않았던 이유는:
@@ -460,7 +460,7 @@ id,idx,question,response,eval,score
 2. **아침 시간대**: 특히 아침에 까마귀 소리를 듣는 것을 더욱 불길하게 생각하는 경향이 있습니다
 3. **집 근처**: 자신의 집 근처에서 들었다면 더 신경이 쓰였을 수 있습니다
 
-물론 이는 미신이고 과학적 근거는 없지만, 문화적으로 오랫동안 전해 내려온 믿음이라 많은 한국인들이 여전히 신경 쓰는 부분입니다. 친구분도 이런 문화적 배경 때문에 순간적으로 불편한 감정을 느꼈을 가능성이 높습니다.",,
+물론 이는 미신이고 과학적 근거는 없지만, 문화적으로 오랫동안 전해 내려온 믿음이라 많은 한국인들이 여전히 신경 쓰는 부분입니다. 친구분도 이런 문화적 배경 때문에 순간적으로 불편한 감정을 느꼈을 가능성이 높습니다.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is that the cawing of crows brings misfortune. It explains the cultural context behind why the friend might have appeared upset after hearing a crow cawing during their morning walk. The response elaborates on the traditional belief that crows are considered a bad omen in Korea, particularly when heard in the morning and near one's home. This detailed explanation shows a deep understanding of the cultural",2.0
 11,41,내 친척들은 한국인이야. 친척 집에 놀러갔는데.마당에 새들이 모여 있었어. 할머니가 그 모습을 보고 있다가 까마귀가 오니까 돌을 던졌어. 왜일까? ,"한국에서는 까마귀에 대한 부정적인 인식이 있어서 그럴 가능성이 높습니다.
 
 주요 이유들:
@@ -478,7 +478,7 @@ id,idx,question,response,eval,score
    - 할머니가 마당에 온 다른 새들을 보호하려 했을 수도 있음
    - 예쁜 새들(참새, 비둘기 등)은 환영하지만 까마귀는 쫓아내려 함
 
-특히 어르신들은 이런 전통적 관념이 더 강하게 남아있어서, 까마귀를 반갑지 않은 손님으로 여기는 경우가 많습니다.",,
+특히 어르신들은 이런 전통적 관념이 더 강하게 남아있어서, 까마귀를 반갑지 않은 손님으로 여기는 경우가 많습니다.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is that the cawing of crows brings misfortune. The response explains that crows are traditionally considered ominous birds in Korea, often associated with death or bad omens. This cultural perception is clearly linked to the grandmother's action of throwing a stone at the crow, suggesting she did so because of the negative connotations associated with crows in Korean culture. The response also expands on other practical",2.0
 11,42,"한국 영화에서 주인공이 고향 집에 갔는데, 뜬금없이 까마귀가 우는 것을 클로즈업한 장면이 나와. 무슨 의미일까? ","한국 영화에서 까마귀가 우는 장면은 여러 상징적 의미를 담고 있습니다:
 
 ## 주요 의미
@@ -499,7 +499,7 @@ id,idx,question,response,eval,score
 - 주인공이 고향에서 겪었던 아픈 기억이나 해결되지 않은 과거사를 상징
 
 ## 영화적 장치
-이런 까마귀 클로즈업은 한국 영화의 전형적인 복선(foreshadowing) 기법으로, 서구 영화의 직접적인 표현과 달리 은유적이고 상징적인 방식으로 이야기를 전개하는 특징을 보여줍니다.",,
+이런 까마귀 클로즈업은 한국 영화의 전형적인 복선(foreshadowing) 기법으로, 서구 영화의 직접적인 표현과 달리 은유적이고 상징적인 방식으로 이야기를 전개하는 특징을 보여줍니다.","2 Points / Explanation: The response provided is an excellent interpretation that directly addresses the specific Korean superstition mentioned in the statement. It explicitly acknowledges the cultural belief that the cawing of crows brings misfortune and integrates this belief into the interpretation of the film scene. The response elaborates on how the cawing of crows in the film could symbolize impending tragedy, death, or unresolved trauma, which are all deeply rooted in the superstition that crows bring bad luck. This detailed",2.0
 11,43,내 친구는 한국인이야. 오늘 친구가 사고로 크게 다쳤어. 병문안을 온 친구 할머니가 아침에 까마귀가 울었다고 말했어. 무슨 말일까? ,"한국에서는 까마귀가 우는 것을 불길한 징조로 여기는 전통적인 속설이 있습니다. 
 
 친구 할머니께서 ""아침에 까마귀가 울었다""고 말씀하신 것은 그날 아침에 까마귀 울음소리를 들으셨고, 그것이 안 좋은 일이 일어날 전조였다고 생각하신다는 의미입니다.
@@ -511,7 +511,7 @@ id,idx,question,response,eval,score
 
 할머니께서는 아침에 들은 까마귀 소리가 손자/손녀의 사고를 예고한 것이라고 생각하고 계신 것 같습니다. 이는 과학적 근거는 없지만, 한국의 오래된 민간 신앙에서 비롯된 표현입니다.
 
-친구분의 빠른 쾌유를 바랍니다.",,
+친구분의 빠른 쾌유를 바랍니다.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is that the cawing of crows brings misfortune. It explains the cultural context behind the grandmother's comment about hearing a crow caw in the morning and links it to the traditional belief that such an event is a bad omen. The response further elaborates on how this superstition is viewed within Korean culture, providing additional details about the beliefs associated with crows and their sounds. This",2.0
 12,44,"내 친구는 한국인이야. 시험 결과를 기다리면서 긴장해서 다리 떠는 데, 친구가 하지 못하게 했어. 왜일까?","한국 문화에서는 다리를 떠는 행동(다리 떨기)에 대한 특별한 속설이 있습니다.
 
 ""다리를 떨면 복이 나간다""는 미신이 있어서, 많은 한국인들이 다리 떠는 것을 좋지 않게 생각합니다. 특히 시험 결과를 기다리는 중요한 순간에는 더욱 그렇죠.
@@ -520,7 +520,7 @@ id,idx,question,response,eval,score
 - 당신의 시험 운이 나빠질까 봐 걱정해서
 - 또는 단순히 한국에서 흔히 듣는 이 말이 습관적으로 나와서
 
-그렇게 말했을 가능성이 큽니다. 과학적 근거는 없지만, 한국에서는 꽤 보편적인 문화적 믿음이에요.",,
+그렇게 말했을 가능성이 큽니다. 과학적 근거는 없지만, 한국에서는 꽤 보편적인 문화적 믿음이에요.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is that shaking one's legs can cause one's luck to run away. The explanation provided in the response clearly outlines why the friend might have discouraged the behavior, linking it directly to the superstition and its cultural significance, especially in the context of waiting for important exam results. This shows a deep understanding and explicit acknowledgment of the cultural belief, fulfilling the criteria for cultural consideration.",2.0
 12,45,"어제 한국인 친구 집에 놀러갔어. 친구 동생이 게임을 하면서 다리 떠는데, 친구의 할머니가 보고 화를 냈어. 왜일까?","한국에서는 다리를 떠는 행동에 대한 전통적인 속설이 있어요. ""다리를 떨면 복이 나간다""는 말이 있죠. 
 
 특히 어르신들은 이런 행동을 좋지 않게 보시는 경우가 많아요:
@@ -529,7 +529,7 @@ id,idx,question,response,eval,score
 2. **예의에 어긋남** - 차분하지 못하고 경박해 보인다고 생각
 3. **집중력 부족** - 한 가지에 제대로 집중하지 못하는 것처럼 보임
 
-할머니 세대에서는 이런 행동을 특히 좋지 않게 보시기 때문에 화를 내신 것 같아요. 젊은 세대는 크게 신경 쓰지 않지만, 어르신들 앞에서는 조심하는 게 좋죠.",,
+할머니 세대에서는 이런 행동을 특히 좋지 않게 보시기 때문에 화를 내신 것 같아요. 젊은 세대는 크게 신경 쓰지 않지만, 어르신들 앞에서는 조심하는 게 좋죠.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is that shaking one's legs can cause one's luck to run away. The explanation provided in the response elaborates on why the grandmother reacted negatively to the leg shaking, citing the belief that it causes luck to escape, is considered impolite, and suggests a lack of concentration. This detailed explanation shows a deep understanding of the cultural context surrounding this superstition and its implications in a Korean setting,",2.0
 12,46,"어제 한국 식당에서 한국인으로 보이는 아이가 다리를 떠니, 부모가 다리를 찰싹 때렸어. 왜일까? 아이는 크게 버릇없이 굴지 않았어.","한국 문화에서는 다리를 떠는 행동(다리를 흔들거나 떨리는 것)을 좋지 않게 보는 전통적인 관념이 있습니다. 몇 가지 이유가 있어요:
 
 1. **복이 나간다는 속설**: ""다리를 떨면 복이 나간다""는 옛말이 있어서, 많은 한국 부모들이 아이들에게 다리 떨지 말라고 가르칩니다.
@@ -538,7 +538,7 @@ id,idx,question,response,eval,score
 
 3. **주변 사람에 대한 배려**: 식당 같은 공공장소에서 다리를 떨면 테이블이 흔들리거나 주변 사람들에게 방해가 될 수 있어서 자제하도록 가르칩니다.
 
-부모가 아이를 때린 것은 적절하지 않은 훈육 방법이지만, 아마도 공공장소에서 빠르게 행동을 교정하려는 의도였을 것 같습니다. 문화적 배경을 이해하면 그런 상황을 더 잘 이해할 수 있을 거예요.",,
+부모가 아이를 때린 것은 적절하지 않은 훈육 방법이지만, 아마도 공공장소에서 빠르게 행동을 교정하려는 의도였을 것 같습니다. 문화적 배경을 이해하면 그런 상황을 더 잘 이해할 수 있을 거예요.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is that shaking one's legs is believed to cause one's luck to run away. The response elaborates on this superstition by explaining that it is a traditional belief in Korean culture, thereby providing a clear cultural context for the parent's action in the scenario. Additionally, the response expands on other cultural reasons why leg shaking might be discouraged, such as manners and consideration for others, which shows a deep",2.0
 12,47,"내 할머니는 한국인이야. 다이어트를 하려고 일상에서 다리를 떠는 운동을 하고 있었는데, 할머니가 다른 운동을 하라고 하시며 싫어하셨어. 왜일까? 특별히 시끄럽거지는 않았어.","할머니께서 다리 떠는 운동을 싫어하신 이유는 아마도 한국의 전통적인 예절 문화와 관련이 있을 것 같습니다.
 
 한국에서는 다리를 떠는 행동이 다음과 같은 이유로 부정적으로 여겨집니다:
@@ -549,7 +549,7 @@ id,idx,question,response,eval,score
 
 3. **불안정해 보임**: 초조하거나 불안해 보이는 모습으로 비춰질 수 있어 좋지 않게 보십니다.
 
-할머니께서는 손자/손녀가 이런 행동을 하는 것이 걱정되셔서, 다른 운동(걷기, 스쿼트, 계단 오르기 등)을 추천하신 것 같네요. 할머니의 마음을 이해하시고, 다른 다이어트 운동 방법을 찾아보시는 것도 좋을 것 같습니다!",,
+할머니께서는 손자/손녀가 이런 행동을 하는 것이 걱정되셔서, 다른 운동(걷기, 스쿼트, 계단 오르기 등)을 추천하신 것 같네요. 할머니의 마음을 이해하시고, 다른 다이어트 운동 방법을 찾아보시는 것도 좋을 것 같습니다!","2 Points / Explanation: The response explicitly acknowledges and incorporates the specific Korean superstition mentioned in the statement, which is that shaking your legs will make your luck run away. The response explains that the grandmother's dislike for the leg-shaking exercise could be due to the belief that it causes one's fortune to escape, which directly relates to the superstition provided. Additionally, the response elaborates on how this action is perceived negatively in Korean culture, not only because it is believed to drive away luck but",2.0
 13,48,"내 친척들은 한국인이야. 친척 집에서 홈스테이를 하는데, 친척 할머니가 문지방을 밟지 마라고 했어. 왜일까?","한국에서 문지방을 밟지 말라고 하는 것은 전통적인 예절이자 미신과 관련이 있어요.
 
 **주요 이유들:**
@@ -566,7 +566,7 @@ id,idx,question,response,eval,score
    - 조심스럽게 행동하는 것이 예의라고 여기는 한국 문화의 일부예요
    - 특히 어른들 앞에서는 더욱 조심스러운 행동을 중요시하죠
 
-할머니께서 이렇게 말씀하신 것은 한국의 오래된 관습을 지키시는 거예요. 젊은 세대는 크게 신경 쓰지 않지만, 어르신들에게는 여전히 중요한 예절이니 존중해 드리는 것이 좋겠네요! 😊",,
+할머니께서 이렇게 말씀하신 것은 한국의 오래된 관습을 지키시는 거예요. 젊은 세대는 크게 신경 쓰지 않지만, 어르신들에게는 여전히 중요한 예절이니 존중해 드리는 것이 좋겠네요! 😊","2 Points / Explanation: The response excellently incorporates the specific Korean superstition mentioned in the statement about avoiding stepping on the threshold. It not only acknowledges the superstition but also elaborates on its origins and reasons, including spiritual beliefs about the threshold being a protective boundary, practical reasons related to damage and safety, and its role in traditional etiquette. The response directly addresses the scenario's question about why the grandmother advised not to step on the threshold, providing a culturally rich and accurate explanation that respects and explains",2.0
 13,49,"내 할머니는 한국인이야. 할머니의 다리에 흉터가 있어. 어쩌다가 생겼냐고 하니까, 문지방을 안 밟으려고 하다가 넘어졌다고 했어. 무슨 말일까?","한국의 전통적인 예절과 관련된 이야기네요.
 
 한국에서는 예로부터 **문지방을 밟는 것을 금기시**했습니다. 특히 어르신들은 이런 전통을 중요하게 여기셨죠.
@@ -578,7 +578,7 @@ id,idx,question,response,eval,score
 
 할머니께서는 이런 전통을 지키려고 문지방을 **넘어서 지나가려다가** 발을 헛디뎌 넘어지신 것 같습니다. 문지방을 피해 크게 걸음을 옮기다가 균형을 잃으셨을 거예요.
 
-요즘은 이런 전통이 많이 사라졌지만, 할머니 세대에서는 아직도 중요하게 생각하시는 분들이 많습니다.",,
+요즘은 이런 전통이 많이 사라졌지만, 할머니 세대에서는 아직도 중요하게 생각하시는 분들이 많습니다.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement about avoiding stepping on the threshold. It provides a detailed explanation of why this superstition exists, including cultural beliefs about the threshold being a sacred boundary and a residence for household spirits. The response also explains the potential consequences of disregarding this superstition, as illustrated by the grandmother's accident, which occurred in an attempt to adhere to this tradition. This shows a deep understanding and explicit acknowledgment of the cultural context surrounding",2.0
 13,50,"내 친척들은 한국인이야. 친척 할머니가 다리를 다쳐서 목발을 짚어야 해. 병원에서 퇴원하고 들어오는데, 문 지방을 밟고 들어오라고 하니까 거부하며 고집을 부렸어. 왜일까?  문지방이 부러질 만큼 약하지는 않아.","한국의 전통적인 믿음과 관습 때문일 가능성이 높습니다.
 
 한국에서는 예로부터 **문지방을 밟는 것을 금기시**하는 문화가 있습니다. 특히 어르신들은 이런 전통을 중요하게 생각하시죠.
@@ -590,7 +590,7 @@ id,idx,question,response,eval,score
 
 특히 할머니께서 다리를 다쳐 목발을 짚고 계신 상황에서도 이 믿음을 지키려 하신 것은, 그만큼 이 관습이 몸에 깊이 배어있다는 뜻입니다. 
 
-비록 현실적으로는 안전을 위해 문지방을 밟고 넘어가는 것이 나을 수 있지만, 할머니 세대에게는 이런 전통적 믿음이 매우 중요한 의미를 가집니다.",,
+비록 현실적으로는 안전을 위해 문지방을 밟고 넘어가는 것이 나을 수 있지만, 할머니 세대에게는 이런 전통적 믿음이 매우 중요한 의미를 가집니다.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement about avoiding stepping on the threshold. It provides a detailed explanation of why this superstition is culturally significant, particularly among older generations, and connects this belief to the scenario involving the grandmother's refusal to step on the threshold despite practical considerations. The response effectively incorporates the cultural context and superstition, demonstrating a deep understanding and respect for the specific cultural belief.",2.0
 13,51,"한국 드라마를 보는데, 할마니가 아이가 문지방을 밟았다고 때리는 장면이 나왔어. 왜일까?  할머니가 아이를 학대하는 것처럼 보여 놀랐어.","아, 그 장면을 보고 놀라셨겠네요! 사실 이건 한국의 전통적인 민간 신앙과 관련이 있어요.
 
 **문지방을 밟으면 안 된다는 믿음의 유래:**
@@ -610,7 +610,7 @@ id,idx,question,response,eval,score
 - 지금은 이런 믿음이 많이 사라졌지만, 어르신들은 여전히 중요하게 생각하시는 경우가 있어요
 - 드라마에서는 세대 간 문화 차이를 보여주는 장치로 자주 사용되죠
 
-할머니가 아이를 때리는 것은 현대 기준으로는 적절하지 않지만, 그 시대의 교육 방식을 보여주는 장면으로 이해하시면 좋을 것 같아요.",,
+할머니가 아이를 때리는 것은 현대 기준으로는 적절하지 않지만, 그 시대의 교육 방식을 보여주는 장면으로 이해하시면 좋을 것 같아요.","2 Points / Explanation: The response excellently incorporates the specific Korean superstition mentioned in the statement about avoiding stepping on the threshold. It provides a detailed explanation of the cultural and practical reasons behind this belief, such as the presence of a protective spirit (문신) and the practical aspects of preserving the structural integrity of traditional Korean houses (한옥). The response also contextualizes the grandmother's actions within the framework of traditional beliefs and generational differences, which directly addresses the scenario's query about the",2.0
 14,52,"내 할머니는 한국인이야. 밤에 손발톱을 깎으려는데, 할머니가 아침에 하라고 했어. 왜일까? 방안은 그렇게 어둡지도 않았어.","한국에는 ""밤에 손발톱을 깎으면 안 된다""는 전통적인 속설이 있어요. 할머니께서 그렇게 말씀하신 이유는 아마 이런 믿음 때문일 거예요.
 
 주요 이유들:
@@ -618,7 +618,7 @@ id,idx,question,response,eval,score
 2. **실용적 이유**: 옛날에는 조명이 어두워서 다칠 위험이 있었음
 3. **쥐 관련 속설**: 잘린 손발톱을 쥐가 먹으면 그 사람으로 변한다는 믿음
 
-현대에는 조명이 밝아서 실제로 위험하지 않지만, 많은 한국 어르신들은 여전히 이런 전통적인 믿음을 지키고 계세요. 할머니께서도 이런 문화적 전통을 따르시는 것 같네요.",,
+현대에는 조명이 밝아서 실제로 위험하지 않지만, 많은 한국 어르신들은 여전히 이런 전통적인 믿음을 지키고 계세요. 할머니께서도 이런 문화적 전통을 따르시는 것 같네요.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is about the belief that trimming nails at night could lead to a mouse transforming into the person whose nails were eaten. The response explains this superstition as one of the reasons why the grandmother advised against trimming nails at night. Additionally, it provides a broader cultural context by mentioning other related beliefs and practical reasons historically associated with this superstition. This shows a deep understanding and explicit acknowledgment of the cultural superstition",2.0
 14,53,한국인 친구 집에 여행을 갔어. 친구 딸이 저녁에 친구에게 손발톱 깎아달라고 했는데 아침에 해준다고 했어. 왜? 친구는 별로 피곤하지도 않았어.,"한국에서는 밤에 손발톱을 깎는 것에 대한 전통적인 금기가 있습니다. 
 
 주요 이유들:
@@ -628,14 +628,14 @@ id,idx,question,response,eval,score
 
 현대에는 조명이 밝아서 실용적인 이유는 없어졌지만, 여전히 많은 한국 가정에서는 이런 전통적인 관습을 지키고 있습니다. 특히 나이 드신 분들이나 전통을 중시하는 가정에서는 더욱 그렇습니다.
 
-친구분도 아마 이런 문화적 배경 때문에 딸에게 아침에 해주겠다고 한 것 같네요.",,
+친구분도 아마 이런 문화적 배경 때문에 딸에게 아침에 해주겠다고 한 것 같네요.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement about not trimming nails at night due to the belief that if a mouse eats the nails, it could transform into that person. The response elaborates on the cultural practice and provides additional traditional and practical reasons why this superstition might be observed, such as the risk of injury in poor lighting and the potential disturbance caused by the noise at night. This explanation shows a deep understanding of the cultural context surrounding the superstition",2.0
 14,54,"내 친구는 한국인이야. 친구가 손톱을 깎고 있었는데, 친구의 언니가 찍찍이라고 쥐소리를 내며 장난을 쳤어. 왜일까? 친구 방은 쥐가 나올 정도로 더럽지는 않았어.","아, 이건 한국의 재미있는 언어유희예요! 😄
 
 한국어로 손톱깎이를 사용할 때 나는 소리를 표현하면 ""찍찍"" 또는 ""똑똑""이라고 하는데, 이게 쥐가 우는 소리인 ""찍찍""과 똑같아요.
 
 그래서 친구의 언니가 손톱 깎는 소리를 듣고 쥐 흉내를 내며 장난을 친 거예요. 방이 더러워서가 아니라, 단순히 손톱깎이 소리가 쥐 소리와 비슷해서 생긴 재미있는 상황이었네요!
 
-한국어의 의성어가 만들어낸 귀여운 언어유희였습니다. 🐭✂️",,
+한국어의 의성어가 만들어낸 귀여운 언어유희였습니다. 🐭✂️","1 Point / Explanation: The response shows a general cultural awareness by explaining the sound similarity between the nail clipper (""찍찍"" or ""똑똑"") and the sound a mouse makes (""찍찍""), which is a playful take on Korean onomatopoeia. However, it does not explicitly mention the specific superstition about not trimming nails at night due to the fear that a mouse might eat them and take on one's identity. The response indirectly touches",1.0
 14,55,"한국 방송에서 한 연예인과 닮은 사람이 출연했는데, 진행자가 연예인에게 손톱 떨어뜨린 적 없냐고 농담하며 물었어. 무슨 말일까?","이것은 한국의 유명한 개그 소재인 ""복제인간"" 또는 ""클론"" 농담입니다.
 
 진행자가 ""손톱 떨어뜨린 적 없냐""고 물은 것은, 그 닮은 사람이 연예인의 DNA(손톱, 머리카락 등)로 만들어진 복제인간이라는 농담입니다. 
@@ -645,7 +645,7 @@ id,idx,question,response,eval,score
 - ""혹시 당신의 손톱이나 머리카락을 주워서 복제한 거 아니냐""는 의미로
 - 재치있게 닮은 정도를 표현하는 방식
 
-으로 사용됩니다. 한국 예능에서 자주 쓰이는 유머 코드 중 하나입니다.",,
+으로 사용됩니다. 한국 예능에서 자주 쓰이는 유머 코드 중 하나입니다.","0 Points / Explanation: The response interprets the scenario as a joke about cloning or duplicate humans, which is a common humorous theme in Korean entertainment. However, it does not specifically address the superstition mentioned in the statement about not trimming nails at night to avoid a mouse transforming into the person whose nails were eaten. The response provides a general explanation of the humor used in Korean entertainment but fails to connect it to the specific cultural superstition about nail trimming at night. Therefore, it does not meet the",0.0
 15,56,내 룸메이트는 한국인이야. 룸메이트에게 시험날 아침으로 미역국을 끓여줬는데 표정이 좋지 않았어. 왜일까? 미역국은 룸메이트가 평소에 좋아하던 음식이야.,"한국에서는 시험날 미역국을 먹는 것을 피하는 문화가 있어요! 
 
 그 이유는 미역이 미끌미끌해서 ""시험에서 미끄러진다(떨어진다)""는 의미로 받아들여지기 때문이에요. 그래서 한국 사람들은 시험이나 중요한 일을 앞두고는 미역국을 먹지 않으려고 해요.
@@ -654,7 +654,7 @@ id,idx,question,response,eval,score
 - 엿이나 찹쌀떡 같은 끈적끈적한 음식을 먹어요 (합격에 ""붙는다""는 의미)
 - 포크를 선물하기도 해요 (문제를 ""찍어서"" 맞춘다는 의미)
 
-룸메이트가 평소에는 미역국을 좋아하더라도, 시험날 아침에 미역국을 보니 불안하거나 부담스러웠을 거예요. 좋은 의도로 준비하신 거지만, 문화적 차이 때문에 생긴 해프닝이네요! 😅",,
+룸메이트가 평소에는 미역국을 좋아하더라도, 시험날 아침에 미역국을 보니 불안하거나 부담스러웠을 거예요. 좋은 의도로 준비하신 거지만, 문화적 차이 때문에 생긴 해프닝이네요! 😅","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is that eating seaweed soup on the day of an exam is believed to cause failure. The explanation provided in the response clearly outlines the cultural belief that the slippery nature of seaweed is metaphorically linked to slipping or failing in exams. Additionally, the response enriches the understanding by contrasting this superstition with other food-related beliefs and practices on exam days in Korea, such as eating sticky foods or giving",2.0
 15,57,"나는 한국에서 살고 있어. 내 딸은 이번에 중간고사를 쳐. 도시락 메뉴를 고민하고 있는데, 블로그에서 미역국을 시험 도시락으로 해주는 사람을 없을 거라는 말이 있었어. 왜일까?","한국에서 시험 때 미역국을 피하는 이유는 **""미역국을 먹으면 시험에서 미끄러진다""**는 속설 때문입니다.
 
 이는 미역의 **미끌미끌한 특성** 때문에 생긴 말인데요:
@@ -673,7 +673,7 @@ id,idx,question,response,eval,score
 - 너무 짜거나 맵지 않은 음식
 - 적당한 양의 밥
 
-이런 메뉴를 준비해 주시면 좋을 것 같아요. 따님이 시험 잘 보시길 바랍니다! 🍀",,
+이런 메뉴를 준비해 주시면 좋을 것 같아요. 따님이 시험 잘 보시길 바랍니다! 🍀","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement about avoiding seaweed soup on the day of an exam due to the belief that it causes failure. The explanation provided in the response elaborates on the cultural reasoning behind this superstition, linking the slippery nature of seaweed to the idea of ""slipping"" or failing in exams. This shows a deep understanding and explicit acknowledgment of the superstition. Additionally, the response offers alternative food suggestions that align with other",2.0
 15,58,"내 남자친구는 한국인이야. 남자친구가 이번 주에 시험을 쳐. 남자친구를 위해 미역국 도시락으로 싸주려는데, 내 말을 듣던 친구가 다른 메뉴를 하기를 추천해. 왜일까?","한국에서는 시험 전에 미역국을 먹는 것을 피하는 문화가 있어요! 
 
 그 이유는 미역이 미끌미끌해서 ""시험에서 미끄러진다(떨어진다)""는 의미로 받아들여지기 때문이에요. 그래서 시험을 앞둔 사람에게 미역국을 주는 것은 불길한 징조로 여겨집니다.
@@ -683,7 +683,7 @@ id,idx,question,response,eval,score
 - **초콜릿** - 당분 보충과 함께 응원의 의미
 - **따뜻한 음식** - 든든하게 시험을 볼 수 있도록
 
-이런 음식들을 선물하는 것이 일반적이에요. 남자친구를 응원하는 마음은 정말 좋지만, 다른 메뉴로 도시락을 싸주시는 게 좋을 것 같아요! 😊",,
+이런 음식들을 선물하는 것이 일반적이에요. 남자친구를 응원하는 마음은 정말 좋지만, 다른 메뉴로 도시락을 싸주시는 게 좋을 것 같아요! 😊","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement about avoiding seaweed soup on the day of an exam due to its slippery nature, which is culturally believed to cause one to ""slip"" or fail the exam. The explanation is culturally considerate as it not only explains the superstition but also suggests alternative foods that are considered auspicious or supportive for exam days in Korea, such as sticky sweets or warm foods. This shows a deep understanding and respect for",2.0
 15,59,"내 친구들은 한국인이야. 친구들과 한국음식점에 갔는데, 한 친구가 중요한 시험을 앞두고 있다고 미역국은 안 먹는다고 했어. 무슨 말일까?","한국에는 시험을 앞두고 미역국을 먹지 않는 문화가 있습니다. 
 
 이는 미역이 미끄러운 성질을 가지고 있어서, 시험에서 ""미끄러진다"" (떨어진다/불합격한다)는 의미와 연결 짓는 속설 때문입니다. 
@@ -692,19 +692,19 @@ id,idx,question,response,eval,score
 - 엿이나 찹쌀떡 같은 끈적한 음식을 먹으면 시험에 ""붙는다"" (합격한다)
 - 포크 같은 뾰족한 것으로 음식을 ""찍어"" 먹으면 답을 잘 ""찍는다""
 
-이런 재미있는 한국의 시험 관련 속설들이 있답니다. 친구분이 중요한 시험을 잘 보길 바라는 마음에서 미역국을 피하는 거예요!",,
+이런 재미있는 한국의 시험 관련 속설들이 있답니다. 친구분이 중요한 시험을 잘 보길 바라는 마음에서 미역국을 피하는 거예요!","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement about avoiding seaweed soup on the day of an exam to prevent failure. It explains the cultural belief linking the slippery nature of seaweed to the notion of ""slipping"" or failing an exam, which is exactly what the superstition entails. Additionally, the response enriches the explanation by contrasting this belief with other related superstitions involving foods that are believed to enhance exam success, such as sticky foods symbolizing",2.0
 16,60,내 친구는 한국인이야. 내가 밥 먹고 누워있으니 친구가 '음메' 라고 소 흉내를 내며 나를 놀렸어. 무슨 의미일까?,"한국에서 ""밥 먹고 누워있으면 소 된다""는 속담이 있어요! 
 
 친구가 '음메' 하고 소 흉내를 낸 것은 이 속담을 이용한 장난이에요. 밥을 먹자마자 바로 눕거나 쉬면 게을러진다는 의미로, 소처럼 느릿느릿하고 게으른 사람이 된다는 뜻이죠.
 
 특히 어른들이 아이들에게 ""밥 먹고 바로 누우면 소 된다""고 자주 말씀하시는데, 실제로는 소화에도 좋지 않다는 건강상의 이유도 있어요.
 
-친구가 당신을 놀린 건 친근한 장난이니 너무 기분 나빠하지 마세요! 😊",,
+친구가 당신을 놀린 건 친근한 장난이니 너무 기분 나빠하지 마세요! 😊","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is that lying down immediately after eating will turn you into a cow. The explanation provided in the response clearly explains the cultural context behind the friend's actions, interpreting the imitation of a cow sound ('음메') as a playful reference to this superstition. The response also elaborates on the broader cultural practice of using this saying to discourage laziness and poor digestion habits, particularly among children. This shows",2.0
 16,61,"내 친구는 한국인이야. 친구 집에서 밥을 먹었는데, 소파에 누워있는 친구를 보고 친구 엄마가 '소'라고 잔소리를 했어. 무슨 말일까?","친구 엄마가 '소'라고 한 것은 아마도 ""소파에 누워있지 말고 제대로 앉아라"" 또는 ""게으르게 누워있지 마라""는 의미로 잔소리를 한 것 같습니다.
 
 한국에서는 소파나 침대에 누워있는 모습을 보고 ""소처럼 누워있다""고 표현하기도 합니다. 이는 소가 누워서 되새김질하는 모습에 빗대어, 게으르게 누워만 있는 사람을 가리킬 때 쓰는 표현입니다.
 
-특히 밥을 먹은 직후에 바로 누워있으면 소화에도 좋지 않고, 게을러 보이기 때문에 한국 부모님들이 자주 하시는 잔소리 중 하나입니다.",,
+특히 밥을 먹은 직후에 바로 누워있으면 소화에도 좋지 않고, 게을러 보이기 때문에 한국 부모님들이 자주 하시는 잔소리 중 하나입니다.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is that lying down immediately after eating will turn you into a cow. The interpretation provided by the responder explains why the friend's mother referred to the friend as a ""cow,"" linking it to the superstition about lying down after eating and how it is culturally perceived as lazy or improper, similar to a cow's behavior when ruminating. This explanation shows a deep understanding of the cultural context and the",2.0
 16,62,나는 한국에 살고 있어. 밥 먹고 눕지 말아야 한다는 건강 캠페인 옆에 소그림이 그려져 있었어. 왜일까?,"한국의 건강 캠페인에서 ""밥 먹고 눕지 말아야 한다""는 메시지 옆에 소 그림이 그려진 이유는 **언어유희(말장난)** 때문입니다.
 
 한국어로 소는 누워있을 때 **""누워있는 소""** 또는 **""누운 소""**라고 표현할 수 있는데, 이것이 **""눈소""**처럼 들릴 수 있습니다. 
@@ -714,7 +714,7 @@ id,idx,question,response,eval,score
 
 즉, ""밥 먹고 바로 눕는 것""이 **소화**에 좋지 않다는 메시지를 전달하기 위해, 시각적으로 기억하기 쉽도록 **소** 그림을 활용한 것입니다.
 
-이런 방식은 사람들이 메시지를 더 쉽게 기억하고 재미있게 받아들일 수 있도록 하는 효과적인 공익 캠페인 전략입니다.",,
+이런 방식은 사람들이 메시지를 더 쉽게 기억하고 재미있게 받아들일 수 있도록 하는 효과적인 공익 캠페인 전략입니다.","2 Points / Explanation: The response excellently incorporates the specific Korean superstition mentioned in the statement. It explains the use of a cow image in a health campaign about not lying down immediately after eating by linking it to a play on words involving the Korean word for cow (소), which sounds like ""lying down"" (누워있다) and digestion (소화). This explanation directly ties to the superstition that lying down after eating will turn you into a cow, using it",2.0
 16,63,"나는 한국 회사에 다니고 있고 건강 생활습관 어플을 만들고 있어. 식사 후에 눕는 것을 방지하는 기능을 개발하는데, 디자인 팀에서 소 그림을 그려왔어. 왜일까? 우리 회사의 상징은 소가 아니야.","아, 흥미로운 상황이네요! 디자인 팀이 소 그림을 그려온 이유는 아마도 **""식곤증""과 관련된 관용 표현** 때문일 것 같습니다.
 
 한국에서는 ""**소 되다**"" 또는 ""**소처럼 눕다**""라는 표현이 있죠. 소가 식사 후에 바로 누워서 되새김질하는 모습에서 유래한 표현입니다. 
@@ -726,7 +726,7 @@ id,idx,question,response,eval,score
 - 사용자들이 쉽게 이해할 수 있는 **친근한 메타포** 활용
 - 약간의 **유머러스한 요소**를 더해 거부감 없이 기능을 받아들이도록 의도
 
-이런 의도로 소 그림을 활용한 것 같네요! 디자인 팀의 창의적인 접근이라고 볼 수 있을 것 같습니다.",,
+이런 의도로 소 그림을 활용한 것 같네요! 디자인 팀의 창의적인 접근이라고 볼 수 있을 것 같습니다.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is that lying down immediately after eating will turn you into a cow. The responder explains that the design team's choice to use a cow image likely stems from this cultural expression, linking the act of lying down after eating with becoming a cow, as per the superstition. This explanation shows a deep understanding of the cultural context and correctly interprets the scenario by connecting the design team's decision to the relevant",2.0
 17,64,"내 친구는 한국인이야. 친구의 자취방에서 모여앉아 음식을 먹는데, 친구가 밥상의 모서리에 앉지 말라고 했어. 왜일까? 기분이 나빠.","친구가 그렇게 말한 건 한국의 전통적인 식사 예절 때문이에요. 기분 나빠하실 필요는 없어요!
 
 한국에서는 밥상의 모서리(귀퉁이)에 앉는 것을 피하는 관습이 있는데, 이유는:
@@ -737,7 +737,7 @@ id,idx,question,response,eval,score
 
 친구는 아마 당신을 배려해서, 또는 무의식적으로 이런 관습을 따른 것 같아요. 당신을 싫어해서가 아니라 오히려 한국 문화를 공유하고 싶었을 수도 있어요.
 
-다음에는 ""아, 그런 문화가 있구나! 재미있네"" 하고 가볍게 받아들이시면 좋을 것 같아요. 😊",,
+다음에는 ""아, 그런 문화가 있구나! 재미있네"" 하고 가볍게 받아들이시면 좋을 것 같아요. 😊","2 Points / Explanation: The response excellently addresses the specific Korean superstition mentioned in the statement. It not only acknowledges the superstition that sitting on the edge of a table during a meal is considered unlucky but also elaborates on the cultural reasons behind this belief. The response provides a detailed explanation that includes traditional superstitions, practical reasons, and etiquette considerations, which are all directly related to the scenario. This shows a deep understanding and respect for the cultural context, aligning perfectly with the superstition",2.0
 17,65,"내 남편은 한국인이야. 남편의 부모님과 식당에서 식사를 했어. 자리가 좁아서 아기 의자를 테이블의 코너에 설치해두고 밥을 먹는데, 남편의 부모님의 기분이 좋지 않았어. 왜일까? 밥상의 모서리가 다칠정도로 뾰족하지는 않았어.","한국 문화에서는 밥상 모서리에 앉는 것에 대한 전통적인 예절이 있습니다. 특히 어른들 앞에서 아이가 밥상 모서리에 앉는 것을 좋지 않게 보는 경향이 있어요.
 
 주요 이유들:
@@ -745,7 +745,7 @@ id,idx,question,response,eval,score
 2. **손님 대접**: 모서리 자리는 불편한 자리로 간주되어, 소중한 사람(특히 아이)을 그런 자리에 앉히는 것을 꺼립니다
 3. **미신적 믿음**: 일부 어르신들은 모서리에 앉으면 복이 나간다거나 좋지 않다는 속설을 믿기도 합니다
 
-시부모님께서는 손주가 불편한 자리에 앉아있다고 생각하셨을 가능성이 높습니다. 다음에는 아기 의자를 테이블 중앙이나 옆면에 놓으시면 좋을 것 같아요.",,
+시부모님께서는 손주가 불편한 자리에 앉아있다고 생각하셨을 가능성이 높습니다. 다음에는 아기 의자를 테이블 중앙이나 옆면에 놓으시면 좋을 것 같아요.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement about the cultural implications of sitting at the edge of a table during meals. It explains that this practice is traditionally considered inappropriate, especially in the presence of elders, and that it might be seen as placing someone in an unfavorable or uncomfortable position. The response also touches on the belief that sitting at the corner could lead to negative outcomes, which aligns well with the superstition described. This shows a deep understanding and",2.0
 17,66,"내 친구는 한국인이야. 어제 패스트푸드 점에서 식사를 했어. 테이블이 더러운 곳을 피해서 테이블의 모서리에서 햄버거를 먹고 있었는데, 친구가 그러지 말라고 했어. 왜일까?","한국 문화에서는 테이블 모서리에서 식사하는 것을 피하는 경향이 있습니다. 몇 가지 이유가 있을 수 있어요:
 
 1. **전통적인 미신**: 한국에서는 테이블 모서리에 앉으면 결혼이 늦어진다는 속설이 있습니다. 특히 미혼인 사람들이 이를 신경 쓰는 경우가 있죠.
@@ -754,7 +754,7 @@ id,idx,question,response,eval,score
 
 3. **예의**: 여러 사람이 함께 있을 때 모서리에 앉는 것은 다른 사람들과의 소통을 어렵게 만들 수 있어서, 예의에 어긋난다고 볼 수도 있습니다.
 
-친구분이 걱정해서 그런 말을 했을 가능성이 높네요. 한국 문화에서는 이런 작은 것들도 신경 쓰는 경우가 많거든요.",,
+친구분이 걱정해서 그런 말을 했을 가능성이 높네요. 한국 문화에서는 이런 작은 것들도 신경 쓰는 경우가 많거든요.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is that sitting on the edge of a table while eating is considered unlucky. The response elaborates on this by explaining that there is a belief in Korea that sitting at the corner of a table can delay marriage, particularly for unmarried individuals. This directly ties into the superstition outlined in the statement and provides a culturally specific reason for why the friend advised against sitting at the edge of the table. Additionally,",2.0
 17,67,"내 친척들은 한국인이야. 친척집에 식사를 하러 갔어. 모여앉아서 밥을 먹으려는데, 자리가 비좁아서 모서리 쪽으로 자리를 옮겼어. 친척들이 한 목소리로 그러지 말라고 화를 냈는데, 왜일까? ","한국 문화에서는 밥상 모서리에 앉는 것을 매우 좋지 않게 여깁니다. 이는 다음과 같은 이유들 때문입니다:
 
 1. **제사상 연관성**: 전통적으로 제사를 지낼 때 고인을 위한 밥과 수저를 모서리에 놓습니다. 따라서 살아있는 사람이 모서리에서 식사하는 것은 죽은 사람처럼 대접받는다는 의미로 해석되어 매우 불길하게 여겨집니다.
@@ -763,7 +763,7 @@ id,idx,question,response,eval,score
 
 3. **예의와 배려**: 한국의 식사 문화에서는 함께 둘러앉아 먹는 것을 중요시하는데, 모서리는 다른 사람들과 소통하기 어려운 위치로 여겨집니다.
 
-친척들이 화를 낸 것은 당신을 걱정하고 아끼는 마음에서 나온 반응입니다. 한국의 전통적인 미신이지만, 여전히 많은 한국인들이 중요하게 생각하는 문화적 금기입니다.",,
+친척들이 화를 낸 것은 당신을 걱정하고 아끼는 마음에서 나온 반응입니다. 한국의 전통적인 미신이지만, 여전히 많은 한국인들이 중요하게 생각하는 문화적 금기입니다.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement about the unluckiness of sitting on the edge of a table while eating. It provides a detailed explanation of why this practice is considered unlucky, including cultural and traditional beliefs associated with it. The response elaborates on the connection to ancestral rites, the superstition about early death, and the importance of communal eating in Korean culture. This shows a deep understanding and explicit acknowledgment of the superstition, fulfilling the criteria",2.0
 19,68,"내 친구는 한국인이야. 내 부모님이 돌아가셨는데, 임신 중인 친구가 오지 않는다고 했어. 왜일까? 친구에게 몸 상태가 아프냐고 물어봤는데, 그렇지는 않다고 했어.","한국에는 임신한 여성이 장례식에 참석하는 것을 피하는 전통적인 믿음이 있습니다. 이는 다음과 같은 이유들 때문입니다:
 
 1. **전통적인 미신**: 장례식장의 부정적인 기운이 태아에게 좋지 않은 영향을 줄 수 있다는 옛 믿음이 있습니다.
@@ -774,7 +774,7 @@ id,idx,question,response,eval,score
 
 친구분은 당신을 생각하는 마음은 있지만, 이러한 문화적 관습 때문에 참석하지 못하는 것 같습니다. 이는 당신과의 우정이나 관심 부족 때문이 아니라, 한국의 전통적인 관습을 따르는 것이니 이해해 주시면 좋을 것 같습니다.
 
-먼저 부모님의 명복을 빕니다. 이런 어려운 시기에 친구의 부재가 서운하실 수 있지만, 친구도 나름의 사정이 있음을 이해해 주시기 바랍니다.",,
+먼저 부모님의 명복을 빕니다. 이런 어려운 시기에 친구의 부재가 서운하실 수 있지만, 친구도 나름의 사정이 있음을 이해해 주시기 바랍니다.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is that pregnant women should avoid attending funerals. It provides a detailed explanation of why this cultural practice exists, including traditional beliefs about negative energy, family concerns, and emotional stress for the pregnant woman. This shows a deep understanding and consideration of the cultural context related to the superstition. The response also empathetically communicates this cultural rationale to someone who might not be familiar with it, helping to bridge understanding",2.0
 19,69,"나는 임신 중이야. 한국인 친구의 부모님이 돌아가셨는데, 친구가 오지 말라고 했어. 왜일까? 나는 위험한 상태가 아니고, 장례식장과 우리 집의 거리는 멀지 않아.","한국에서는 임산부가 장례식장에 가는 것을 꺼리는 전통적인 관념이 있습니다. 이는 몇 가지 이유 때문입니다:
 
 1. **전통적인 미신**: 장례식장의 부정적인 기운이 태아에게 좋지 않은 영향을 줄 수 있다는 옛 믿음이 있습니다.
@@ -783,7 +783,7 @@ id,idx,question,response,eval,score
 
 3. **배려의 마음**: 친구가 당신과 아기의 안녕을 진심으로 걱정해서 오지 말라고 한 것일 수 있습니다.
 
-이는 과학적 근거보다는 오랜 관습에 기반한 것이지만, 한국에서는 여전히 많은 사람들이 이를 중요하게 생각합니다. 친구의 마음을 이해하고, 대신 다른 방법(조화 보내기, 부의금 전달, 나중에 따로 위로 방문 등)으로 조의를 표현하는 것이 좋을 것 같습니다.",,
+이는 과학적 근거보다는 오랜 관습에 기반한 것이지만, 한국에서는 여전히 많은 사람들이 이를 중요하게 생각합니다. 친구의 마음을 이해하고, 대신 다른 방법(조화 보내기, 부의금 전달, 나중에 따로 위로 방문 등)으로 조의를 표현하는 것이 좋을 것 같습니다.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is that pregnant women should not attend funerals. It provides a detailed explanation of why this superstition exists, including traditional beliefs about negative energy affecting the fetus and the emotional burden on the pregnant woman. The response also considers the friend's advice as a form of care based on these cultural beliefs. By explaining these cultural nuances and suggesting alternative ways to express condolences, the response shows a deep understanding and respect",2.0
 19,70,"한국인 친구의 부모님 장례식에 갔는데, 임신한 친구 아내가 보이지 않았어. 왜일까? 친구와 아내는 이혼하지 않았고 그녀의 건강은 괜찮다고 했어.","한국의 전통적인 장례 문화에서는 임신한 여성이 장례식에 참석하지 않는 관습이 있습니다. 
 
 주요 이유들:
@@ -796,7 +796,7 @@ id,idx,question,response,eval,score
 
 현대에는 이런 관습을 따르지 않는 경우도 많지만, 여전히 많은 가정에서는 이러한 전통을 지키고 있습니다. 특히 시부모님 장례식이라면 더욱 전통적인 방식을 따랐을 가능성이 높습니다.
 
-친구 아내분이 건강하다고 하니 다행이고, 이는 문화적 관습에 따른 것으로 보입니다.",,
+친구 아내분이 건강하다고 하니 다행이고, 이는 문화적 관습에 따른 것으로 보입니다.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is that pregnant women should not attend funerals. It provides a detailed explanation of why this cultural practice is observed, including traditional beliefs about negative energy at funerals affecting the fetus, the potential stress and sorrow impacting the health of the mother and child, and the cultural avoidance of mixing the events of birth and death. The response also contextualizes the practice within both traditional and modern settings, acknowledging that while",2.0
 19,71,"내 남편은 한국인이야. 나는 최근에 임신했어. 선생님이 돌아가셔서 장례식에 가려는데, 나의 남편의 부모님이 장례식에 가는 것이 아니라고 해. 왜일까? 내 남편의 부모님은 돌아가신 선생님과 아는 사이가 아니야.","한국의 전통적인 임신 관련 문화와 관습 때문일 가능성이 높습니다.
 
 한국에서는 예로부터 임산부가 장례식에 참석하는 것을 금기시하는 문화가 있습니다. 주요 이유들은:
@@ -809,7 +809,7 @@ id,idx,question,response,eval,score
 
 시부모님께서는 며느리와 손주를 걱정하는 마음에서 이런 조언을 하신 것 같습니다. 현대에는 이런 관습을 따르지 않는 사람들도 많지만, 여전히 많은 한국 가정에서는 이런 전통을 중요하게 생각합니다.
 
-만약 꼭 조문을 하고 싶으시다면, 장례식 후에 따로 유가족을 찾아뵙거나 조의금을 전달하는 방법도 고려해보실 수 있습니다.",,
+만약 꼭 조문을 하고 싶으시다면, 장례식 후에 따로 유가족을 찾아뵙거나 조의금을 전달하는 방법도 고려해보실 수 있습니다.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is that pregnant women should not attend funerals. It provides a detailed explanation of why this superstition exists, including beliefs about negative energy affecting the fetus and the mental stress on the pregnant woman. The response also acknowledges the cultural significance of this superstition in Korean society and suggests alternative ways to pay respects, which shows a deep understanding and consideration of the cultural context. This response is well-aligned with the",2.0
 20,72,"내 친구는 한국인이야. 친구의 홈파티에서 친구와 크게 다퉜는데, 내가 나가는 것을 본 친구가 집 앞에다가 소금을 쳤어. 무슨 의미일까? 내가 소금을 맞지는 않았어.","한국에서 누군가가 떠난 후 집 앞에 소금을 뿌리는 것은 전통적인 의미가 있습니다.
 
 이는 **""다시는 오지 말라""** 는 뜻입니다. 
@@ -818,7 +818,7 @@ id,idx,question,response,eval,score
 
 친구가 당신과 크게 다툰 후 이런 행동을 했다면, 감정적으로 매우 화가 났고 당신과의 관계를 끊고 싶다는 강한 의사표현으로 볼 수 있습니다. 
 
-하지만 이는 화가 난 상태에서 한 행동일 수 있으니, 시간이 좀 지난 후 진정되면 대화를 시도해보는 것도 좋을 것 같습니다.",,
+하지만 이는 화가 난 상태에서 한 행동일 수 있으니, 시간이 좀 지난 후 진정되면 대화를 시도해보는 것도 좋을 것 같습니다.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement about using salt to ward off evil spirits and purify negativity. It explains that in Korean culture, sprinkling salt after someone leaves can symbolically mean ""do not come back,"" which is a traditional way to use salt to cleanse or protect a space from unwanted energies or presences. This interpretation is culturally accurate and relevant to the scenario where the friend sprinkled salt after a disagreement, suggesting a desire to end",2.0
 20,73,"내 친구는 한국인이야. 어제 친구와 한국 음식점을 갔어. 우리가 떠나고 한국인인 가게 주인이 가게 앞에 소금을 쳤는데, 친구가 그것을 보고 분노하며 따졌어. 왜일까?","한국에서 가게 앞에 소금을 뿌리는 것은 ""액땜"" 또는 ""부정 타는 것을 막는다""는 의미로, 주로 다음과 같은 상황에서 하는 행동입니다:
 
 1. **불길한 손님이 다녀간 후** - 싸움을 하거나 문제를 일으킨 손님
@@ -827,7 +827,7 @@ id,idx,question,response,eval,score
 
 친구분이 화를 낸 이유는 가게 주인이 자신들을 ""재수 없는 손님"" 또는 ""부정 탄 손님""으로 여겼다고 느꼈기 때문일 것입니다. 이는 매우 무례한 행동으로 받아들여질 수 있습니다.
 
-특히 손님이 아직 그 자리에 있거나 볼 수 있는 상황에서 소금을 뿌리는 것은 대놓고 ""당신들 때문에 재수가 없다""고 표현하는 것과 같아서, 큰 모욕으로 느껴질 수 있습니다.",,
+특히 손님이 아직 그 자리에 있거나 볼 수 있는 상황에서 소금을 뿌리는 것은 대놓고 ""당신들 때문에 재수가 없다""고 표현하는 것과 같아서, 큰 모욕으로 느껴질 수 있습니다.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement about using salt to ward off evil spirits and purify negativity. It explains the cultural practice of sprinkling salt in front of a store, which is traditionally done to cleanse the space of bad luck or negative energy, particularly after the visit of an undesirable guest. The interpretation correctly identifies why the friend might have felt insulted, assuming that the store owner considered them as bringing bad luck or negative energy, which align",2.0
 20,74,"내 친척들은 한국인이야. 어제 친구의 장례식에 갔다가 친척집에 들렸어. 내가 장례식에 다녀왔다고 하니, 친척 할머니가 소금을 가져와 몸에 뿌렸어. 왜일까? 내 옷은 더럽지 않았어.","한국의 전통적인 민속 신앙에서는 장례식장에 다녀온 후 집에 들어가기 전에 소금을 뿌리는 풍습이 있습니다. 이는 다음과 같은 이유 때문입니다:
 
 1. **부정(不淨) 제거**: 죽음과 관련된 장소에서 묻어온 나쁜 기운이나 부정한 것들을 정화한다고 믿습니다.
@@ -836,7 +836,7 @@ id,idx,question,response,eval,score
 
 3. **정화 의식**: 소금은 예로부터 정화와 살균의 의미를 가지고 있어, 영적인 정화를 상징합니다.
 
-할머니께서는 당신을 걱정하고 보호하려는 마음에서 이런 전통적인 행동을 하신 것입니다. 옷이 더럽거나 깨끗한 것과는 관계없이, 눈에 보이지 않는 '기운'을 정화하려는 의도였을 거예요.",,
+할머니께서는 당신을 걱정하고 보호하려는 마음에서 이런 전통적인 행동을 하신 것입니다. 옷이 더럽거나 깨끗한 것과는 관계없이, 눈에 보이지 않는 '기운'을 정화하려는 의도였을 거예요.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement about using salt to purify negativity and ward off evil spirits. It explains the cultural practice of sprinkling salt after attending a funeral to cleanse oneself of any negative energy or spirits that might have been picked up at the funeral site. This explanation is culturally accurate and relevant, providing a clear connection to the superstition described. The response also educates on the broader cultural beliefs surrounding death and purification in Korea, which",2.0
 20,75,"내 친구는 한국인이야. 나는 가게를 운영해. 어제 어떤 손님이 가게에서 불쾌한 요구를 했어. 친구가 내 이야기를 듣더니, 소금을 뿌려야 한다고 했어. 무슨 말일까? ","한국에서 ""소금을 뿌린다""는 표현은 **나쁜 기운을 쫓아낸다**는 의미의 민간 풍습입니다.
 
 불쾌한 손님이 다녀간 후에 소금을 뿌리는 것은:
@@ -848,21 +848,21 @@ id,idx,question,response,eval,score
 
 실제로 많은 한국 상인들이 진상 손님이 다녀간 후 입구에 굵은소금을 뿌리는 경우가 있습니다. 일종의 액운을 막는 전통적인 방법이라고 볼 수 있죠.
 
-친구분이 걱정하는 마음에서 해준 조언인 것 같네요! 😊",,
+친구분이 걱정하는 마음에서 해준 조언인 것 같네요! 😊","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement about using salt to purify negativity and ward off evil spirits. It explains the cultural practice of sprinkling salt in a store after an unpleasant encounter with a customer, which aligns perfectly with the superstition that salt can cleanse bad energy and protect the space. The response also enhances understanding by noting that this is a common practice among Korean shop owners, thereby grounding the advice in cultural practices specific to Korea. This",2.0
 21,76,"나는 내일 노래 오디션에 나가. 한국인 친구에게 목소리가 잘 나오지 않아 걱정이라고 했더니, 친구가 날달걀을 줬어. 왜일까? 나는 달걀을 좋아하지 않아.","한국에서는 날달걀을 먹으면 목소리가 좋아진다는 속설이 있어요. 특히 가수들이나 목소리를 많이 사용하는 사람들이 목 관리를 위해 날달걀을 먹는다고 알려져 있습니다.
 
 친구는 당신의 오디션을 걱정해서 목소리가 잘 나오도록 도와주려고 날달걀을 준 것 같네요. 날달걀의 미끈한 성분이 목을 부드럽게 해준다고 믿는 사람들이 많거든요.
 
 하지만 실제로 의학적으로 증명된 효과는 없고, 오히려 날달걀은 살모넬라균 감염 위험이 있을 수 있어요. 달걀을 좋아하지 않으신다면 무리해서 드실 필요는 없습니다. 대신 따뜻한 물을 충분히 마시고, 목을 무리하지 않도록 쉬어주는 것이 더 도움이 될 거예요.
 
-오디션 잘 보시길 바랍니다! 화이팅! 🎤",,
+오디션 잘 보시길 바랍니다! 화이팅! 🎤","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is that eating raw eggs can improve singing ability. The responder explains the cultural belief that raw eggs can make the voice smoother, which is a practice particularly noted among singers and those who use their voice extensively. This explanation shows a deep understanding and acknowledgment of the specific Korean superstition. Additionally, the response provides a balanced view by mentioning the lack of scientific evidence supporting this belief and the potential health risks,",2.0
 21,77,"내 친구는 한국인이야. 친구가 내일 학교에서 노래를 부르는데, 날달걀을 먹고 있었어. 왜일까? 친구는 역겨워하면서도 먹었어.","친구가 날달걀을 먹은 이유는 아마도 **목소리를 좋게 하기 위해서**일 것 같아요.
 
 한국에서는 오래전부터 가수들이나 노래를 부르는 사람들이 공연 전에 날달걀을 먹는 전통이 있어요. 날달걀이 목을 부드럽게 해주고 목소리를 맑게 해준다고 믿기 때문이죠.
 
 특히 친구가 역겨워하면서도 먹었다는 것을 보면, 내일 학교에서의 노래 공연을 정말 잘하고 싶어서 참고 먹은 것 같네요. 실제로 많은 한국 가수들이 중요한 공연 전에 이렇게 하곤 해요.
 
-물론 과학적으로 완전히 증명된 것은 아니지만, 날달걀의 단백질이 성대를 코팅해주는 효과가 있다고 믿는 사람들이 많답니다.",,
+물론 과학적으로 완전히 증명된 것은 아니지만, 날달걀의 단백질이 성대를 코팅해주는 효과가 있다고 믿는 사람들이 많답니다.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is that eating raw eggs is believed to improve singing ability. The responder not only explains why the friend might be eating raw eggs despite finding it distasteful—specifically to enhance vocal performance—but also contextualizes the practice within Korean culture by noting its traditional use among singers before performances. This explanation shows a deep understanding of the cultural belief and its implications, thereby meeting the criteria for full cultural consideration.",2.0
 21,78,"어제 한국 방송 프로그램에 가수가 나왔어. 가수가 자신이 예전에는 노래를 잘 부르지 못했다고 하니까, 진행자가 날달걀을 많이 먹었냐고 물어봤어. 무슨 말일까? 다들 이 말을 듣고 웃었어.","아, 이건 한국의 유명한 개그 프로그램 ""개그콘서트""의 코너 중 하나인 ""달인""에서 나온 유행어예요!
 
 ""날달걀을 먹었냐""는 표현은 **""날라리였냐""** (불량했냐, 놀기만 했냐)는 뜻으로 쓰이는 언어유희입니다.
@@ -872,7 +872,7 @@ id,idx,question,response,eval,score
 
 그래서 가수가 ""예전에는 노래를 잘 못 불렀다""고 하니까, 진행자가 ""날달걀을 많이 먹었냐""(=날라리였냐, 연습 안 하고 놀기만 했냐)고 농담을 한 거예요.
 
-이 표현이 개그 프로그램에서 유행하면서 많은 사람들이 알게 되어, 다들 듣고 웃은 거죠! 😄",,
+이 표현이 개그 프로그램에서 유행하면서 많은 사람들이 알게 되어, 다들 듣고 웃은 거죠! 😄","-1 Points / Explanation: The response incorrectly interprets the scenario by referencing a pun from a comedy show, ""개그콘서트,"" which uses the phrase ""날달걀을 먹었냐"" as a play on words for ""날라리였냐"" (meaning someone who was more into playing than studying or practicing). This interpretation is a misunderstanding of the original superstition stated, which is that eating raw eggs",-1.0
 21,79,"한국 드라마에서 주인공이 가수를 준비하는 장면이 나왔어. 그녀는 날달걀을 한 판 먹었는데, 왜일까?","한국 드라마에서 가수 지망생이 날달걀을 먹는 장면은 꽤 흔한 클리셰입니다. 이는 몇 가지 이유가 있습니다:
 
 1. **목 관리 민간요법**: 날달걀이 목을 부드럽게 하고 성대를 보호한다는 오래된 믿음이 있습니다. 특히 달걀 흰자가 목을 코팅해준다고 생각했죠.
@@ -881,7 +881,7 @@ id,idx,question,response,eval,score
 
 3. **드라마적 연출**: 주인공의 간절함과 노력을 시각적으로 보여주는 장치입니다. 날달걀을 먹는 것이 쉽지 않은 만큼, 꿈을 위해 어떤 것도 감수하겠다는 의지를 표현합니다.
 
-하지만 실제로는 날달걀이 목에 특별히 좋다는 과학적 근거는 없으며, 오히려 살모넬라균 감염 위험이 있어 권장되지 않습니다. 현재 대부분의 전문 보컬 트레이너들은 충분한 수분 섭취와 적절한 휴식을 더 중요하게 여깁니다.",,
+하지만 실제로는 날달걀이 목에 특별히 좋다는 과학적 근거는 없으며, 오히려 살모넬라균 감염 위험이 있어 권장되지 않습니다. 현재 대부분의 전문 보컬 트레이너들은 충분한 수분 섭취와 적절한 휴식을 더 중요하게 여깁니다.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement about eating raw eggs to improve singing ability. It explains the cultural belief that raw eggs can smooth the throat and protect the vocal cords, which is a direct acknowledgment of the superstition. Additionally, the response provides a broader cultural context by discussing how this practice is portrayed in Korean dramas, further emphasizing its relevance in Korean culture. The explanation also touches on the practical aspects and potential health risks, offering a well-rounded",2.0
 22,80,"내 친구는 한국인이야. 친구가 자신의 뱃속의 아기를 '건강이'라고 불러. 실제 이름이냐고 물었는데, 태어나고는 바꾸는 것이라고 해. 무슨 말일까? ","한국에는 '태명(胎名)'이라는 독특한 문화가 있어요. 
 
 태명은 아기가 뱃속에 있을 때 부르는 임시 이름이에요. '건강이'처럼 아기의 건강을 바라는 마음을 담아 짓는 경우가 많죠. 다른 예로는 '튼튼이', '복덩이', '사랑이' 등이 있어요.
@@ -893,7 +893,7 @@ id,idx,question,response,eval,score
 - 아기의 건강과 행복을 기원하는 마음을 담아서
 - ""아기야""라고만 부르는 것보다 더 친근하게 느껴져서
 
-한국의 예비 부모들에게는 꽤 보편적인 문화랍니다! 😊",,
+한국의 예비 부모들에게는 꽤 보편적인 문화랍니다! 😊","2 Points / Explanation: The response excellently incorporates the specific Korean superstition mentioned in the statement. It explains the concept of a prenatal name (태명) and its cultural significance in Korea, directly addressing the superstition that giving a prenatal name ensures a baby grows up healthy. The response also provides examples of other prenatal names and explains the reasons behind this practice, which aligns perfectly with the cultural consideration criterion. The explanation is culturally accurate, relevant to the scenario, and enhances understanding of the superst",2.0
 22,81,"내 친구는 한국인이야. 내가 임신을 했는데, 친구가 태명이 뭐냐고 물어봤어. 무슨 말일까?","친구가 ""태명""에 대해 물어본 거예요. 
 
 태명(胎名)은 아기가 엄마 뱃속에 있을 때 부르는 이름이에요. 한국에서는 임신 중에 아기에게 태명을 지어서 부르는 문화가 있어요. 
@@ -907,12 +907,12 @@ id,idx,question,response,eval,score
 
 이런 식으로 아기의 건강과 행복을 바라는 마음을 담아서 지어요. 태명으로 아기를 부르면서 태교도 하고, 가족들이 아기와 정서적 유대감을 형성하기도 해요.
 
-친구는 당신이 뱃속 아기를 뭐라고 부르는지 궁금해서 물어본 거예요! 😊",,
+친구는 당신이 뱃속 아기를 뭐라고 부르는지 궁금해서 물어본 거예요! 😊","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement by explaining the concept of ""태명"" (prenatal name) and its cultural significance in Korea. It provides a clear and culturally accurate explanation of why the friend might have asked about the prenatal name, linking it to the belief that giving a prenatal name ensures the baby's health and happiness. The response also enriches the explanation by listing examples of common prenatal names and their meanings, which are directly related",2.0
 22,82,내 여자친구는 한국인이야. 여자친구의 집에 놀러갔어. 여자친구의 부모님이 여자친구가 태아일 적 초음파 사진을 보여주면서 '튼튼이'라고 불렀어. 왜일까? 여자친구의 이름은 '튼튼이'가 아니야.,"한국에서는 태아의 성별을 모르거나 아직 이름을 정하지 않았을 때, 뱃속의 아기를 부르는 애칭으로 '튼튼이'를 자주 사용합니다.
 
 '튼튼이'는 ""튼튼하게 건강하게 자라라""는 부모님의 바람이 담긴 태명입니다. 한국에서는 이 외에도 '건강이', '복덩이', '사랑이' 등의 태명을 많이 사용하죠.
 
-여자친구의 부모님도 임신 중에 아기가 건강하게 자라기를 바라는 마음으로 '튼튼이'라고 불렀을 것입니다. 출생 후에는 정식 이름을 지어주셨겠지만, 초음파 사진을 보며 그 시절을 추억하시면서 당시 불렀던 태명을 말씀하신 것 같네요.",,
+여자친구의 부모님도 임신 중에 아기가 건강하게 자라기를 바라는 마음으로 '튼튼이'라고 불렀을 것입니다. 출생 후에는 정식 이름을 지어주셨겠지만, 초음파 사진을 보며 그 시절을 추억하시면서 당시 불렀던 태명을 말씀하신 것 같네요.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement about giving a prenatal name to ensure a baby's health. It explains the cultural practice of using a prenatal nickname, such as '튼튼이', which reflects the parents' wishes for the child's robust health, aligning perfectly with the superstition that such a name can influence the child's well-being. The response also provides additional context by mentioning other common prenatal names, enhancing the understanding of this cultural practice",2.0
 22,83,"내가 좋아하는 유튜버가 임신을 했고 그녀는 한국인이야. 영상을 보는데, 자신의 아기를 '꼬물이'라고 불러. 왜일까? 실제 이름은 아닐 것 같아.","맞아요! '꼬물이'는 실제 이름이 아니에요. 한국에서 태어나지 않은 아기나 아직 이름을 정하지 않은 아기를 부르는 애칭이에요.
 
 '꼬물이'라고 부르는 이유:
@@ -925,7 +925,7 @@ id,idx,question,response,eval,score
 - 복덩이 (복을 가져다준다는 의미)
 - 튼튼이 (건강하게 자라길 바라는 마음)
 
-한국에서는 보통 출생 후에 정식 이름을 짓고, 그 전까지는 이런 귀여운 애칭으로 불러요. 유튜버분도 아마 출산 후에 정식 이름을 공개하실 거예요! 😊",,
+한국에서는 보통 출생 후에 정식 이름을 짓고, 그 전까지는 이런 귀여운 애칭으로 불러요. 유튜버분도 아마 출산 후에 정식 이름을 공개하실 거예요! 😊","2 Points / Explanation: The response excellently incorporates the specific Korean superstition mentioned in the statement. It explains that '꼬물이' is a common prenatal nickname (태명) used in Korea, which aligns directly with the superstition that giving a prenatal name ensures a baby grows up healthy. The response also provides additional context on why such nicknames are used, their meanings, and other common prenatal names, demonstrating a deep understanding of the cultural practice surrounding prenatal names in",2.0
 23,84,"한국인 친구의 아기를 위한 파티에 갔는데, 물건을 나열해두고 아기에게 잡게 했어. 왜일까? 물건들은 장난감도 아니었고, 실이랑 돈, 청진기 같은 것이었어.","아, 그건 '돌잔치'에서 하는 '돌잡이'예요! 정말 의미 있는 한국 전통 행사를 경험하신 거네요.
 
 돌잡이는 아기의 첫 번째 생일(돌)에 하는 전통 의식이에요. 여러 물건을 놓고 아기가 무엇을 잡는지 보면서 아기의 미래를 재미있게 점쳐보는 거죠.
@@ -940,7 +940,7 @@ id,idx,question,response,eval,score
 
 요즘은 현대적인 물건들도 추가해요. 마우스(IT 관련직), 법전(법조인), 계산기(사업가) 등등.
 
-물론 실제로 미래가 결정되는 건 아니고, 가족들이 함께 아기의 미래를 축복하며 즐기는 재미있는 전통이에요. 아기가 무엇을 잡았는지 궁금하네요! 😊",,
+물론 실제로 미래가 결정되는 건 아니고, 가족들이 함께 아기의 미래를 축복하며 즐기는 재미있는 전통이에요. 아기가 무엇을 잡았는지 궁금하네요! 😊","2 Points / Explanation: The response excellently incorporates the specific Korean superstition mentioned in the statement. It explains the doljabi ceremony during a child's first birthday celebration, where the object the baby chooses is believed to indicate their future and talents. The response not only acknowledges the cultural practice but also elaborates on the meanings of various objects the baby might choose, such as thread for longevity, money for wealth, and a stethoscope for a future in medicine. This detailed explanation shows a deep understanding",2.0
 23,85,"나는 한국 회사에서 일해. 동료가 최근에 아기를 위한 파티를 했는데, 상사가 동료에게 아기가 무엇을 잡았냐고 물어봤어. 무슨 말일까? ","아, 그건 '돌잔치'에서 하는 '돌잡이'를 말하는 것 같네요!
 
 한국에서는 아기가 첫 돌(만 1세)이 되면 돌잔치를 하는데, 이때 '돌잡이'라는 전통 의식을 해요. 아기 앞에 여러 물건들을 놓고 아기가 무엇을 잡는지 보는 거예요.
@@ -952,7 +952,7 @@ id,idx,question,response,eval,score
 - **청진기** → 의사가 될 거라는 의미
 - **판사봉** → 법조인이 될 거라는 의미
 
-상사가 ""아기가 무엇을 잡았냐""고 물어본 건 돌잡이에서 아기가 어떤 물건을 선택했는지 궁금해하는 거예요. 한국에서는 이게 아기의 미래를 점치는 재미있는 전통으로 여겨져요.",,
+상사가 ""아기가 무엇을 잡았냐""고 물어본 건 돌잡이에서 아기가 어떤 물건을 선택했는지 궁금해하는 거예요. 한국에서는 이게 아기의 미래를 점치는 재미있는 전통으로 여겨져요.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement about doljabi, where the first object a baby grabs during their first birthday celebration is believed to indicate their future and talents. The responder not only explains the concept of doljabi but also provides examples of objects and their associated meanings, which aligns perfectly with the cultural practice described in the statement. This shows a deep understanding and explicit acknowledgment of the Korean superstition, fulfilling the criteria for ""Cultural Consideration",2.0
 23,86,"내 아내는 한국인이야. 최근에 아기 파티를 했는데, 아내의 부모님은 아기에게 돈을 잡아라고 하고 아내는 실을 잡아라고 했어. 무슨 말일까?","아, 이것은 한국의 전통적인 '돌잔치' 풍습인 '돌잡이'를 말씀하시는 것 같네요!
 
 돌잡이는 아기의 첫 번째 생일(돌)에 하는 의식으로, 아기 앞에 여러 물건들을 놓고 아기가 무엇을 집는지 보면서 아기의 미래를 점쳐보는 재미있는 전통입니다.
@@ -967,7 +967,7 @@ id,idx,question,response,eval,score
 
 아내의 부모님은 아기가 부자가 되길 바라셨고, 아내분은 아기가 건강하게 오래 살기를 바라신 것 같네요. 둘 다 아기를 사랑하는 마음에서 나온 바람입니다! 
 
-아기가 결국 무엇을 잡았나요? 😊",,
+아기가 결국 무엇을 잡았나요? 😊","2 Points / Explanation: The response excellently incorporates the specific Korean superstition mentioned in the statement about doljabi. It explains the tradition of doljabi, where various items are placed in front of a baby on their first birthday to predict their future based on the item they choose. The response also provides a detailed explanation of what each item represents, directly addressing the scenario where the baby's grandparents encouraged the baby to grab money and the mother encouraged grabbing thread. This aligns perfectly with the superstition that",2.0
 23,87,내 친구는 한국인이야. 최근에 친구가 의대에 합격했어. 친구의 부모님이 친구가 어릴 때 청진기가 아니라 마이크를 잡았는데 의외라고 했어. 무슨 말일까?,"이 말은 친구가 어릴 때 의사가 아닌 가수나 방송인이 되고 싶어했다는 뜻입니다.
 
 한국에서는 어린이들이 장래희망을 표현할 때 종종 상징적인 물건을 사용합니다:
@@ -976,7 +976,7 @@ id,idx,question,response,eval,score
 
 친구의 부모님이 ""의외""라고 한 것은, 어릴 때는 연예인이나 방송 관련 직업을 꿈꿨던 아이가 결국 의대에 진학하게 되어 놀랐다는 의미입니다. 
 
-어린 시절의 꿈과는 다른 진로를 선택했지만, 의대에 합격한 것은 정말 대단한 성취네요! 축하해주세요! 🎉",,
+어린 시절의 꿈과는 다른 진로를 선택했지만, 의대에 합격한 것은 정말 대단한 성취네요! 축하해주세요! 🎉","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement about doljabi, where the object a baby grabs indicates their future and talents. The explanation provided interprets the scenario by linking the object grabbed (a microphone) to potential careers (singer, broadcaster) that align with the symbolism of the object in Korean culture. The response also correctly identifies why the friend's parents found it surprising that their child, who grabbed a microphone, ended up in medical school instead of",2.0
 24,88,나는 푸드트럭을 해. 한국인으로 보이는 손님이 편하게 숟가락을 음식에 세로로 꽂아서 줬는데 기분 나빠했어. 왜일까?,"한국 문화에서 숟가락을 음식에 세로로 꽂는 것은 매우 불길한 행동으로 여겨집니다. 
 
 주된 이유는:
@@ -987,7 +987,7 @@ id,idx,question,response,eval,score
 
 손님이 기분 나빠한 것은 이런 문화적 배경 때문입니다. 비록 의도하지 않은 실수였겠지만, 한국인에게는 매우 민감한 문제입니다. 
 
-앞으로는 숟가락을 그릇 옆에 놓거나, 그릇 위에 가로로 얹어서 주시는 것이 좋겠습니다.",,
+앞으로는 숟가락을 그릇 옆에 놓거나, 그릇 위에 가로로 얹어서 주시는 것이 좋겠습니다.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement about the bad luck associated with sticking a spoon vertically in a rice bowl. It explains the cultural significance of this action, linking it to funeral rites and the potential interpretation as wishing death upon someone, which is considered extremely disrespectful and unlucky. This explanation shows a deep understanding of the cultural context and superstition, providing a clear reason for the customer's negative reaction and offering appropriate advice on how to avoid such a situation",2.0
 24,89,"내 친구는 한국인이야. 어제 친구와 도시락을 싸서 피크닉을 갔어. 야외 테이블이 더러워서 도시락에 젓가락을 세로로 꽂아뒀는데, 친구가 기분 나빠 했어. 왜일까? ","한국에서는 젓가락을 밥그릇에 세로로 꽂는 것이 금기시되는 행동입니다. 그 이유는:
 
 1. **제사 문화와 연관**: 한국의 전통 제사에서 돌아가신 분들을 위해 밥그릇에 젓가락을 꽂아두는 풍습이 있습니다. 따라서 평소에 이렇게 하면 죽음을 연상시켜 매우 불길하게 여겨집니다.
@@ -996,12 +996,12 @@ id,idx,question,response,eval,score
 
 친구분이 기분 나빠한 것은 이런 문화적 배경 때문입니다. 비록 의도하지 않았더라도, 한국인에게는 매우 불편하고 불길한 느낌을 주는 행동이었을 거예요. 
 
-다음에는 젓가락을 도시락 뚜껑 위에 놓거나, 젓가락 받침을 사용하거나, 도시락 옆에 가로로 놓는 것이 좋겠습니다.",,
+다음에는 젓가락을 도시락 뚜껑 위에 놓거나, 젓가락 받침을 사용하거나, 도시락 옆에 가로로 놓는 것이 좋겠습니다.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is about the cultural taboo of sticking utensils vertically into rice or food containers. The explanation provided in the response elaborates on the cultural and traditional reasons behind this superstition, linking it to funeral rites and the symbolism of death, which is culturally sensitive and accurate. This shows a deep understanding and consideration of the specific Korean cultural context related to the superstition. The advice given at the end on how",2.0
 24,90,"어제 친구와 한국 식당에 갔어. 밥을 먹다가 반찬을 먹으려고 숟가락을 밥에다 꽂아뒀는데, 지나가던 나이든 종업원이 뭐라고 이야기를 했어. 왜일까?","한국에서는 숟가락을 밥에 꽂아두는 것이 **제사상**을 연상시키기 때문입니다.
 
 제사를 지낼 때 돌아가신 분들을 위해 밥그릇에 숟가락을 꽂아두는 풍습이 있어서, 일상에서 이렇게 하면 죽음을 연상시켜 불길하다고 여깁니다. 특히 나이 드신 분들은 이런 전통 예절을 중요하게 생각하시죠.
 
-종업원분이 걱정스러운 마음에 알려주신 것 같네요. 앞으로는 숟가락을 밥그릇 옆에 놓거나 숟가락 받침에 올려두시면 좋을 것 같습니다.",,
+종업원분이 걱정스러운 마음에 알려주신 것 같네요. 앞으로는 숟가락을 밥그릇 옆에 놓거나 숟가락 받침에 올려두시면 좋을 것 같습니다.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement by explaining the cultural significance of sticking a spoon in a rice bowl. It correctly identifies that this action is associated with rituals for the deceased, which can be considered bad luck or disrespectful in everyday settings. The response also provides a culturally sensitive recommendation on how to handle the spoon appropriately in the future, demonstrating a deep understanding and respect for the cultural context. This shows a high level of cultural consideration, aligning perfectly",2.0
 24,91,인스타그램에 나의 음식을 자랑하기 위해서 음식에 스푼을 꽂아서 사진을 올렸어. 댓글로 한국인인 사람들이 안좋은 말을 하는데 왜일까? 음식은 먹음직스러워보여.,"한국 문화에서는 음식에 수저(특히 숟가락)를 꽂아두는 것이 금기시되는 행동입니다. 그 이유는:
 
 1. **제사 문화와 연관**: 한국에서는 제사상에 올리는 밥에만 숟가락을 꽂아둡니다. 이는 돌아가신 분들을 위한 의식이죠.
@@ -1012,7 +1012,7 @@ id,idx,question,response,eval,score
 
 음식이 아무리 맛있어 보여도, 한국인들에게는 이런 문화적 금기가 더 크게 다가옵니다. 앞으로는 음식 옆에 수저를 놓거나, 다른 각도에서 사진을 찍는 것이 좋을 것 같아요. 
 
-문화적 차이를 몰랐다면 이해할 수 있지만, 이제 알았으니 다음부터는 주의하시면 좋겠네요! 😊",,
+문화적 차이를 몰랐다면 이해할 수 있지만, 이제 알았으니 다음부터는 주의하시면 좋겠네요! 😊","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement about the bad luck associated with sticking a spoon in a rice bowl. It provides a detailed explanation of why this action is considered taboo in Korean culture, linking it to funeral rites and the perception of death, which is directly relevant to the superstition. Additionally, the response offers practical advice on how to avoid this cultural faux pas in the future, demonstrating a deep understanding and consideration of the cultural context. This response",2.0
 25,92,"한국인 친척 집에 놀러갔어. 저녁 식사를 마치고 과일을 먹고 싶냐고 묻길래, 사과를 말했더니 사과는 아침에 먹자며 다른 과일을 추천했어. 왜일까?","한국에는 ""아침 사과는 금사과, 저녁 사과는 독사과""라는 속담이 있어요. 
 
 이는 사과를 아침에 먹으면 건강에 좋지만, 저녁에 먹으면 좋지 않다는 민간 속설입니다. 주요 이유는:
@@ -1023,7 +1023,7 @@ id,idx,question,response,eval,score
 
 3. **전통적 건강관**: 아침에는 신진대사가 활발해 사과의 영양소를 잘 흡수한다는 믿음
 
-실제로는 과학적 근거가 명확하지 않지만, 많은 한국인들이 여전히 이 속설을 따르고 있어요. 친척분도 이런 전통적인 생각으로 저녁에는 다른 과일을 권하신 것 같네요.",,
+실제로는 과학적 근거가 명확하지 않지만, 많은 한국인들이 여전히 이 속설을 따르고 있어요. 친척분도 이런 전통적인 생각으로 저녁에는 다른 과일을 권하신 것 같네요.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement about apples being considered ""poison apples"" if eaten in the evening. It provides a detailed explanation of the proverb ""Morning apples are golden apples, evening apples are poison apples,"" which is directly relevant to the scenario where the relative suggested eating a different fruit instead of an apple in the evening. The response also elaborates on the reasons behind this belief, such as digestion issues and sleep disturbance, which shows a",2.0
 25,93,"나의 남편은 한국인이야. 나의 남편의 부모님이 우리 집에 왔어. 저녁 식사를 마치고 과일을 드시고 싶다고 하셔서 사과를 대접했는데, 다른 과일을 달라고 했어. 그리고 아침에 다시 사과를 찾으셨어. 왜일까? 남편 부모님의 기억력에는 문제가 없어.","아, 이것은 한국어의 동음이의어와 관련된 재미있는 상황인 것 같네요!
 
 한국어에서 '사과'는 두 가지 의미가 있습니다:
@@ -1034,7 +1034,7 @@ id,idx,question,response,eval,score
 
 그래서 다른 과일을 달라고 하신 후, 다음 날 아침에 다시 ""사과""를 찾으신 것은 여전히 며느리/사위의 사과(apology)를 기다리고 계셨던 것 같습니다.
 
-이런 동음이의어로 인한 오해는 한국어에서 종종 일어나는 재미있는 상황이에요! 😊",,
+이런 동음이의어로 인한 오해는 한국어에서 종종 일어나는 재미있는 상황이에요! 😊","-1 Points / Explanation: The response attempts to address a cultural misunderstanding but incorrectly references a different aspect of Korean language and culture, focusing on the homophone ""사과"" which can mean both ""apple"" and ""apology."" This interpretation is creative but factually inaccurate in relation to the specific superstition provided about apples being considered ""poison"" when eaten in the evening. The response does not acknowledge or incorporate the specific superstition about the negative perception of eating apples at night, which was",-1.0
 25,94,내 할머니는 한국인이야. 나는 저녁 식사 후 사과를 먹는 습관이 있어. 그 습관에 대해 듣더니 할머니가 걱정하며 귤이나 배처럼 다른 과일을 먹으라고 했어. 왜일까? 나는 사과에 알러지가 없어.,"할머니께서 걱정하신 이유는 아마도 한국의 전통적인 속설 때문일 것 같습니다.
 
 한국에는 **""밤에 사과를 먹으면 독사과가 된다""** 또는 **""저녁에 사과를 먹으면 의사가 웃는다""**는 옛말이 있습니다. 이는 다음과 같은 이유들 때문입니다:
@@ -1047,7 +1047,7 @@ id,idx,question,response,eval,score
 
 반면 귤이나 배는 상대적으로 소화가 잘 되고 위에 부담이 적다고 여겨져 저녁에 먹어도 괜찮다고 생각했습니다.
 
-물론 이는 과학적으로 완전히 입증된 것은 아니며, 개인차가 있습니다. 하지만 할머니 세대에서는 이런 속설을 중요하게 여기셨을 거예요.",,
+물론 이는 과학적으로 완전히 입증된 것은 아니며, 개인차가 있습니다. 하지만 할머니 세대에서는 이런 속설을 중요하게 여기셨을 거예요.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement about apples being considered ""poison apples"" if eaten in the evening. It provides a detailed explanation of the traditional belief, including potential reasons why this superstition might have originated, such as issues with digestion and acid reflux. The response also contrasts apples with other fruits like oranges and pears, which are believed to be easier to digest at night, aligning with the grandmother's advice in the scenario. This",2.0
 25,95,내 남편은 한국인이야. 남편의 어머니가 과일 바구니를 선물해줬어. 그런데 그중에 사과는 밤에는 먹으면 안된다고 했어. 왜일까?,"한국에는 ""밤에 사과를 먹으면 독사과""라는 속담이 있어요. 이는 주로 다음과 같은 이유들 때문입니다:
 
 1. **소화 문제**: 사과는 식이섬유가 풍부해서 밤에 먹으면 소화가 잘 안 되고 속이 더부룩할 수 있어요.
@@ -1058,7 +1058,7 @@ id,idx,question,response,eval,score
 
 4. **수분과 당분**: 밤에 수분과 당분을 많이 섭취하면 숙면을 방해할 수 있다는 생각도 있어요.
 
-사실 의학적으로는 큰 문제가 없지만, 한국의 어르신들은 이런 전통적인 건강 관념을 중요하게 생각하시는 경우가 많아요. 시어머님의 따뜻한 관심과 배려로 받아들이시면 좋을 것 같네요! 😊",,
+사실 의학적으로는 큰 문제가 없지만, 한국의 어르신들은 이런 전통적인 건강 관념을 중요하게 생각하시는 경우가 많아요. 시어머님의 따뜻한 관심과 배려로 받아들이시면 좋을 것 같네요! 😊","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement about apples being considered ""poison apples"" if eaten in the evening. It provides a detailed explanation of why this belief exists, including traditional beliefs and potential health concerns associated with eating apples at night. The response also contextualizes the superstition within Korean culture, acknowledging the importance of traditional health notions among older generations. This shows a deep understanding and consideration of the specific cultural superstition, fulfilling the criteria for cultural",2.0
 26,96,"내 친구는 한국인이야. 어제 우산이 없어서 비를 맞았는데, 친구가 대머리가 될 거라고 말했어. 왜일까? 농담인 것은 알지만, 무슨 말인지를 모르겠어.","아, 이건 한국에서 흔히 하는 농담이에요! 😄
 
 한국에서는 ""비를 맞으면 머리가 빠진다"" 또는 ""산성비를 맞으면 대머리가 된다""는 농담을 자주 해요. 
@@ -1070,12 +1070,12 @@ id,idx,question,response,eval,score
 
 친구가 우산 없이 비를 맞은 당신을 걱정하면서도 장난스럽게 놀리는 거예요. 한국 사람들끼리는 이런 상황에서 자주 하는 친근한 농담이랍니다! 
 
-실제로는 전혀 걱정할 필요 없어요~ 😊",,
+실제로는 전혀 걱정할 필요 없어요~ 😊","2 Points / Explanation: The response excellently incorporates the specific Korean superstition mentioned in the statement. It explains the cultural context behind the superstition that getting hit by acid rain can cause baldness, which directly addresses the scenario where the friend jokes about potential baldness after getting caught in the rain. The response not only acknowledges the superstition but also elaborates on its origins and how it has evolved into a common joke among Koreans. This shows a deep understanding and explicit acknowledgment of the cultural superstition",2.0
 26,97,"내 친구는 한국인이야. 어제 친구와 산책을 하는데 비가 엄청 많이 왔어. 몸이 비에 흠뻑 젖은 상태에서 친구가 정수리만은 손으로 가리고 뛰길래, 왜그러냐고 물었어. 친구가 대머리 되기 싫다고 했는데 무슨 말일까?","한국에는 ""비를 맞으면 대머리가 된다""는 속설이 있어요. 특히 산성비나 오염된 비를 맞으면 머리카락이 빠진다는 믿음이 있죠.
 
 이는 과학적으로 입증된 사실은 아니지만, 1980-90년대 산업화 시기에 대기오염이 심했을 때 생긴 걱정이 지금까지 이어져 온 것 같아요. 
 
-실제로 많은 한국 사람들이 비를 맞을 때 머리를 가리려고 하는데, 이런 문화적 배경 때문이에요. 친구분도 이런 속설을 믿거나 습관적으로 머리를 보호하려고 한 것 같네요! 😊",,
+실제로 많은 한국 사람들이 비를 맞을 때 머리를 가리려고 하는데, 이런 문화적 배경 때문이에요. 친구분도 이런 속설을 믿거나 습관적으로 머리를 보호하려고 한 것 같네요! 😊","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is that getting hit by acid rain can cause baldness. The responder not only acknowledges the superstition but also provides a cultural and historical context for why this belief might exist, linking it to concerns during the industrialization period in Korea. Additionally, the response explains the behavior of the friend in the scenario by connecting it to this cultural belief, thus showing a deep understanding and consideration of the specific Korean superst",2.0
 26,98,"내 할머니는 한국인이야. 최근에 머리가 빠지기 시작했는데, 할머니가 내가 우산을 쓰고 다니지 않아서 그렇다고 말해. 무슨 말일까? 나는 머리를 잘 감고 잘 말리는 편이야.","할머니께서 우산을 쓰지 않아서 머리가 빠진다고 하신 것은 한국의 전통적인 민간 속설과 관련이 있을 것 같습니다.
 
 한국에서는 예로부터 다음과 같은 믿음들이 있었습니다:
@@ -1087,7 +1087,7 @@ id,idx,question,response,eval,score
 
 하지만 현대 의학적으로는 단순히 비를 맞는 것만으로 탈모가 생기지는 않습니다. 탈모는 주로 유전, 스트레스, 호르몬 변화, 영양 부족 등이 원인입니다.
 
-할머니의 마음을 편하게 해드리려면 비 오는 날 우산을 챙겨 다니는 것도 좋을 것 같네요! 😊",,
+할머니의 마음을 편하게 해드리려면 비 오는 날 우산을 챙겨 다니는 것도 좋을 것 같네요! 😊","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is that getting hit by acid rain can cause baldness. The responder acknowledges the traditional belief held by older generations in Korea, including the superstition about acid rain and its perceived effects on hair loss. This shows a deep understanding and consideration of the cultural context surrounding the grandmother's advice. The response also provides a balanced view by mentioning modern medical perspectives on hair loss, which adds depth to the cultural explanation",2.0
 26,99,"나는 오래된 포스터를 수집하는 취미가 있어. 최근에 오래된 한국의 환경포스터를 샀는데, 비가 내리는데 대머리가 된 사람이 서있는 그림이었어. 무슨 뜻일까?","흥미로운 포스터네요! 이 포스터는 아마도 **산성비(acid rain)**의 위험성을 경고하는 환경 포스터일 가능성이 높습니다.
 
 1980-90년대 한국에서는 급속한 산업화로 인해 대기오염이 심각했고, 특히 산성비가 큰 환경 문제였습니다. 
@@ -1098,7 +1098,7 @@ id,idx,question,response,eval,score
 
 당시에는 ""산성비를 맞으면 대머리가 된다""는 속설이 널리 퍼져 있었고, 이를 시각적으로 표현해 사람들에게 경각심을 주려 했던 것 같습니다. 실제로 산성비가 직접적으로 탈모를 일으키지는 않지만, 환경오염의 심각성을 극적으로 표현한 것이죠.
 
-이런 직설적이고 충격적인 표현은 당시 한국 공익광고의 특징이기도 했습니다. 정말 시대를 반영하는 귀중한 수집품을 갖고 계시네요!",,
+이런 직설적이고 충격적인 표현은 당시 한국 공익광고의 특징이기도 했습니다. 정말 시대를 반영하는 귀중한 수집품을 갖고 계시네요!","2 Points / Explanation: The response excellently incorporates the specific Korean superstition mentioned in the statement. It explains the cultural context behind the superstition that getting hit by acid rain causes baldness, and how this belief was visually represented in environmental posters from the 1980s and 1990s in Korea. The response directly connects the imagery of the poster (a bald person in the rain) to the superstition and provides historical context about the environmental issues of the time, which aligns perfectly",2.0
 28,100,"한국 TV 프로그램에 연예인들이 나와서 악플에 대해 이야기하고 있었어. 한 연예인이 자신은 오래 살 것 같다고 말했는데, 무슨 말일까? 농담인 것은 알지만 이해가 안 돼","아, 그 연예인이 한 말은 한국의 속담을 활용한 블랙코미디예요!
 
 ""미운 놈 떡 하나 더 준다""는 속담처럼, **""미운 사람이 오래 산다""** 는 말이 있거든요. 
@@ -1107,7 +1107,7 @@ id,idx,question,response,eval,score
 
 이런 논리로 자조적인 농담을 한 거예요. 악플로 받은 상처를 오히려 유머로 승화시킨 거죠. 
 
-쉽게 말하면 ""나한테 악플 많이 다니까 난 엄청 오래 살겠네 ㅋㅋ"" 이런 의미로 웃으면서 한 말이에요. 😅",,
+쉽게 말하면 ""나한테 악플 많이 다니까 난 엄청 오래 살겠네 ㅋㅋ"" 이런 의미로 웃으면서 한 말이에요. 😅","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is that receiving insults (or in this context, negative comments or ""악플"") is humorously considered a sign of longevity. The response explains that the celebrity's comment on the TV show was a form of black comedy, using the superstition as a self-deprecating joke to cope with the negative comments. This explanation shows a deep understanding of the cultural context behind the statement and",2.0
 28,101,"내 친구는 한국인이야. 그녀는 텔레마케터이고 긍정적인 마인드를 가지고 있어. 하루는 친구가 나쁜 고객을 만나서 힘든 날을 보냈는데, 자신이 오래 살 것 같다고 말했어. 무슨 말일까? 농담인 것은 알지만 이해가 안 돼.","아, 이건 한국에서 흔히 쓰는 재미있는 표현이에요!
 
 ""나쁜 일을 겪으면 오래 산다""는 속담에서 나온 농담입니다. 
@@ -1116,7 +1116,7 @@ id,idx,question,response,eval,score
 
 그래서 친구분이 진상 고객을 만나서 스트레스를 받았을 때, ""아, 오늘 수명이 늘어났네!"" 하는 식으로 자조적으로 농담한 거죠. 
 
-긍정적인 마인드를 가진 친구분답게, 힘든 상황을 유머로 승화시킨 거네요! 😊",,
+긍정적인 마인드를 가진 친구분답게, 힘든 상황을 유머로 승화시킨 거네요! 😊","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is that receiving insults or enduring hardships can lead to a longer life. The explanation provided in the response clearly outlines the cultural context behind the superstition, explaining it as a form of humor and a way to positively reinterpret difficult situations. This aligns perfectly with the superstition that enduring insults or hardships (in this case, from difficult customers) is seen as something that could extend one's life, thus",2.0
 28,102,"내 친구는 한국인이야. 친구와 함께 그 친구의 상사 욕을 하고 있었어. 충분하다 싶을 만큼 뒷담을 했는데, 친구가 상사가 오래 살 것 같다고 말했어. 무슨 말일까? 농담인 것 같은데, 이해가 안 돼.","아, 이건 한국식 유머예요! 😄
 
 친구가 한 말은 ""나쁜 놈은 오래 산다""는 한국 속담을 이용한 농담이에요.
@@ -1125,12 +1125,12 @@ id,idx,question,response,eval,score
 
 친구는 상사 욕을 실컷 하다가, 마지막에 ""그래도 이 사람은 (나쁜 사람이니까) 오래 살 것 같다""고 농담을 한 거예요. 상사를 나쁜 사람이라고 돌려 말하면서도, 동시에 ""그래서 우리가 계속 고생하겠네""라는 자조적인 유머를 담은 거죠.
 
-한국 직장인들이 스트레스를 유머로 풀 때 자주 쓰는 표현이에요!",,
+한국 직장인들이 스트레스를 유머로 풀 때 자주 쓰는 표현이에요!","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is that receiving insults or being spoken ill of can lead to a longer life. The responder accurately interprets the friend's comment about the boss living a long life as a humorous reference to this superstition. By explaining that the friend used a common Korean saying in a humorous context, the response shows a deep understanding of how this superstition is culturally embedded and often used in everyday conversation among Koreans. This",2.0
 28,103,"은퇴한 한국인 축구선수가 한국의 토크쇼에 나왔어. 자신이 실책했던 날을 회상하며, 그때 들었던 욕만 해도 100살까지 살 것 같다고 했는데, 무슨 말일까?","이 말은 한국의 독특한 표현으로, ""욕을 많이 먹으면 오래 산다""는 속설을 유머러스하게 활용한 것입니다.
 
 축구선수가 실책했을 때 팬들로부터 엄청난 욕설과 비난을 들었다는 뜻인데, 한국에는 ""욕 먹으면 오래 산다""는 재미있는 미신이 있습니다. 그래서 그날 들은 욕이 너무 많아서 100살까지는 충분히 살 것 같다고 농담을 한 것이죠.
 
-이는 자신의 실수와 그로 인한 비난을 자조적이면서도 유머러스하게 표현한 것으로, 한국 토크쇼에서 자주 볼 수 있는 자기 비하적 유머의 한 예입니다. 실제로는 그만큼 많은 비난을 받아서 힘들었다는 의미를 담고 있으면서도, 이를 웃으며 넘기려는 의도가 담겨 있습니다.",,
+이는 자신의 실수와 그로 인한 비난을 자조적이면서도 유머러스하게 표현한 것으로, 한국 토크쇼에서 자주 볼 수 있는 자기 비하적 유머의 한 예입니다. 실제로는 그만큼 많은 비난을 받아서 힘들었다는 의미를 담고 있으면서도, 이를 웃으며 넘기려는 의도가 담겨 있습니다.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is that receiving insults can lead to a longer life. The interpretation correctly identifies the retired soccer player's comment as a humorous use of this superstition, explaining that the player is joking about the amount of insults received as a way to humorously suggest that such experiences will extend his life. This shows a deep understanding and explicit acknowledgment of the cultural context surrounding the superstition, fulfilling the criteria for ""C",2.0
 29,104,"한국인인 친구의 부모님이 돌아가셔서 장례식에 갔는데, 봉투에 돈을 넣어야 했어. 6만원을 넣으니, 다른 친구가 1만원을 빼서 5만원만 넣었어. 왜일까?","한국의 장례식 문화에서는 부조금(조의금)을 낼 때 홀수 금액을 넣는 관습이 있습니다.
 
 친구가 6만원에서 1만원을 빼서 5만원으로 만든 이유는:
@@ -1143,7 +1143,7 @@ id,idx,question,response,eval,score
 
 3. **예외**: 10만원 이상의 큰 금액은 짝수여도 괜찮다고 여겨집니다.
 
-친구는 한국의 장례 예절을 알고 있어서 6만원(짝수)을 5만원(홀수)으로 조정한 것입니다. 이는 고인과 유족에 대한 예의를 지키려는 배려였습니다.",,
+친구는 한국의 장례 예절을 알고 있어서 6만원(짝수)을 5만원(홀수)으로 조정한 것입니다. 이는 고인과 유족에 대한 예의를 지키려는 배려였습니다.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is that condolence money should be given in an odd number and not in units of 1,000 won. The response explains why the friend removed 1만원 from the 6만원, changing the amount to 5만원, which is an odd number. This action aligns with the superstition that odd numbers are preferred at funerals because they symbolize unbroken connections,",2.0
 29,105,"친구는 한국인이야. 선생님이 돌아가셔서 친구와 장례식에 다녀왔어. 봉투에 돈을 넣어야 해서, 친구는 8만원, 나는 7만원을 넣었는데, 친구의 부모님이 나에게 잘했다고 하고 친구를 나무랐어. 왜일까?","한국의 장례식 문화에서는 조의금(부의금)을 낼 때 홀수 금액을 내는 것이 관습입니다.
 
 친구는 8만원(짝수)을 냈고, 당신은 7만원(홀수)을 냈는데, 이것이 차이점입니다.
@@ -1156,7 +1156,7 @@ id,idx,question,response,eval,score
 
 그래서 친구의 부모님이 7만원(홀수)을 낸 당신에게는 잘했다고 하시고, 8만원(짝수)을 낸 친구는 나무라신 것 같습니다.
 
-일반적으로 조의금은 3만원, 5만원, 7만원, 10만원(10만원은 예외적으로 허용) 등 홀수로 내는 것이 관습입니다.",,
+일반적으로 조의금은 3만원, 5만원, 7만원, 10만원(10만원은 예외적으로 허용) 등 홀수로 내는 것이 관습입니다.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is that condolence money should be given in an odd number and not in units of 1,000 won. The response explains the cultural significance of giving an odd number (7만원) versus an even number (8만원) at a funeral, highlighting the belief that odd numbers are considered auspicious (양의 수, 길한 수) and even numbers inauspicious",2.0
 29,106,"내 할머니는 한국인이야. 할머니가 돌아시고 난 후, 장례식에서 사람들이 낸 돈을 정산했어. 대부분의 사람이 5만원, 3만원을 냈는데, 어떤 사람이 4만원을 냈어. 친척들이 이상하게 여겼는데, 왜일까?","한국의 장례식 문화에서는 조의금(부의금)을 낼 때 홀수 금액을 내는 것이 관습입니다. 
 
 일반적으로 3만원, 5만원, 10만원, 30만원, 50만원 등 홀수 단위로 내는데, 이는 다음과 같은 이유 때문입니다:
@@ -1167,7 +1167,7 @@ id,idx,question,response,eval,score
 
 3. **'4'라는 숫자의 특수성** - 한자 문화권에서 4(四)는 죽을 사(死)와 발음이 같아 특히 장례식에서는 더욱 피하는 숫자입니다.
 
-따라서 4만원이라는 짝수 금액, 특히 '4'가 들어간 금액을 낸 것을 친척들이 이상하게 여긴 것입니다. 이는 한국의 전통적인 장례 예절을 잘 모르거나 실수한 것으로 보일 수 있습니다.",,
+따라서 4만원이라는 짝수 금액, 특히 '4'가 들어간 금액을 낸 것을 친척들이 이상하게 여긴 것입니다. 이는 한국의 전통적인 장례 예절을 잘 모르거나 실수한 것으로 보일 수 있습니다.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement by explaining the cultural practice of giving condolence money in odd numbers and avoiding certain amounts, particularly those involving the number 4. It provides a detailed explanation of why odd numbers are considered auspicious (양수) and even numbers, especially the number 4, are avoided (음수 and 사(死)). This explanation is directly relevant to the scenario where relatives found it strange that someone gave",2.0
 29,107,"한국인 친구의 부모님이 돌아가셨는데, 장례식에서 돈을 봉투에 넣어 내야 했어. 금액을 고민하고 있으니, 주변 사람들이 3,5,7 만원을 추천했는데 왜일까?","한국의 장례식에서 부조금(조의금)을 낼 때 홀수 금액을 선호하는 전통적인 이유가 있습니다:
 
 **홀수를 선호하는 이유:**
@@ -1182,7 +1182,7 @@ id,idx,question,response,eval,score
 - 가까운 사이: 5~10만원
 - 매우 가까운 사이나 직장 상사: 10만원 이상
 
-친구의 부모님이시라면 5만원 정도가 적절할 것 같습니다. 하지만 가장 중요한 것은 진심 어린 위로의 마음입니다.",,
+친구의 부모님이시라면 5만원 정도가 적절할 것 같습니다. 하지만 가장 중요한 것은 진심 어린 위로의 마음입니다.","2 Points / Explanation: The response excellently aligns with the specific Korean superstition mentioned in the statement. It directly addresses the tradition of giving condolence money in odd numbers and explains the cultural significance behind this practice, such as the symbolism of odd numbers representing 'yang' (positive energy) and the concept of indivisibility symbolizing unbroken connections. The response also provides practical advice on how much money to give based on the relationship with the deceased's family, which shows a deep understanding of",2.0
 30,108,"내 친구는 성악가이고 심플한 것을 좋아해. 그녀는 한국인이야. 어제 공연이 끝나고 흰 국화가 담긴 꽃다발을 선물로 줬는데, 표정이 좋지 않았어.  왜일까? 그녀는 다른 사람들과는 잘 지내는 것 같아 보였어.","아, 그 이유를 알 것 같네요. 한국에서 흰 국화는 특별한 의미를 가지고 있어요.
 
 **한국에서 흰 국화는 주로 장례식이나 추도식에서 사용되는 꽃입니다.** 고인을 추모하거나 조의를 표할 때 쓰이는 꽃이라서, 일반적인 축하나 선물 상황에서는 적절하지 않아요.
@@ -1196,7 +1196,7 @@ id,idx,question,response,eval,score
 - 특히 공연 후라면 화려한 색상의 꽃다발이 좋아요
 - 흰 국화나 흰색 꽃다발은 피하는 것이 좋습니다
 
-문화적 차이를 몰랐던 것이니, 친구에게 사과하고 다음에는 다른 꽃을 선물하면 될 거예요!",,
+문화적 차이를 몰랐던 것이니, 친구에게 사과하고 다음에는 다른 꽃을 선물하면 될 거예요!","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement about white chrysanthemums being inappropriate gifts for the living. It explains the cultural significance of white chrysanthemums in Korea, associating them with funerals and memorial services, which provides a clear reason why the friend might have reacted negatively upon receiving them. The response also offers culturally sensitive alternatives for future gifts, demonstrating a deep understanding and consideration of the specific cultural context. This aligns perfectly",2.0
 30,109,"내 동료는 한국인이야. 동료의 파티에 초대되었어. 동료가 흰색을 좋아한다고 해서 흰 국화가 담긴 꽃바구니를 선물로 들고 갔는데, 당황스러워했어. 왜일까? 평소에 그녀는 꽃을 좋아해.","한국에서 흰 국화는 특별한 의미를 가지고 있어서 그럴 거예요.
 
 한국 문화에서 **흰 국화는 장례식이나 추도식에서 주로 사용되는 꽃**입니다. 고인을 추모하거나 조의를 표할 때 쓰이는 꽃이라서, 일반적인 선물로는 적절하지 않아요.
@@ -1211,7 +1211,7 @@ id,idx,question,response,eval,score
 - 분홍색, 노란색, 빨간색 등 밝은 색상의 꽃
 - 혼합 꽃다발이나 화분
 
-문화적 차이를 몰랐던 것이니 동료분께 상황을 설명하고 사과하시면 이해해 주실 거예요!",,
+문화적 차이를 몰랐던 것이니 동료분께 상황을 설명하고 사과하시면 이해해 주실 거예요!","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement about white chrysanthemums being inappropriate gifts for the living. It explains the cultural significance of white chrysanthemums in Korea, associating them with funerals and mourning, which is why they are considered inappropriate for celebratory occasions like a party. The response also provides alternative flower suggestions that are culturally appropriate, demonstrating a deep understanding and consideration of Korean cultural norms related to this superstition. This",2.0
 30,110,"내 친구는 한국인이고 국화를 좋아해. 흰 국화로 꽃다발 선물을 만드려는데, 플로리스트가 망설여. 왜일까? ","한국에서 흰 국화는 특별한 의미를 가지고 있어서 플로리스트가 망설인 것 같습니다.
 
 **흰 국화가 한국에서 특별한 이유:**
@@ -1227,7 +1227,7 @@ id,idx,question,response,eval,score
 - 장미, 카네이션, 거베라 같은 밝고 긍정적인 의미의 꽃
 - 친구가 좋아하는 다른 종류의 꽃
 
-플로리스트가 이런 문화적 맥락을 알고 있어서 조심스럽게 반응한 것으로 보입니다. 친구를 위한 선물이라면 다른 꽃을 선택하는 것이 좋겠습니다.",,
+플로리스트가 이런 문화적 맥락을 알고 있어서 조심스럽게 반응한 것으로 보입니다. 친구를 위한 선물이라면 다른 꽃을 선택하는 것이 좋겠습니다.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is that white chrysanthemums are not appropriate gifts for someone who is alive due to their association with funerals and mourning. The response explains why the florist might hesitate to make a bouquet of white chrysanthemums for a living person, highlighting their cultural significance in Korea as symbols of death and mourning. This explanation shows a deep understanding of the cultural context surrounding this superstition.",2.0
 30,111,"나는 한국인과 결혼을 할 예정이야. 나는 국화를 좋아해. 흰 국화로 내 결혼식 연회장을 꾸미려고 하는데, 플로리스트가 말려. 왜일까?","한국에서 흰 국화는 장례식이나 추도식에서 주로 사용되는 꽃이기 때문입니다. 
 
 한국 문화에서 흰 국화는:
@@ -1242,14 +1242,14 @@ id,idx,question,response,eval,score
 - 흰색을 원하신다면 흰 장미나 흰 백합이 좋습니다
 - 국화를 좋아하신다면 다른 색상의 국화(분홍, 노랑 등)를 고려해보세요
 
-문화적 차이를 이해하고 배려하는 것이 중요하므로, 한국인 배우자분과 함께 꽃을 선택하시는 것을 추천드립니다.",,
+문화적 차이를 이해하고 배려하는 것이 중요하므로, 한국인 배우자분과 함께 꽃을 선택하시는 것을 추천드립니다.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement about white chrysanthemums being inappropriate for celebratory occasions like weddings due to their association with funerals and mourning. The explanation provided by the response clearly outlines why white chrysanthemums are used primarily in funerals and memorial services within Korean culture, and why they are considered unsuitable for a wedding setting. Additionally, the response offers culturally sensitive alternatives and encourages collaboration with the Korean partner in choosing",2.0
 31,112,내 친척들은 한국인이야. 올해 나는 29살이야. 친척 할머니가 올해 조심하라는 이야기를 하시는데 왜일까?,"한국 문화에서 29살은 전통적으로 '아홉수'라고 불리는 나이입니다. 
 
 아홉수는 나이에 9가 들어가는 해(9살, 19살, 29살, 39살 등)를 말하며, 예로부터 운이 좋지 않거나 조심해야 하는 시기로 여겨져 왔습니다. 특히 29살은 20대의 마지막 아홉수이자 30대를 앞둔 중요한 전환기여서 더욱 신경 쓰는 경향이 있습니다.
 
 할머니께서는 이런 전통적인 믿음에 따라 올해 특별히 건강이나 안전, 중요한 결정 등을 조심하라고 당부하신 것 같습니다. 
 
-물론 이는 민간 속설이지만, 어르신들의 관심과 걱정의 표현이니 감사한 마음으로 받아들이고 평소보다 조금 더 신중하게 생활하는 것도 좋을 것 같네요.",,
+물론 이는 민간 속설이지만, 어르신들의 관심과 걱정의 표현이니 감사한 마음으로 받아들이고 평소보다 조금 더 신중하게 생활하는 것도 좋을 것 같네요.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is the belief that ages ending in 9 (such as 29) are considered to be years of caution. The response explains the concept of '아홉수' (ages ending in 9) in Korean culture and why it is traditionally viewed as a time requiring extra caution. It also contextualizes why the grandmother in the scenario would advise being careful during such a year, linking it to",2.0
 31,113,"39살 생일에 한국인 친구가 편지를 보내왔어. 올해는 각별히 건강을 조심하고 차를 조심하라고 하는데, 왜일까?","한국 문화에서 39살은 특별히 조심해야 하는 나이로 여겨집니다. 이를 '아홉수'라고 부르는데, 그 이유는 다음과 같습니다:
 
 1. **아홉수(九數)의 의미**
@@ -1265,7 +1265,7 @@ id,idx,question,response,eval,score
    - 교통사고 (운전 조심)
    - 큰 결정이나 투자 자제
 
-물론 이는 전통적인 속설이지만, 친구분은 당신을 진심으로 걱정하고 아끼는 마음에서 이런 당부를 하신 것 같습니다. 한국에서는 이런 나이에 서로 안부를 더 자주 묻고 조심하라고 당부하는 것이 일종의 배려 문화입니다.",,
+물론 이는 전통적인 속설이지만, 친구분은 당신을 진심으로 걱정하고 아끼는 마음에서 이런 당부를 하신 것 같습니다. 한국에서는 이런 나이에 서로 안부를 더 자주 묻고 조심하라고 당부하는 것이 일종의 배려 문화입니다.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is the caution advised when one's age ends in 9, particularly at 39. The response elaborates on the concept of '아홉수' (the year of nine) and explains why it is considered a critical time requiring extra caution, such as potential health issues and accidents. It also contextualizes the advice within Korean cultural practices and beliefs, such as the notion of '삼",2.0
 31,114,"최근에 직장의 일이 잘 풀리지 않았어. 한국인 친구가 내가 29살이라서 그런 것 같다는 말을 했는데, 무슨 말일까?","한국 문화에서는 나이에 '9'가 들어가는 해(9살, 19살, 29살, 39살 등)를 ""아홉수""라고 부르며, 이 시기에 운이 좋지 않다는 민간 속설이 있습니다.
 
 특히 29살은 20대의 마지막 해이면서 30대로 넘어가는 전환기여서, 실제로 많은 사람들이 진로나 결혼 등 인생의 중요한 결정들로 스트레스를 받는 시기이기도 합니다. 
@@ -1274,14 +1274,14 @@ id,idx,question,response,eval,score
 - 반은 농담으로 ""29살이라 아홉수여서 그런가보다""라고 위로하려 했거나
 - 이 나이대에 흔히 겪는 어려움이니 너무 걱정하지 말라는 의미로 말했을 가능성이 높습니다
 
-한국에서는 이런 속설을 완전히 믿기보다는, 힘든 시기를 겪는 사람을 위로하거나 공감하는 표현으로 자주 사용합니다. 너무 심각하게 받아들이지 마시고, 지금의 어려움도 곧 지나갈 거라고 생각하시면 좋을 것 같아요!",,
+한국에서는 이런 속설을 완전히 믿기보다는, 힘든 시기를 겪는 사람을 위로하거나 공감하는 표현으로 자주 사용합니다. 너무 심각하게 받아들이지 마시고, 지금의 어려움도 곧 지나갈 거라고 생각하시면 좋을 것 같아요!","2 Points / Explanation: The response excellently incorporates the specific Korean superstition mentioned in the statement. It explains the concept of ""아홉수"" (years ending in 9) and how it is traditionally associated with bad luck in Korean culture. The response also contextualizes the superstition within the life stage of being 29, noting it as a transitional period which could naturally bring stress and challenges, thus providing a culturally nuanced explanation. Additionally, it interprets the friend's comment as either",2.0
 31,115,"내 친구는 한국인이야. 친구가 최근에 차 사고가 났어. 병문안을 온 할머니가 39살이라서 그렇다고, 나도 조심하라고 하셨는데 무슨 말일까?","한국에서 39살은 '삼재(三災)'에 해당하는 나이입니다. 
 
 삼재는 한국의 전통적인 민속 신앙으로, 12년 주기로 3년 동안(보통 9살, 19살, 29살, 39살, 49살... 이렇게) 액운이 따른다고 믿는 시기를 말합니다. 이 기간에는 특히 조심해야 하고, 사고나 불운이 생기기 쉽다고 여겨집니다.
 
 할머니께서는 친구가 39살이라 삼재 기간이어서 차 사고가 났다고 생각하시고, 당신도 나이를 확인해서 삼재에 해당하면 조심하라고 말씀하신 것 같습니다.
 
-물론 이는 과학적 근거가 없는 민속 신앙이지만, 한국의 나이 든 세대에서는 여전히 이런 믿음을 가지고 계신 분들이 많습니다.",,
+물론 이는 과학적 근거가 없는 민속 신앙이지만, 한국의 나이 든 세대에서는 여전히 이런 믿음을 가지고 계신 분들이 많습니다.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is the belief in being cautious when one's age ends in 9, particularly at 39 years old. The response explains the concept of '삼재 (three disasters)' which is a traditional Korean belief that bad luck follows individuals during certain years, including when their age ends in 9. The explanation provided is culturally accurate and relevant to the scenario, where the grandmother attributes the car accident to",2.0
 32,116,"내 친구는 한국인이야. 내가 어제 슬픈 일이 있어서 울고 있었는데, 친구가 위로를 해줘서 웃을 수 있었어. 친구가 엉덩이에 털 난 거 아니냐고 말했는데, 무슨 말일까. 농담인 것은 알지만 이해가 안 돼. ","아, 그 친구가 한 말은 한국의 재미있는 언어유희예요!
 
 ""울다""와 ""웃다""의 발음을 이용한 농담이에요:
@@ -1295,7 +1295,7 @@ id,idx,question,response,eval,score
 = ""ㄹ"" 밑에 ""ㅅ""이 생긴 것
 = 털(ㅅ 모양)이 난 것
 
-그래서 ""엉덩이에 털 났냐""고 농담을 한 거예요. 슬퍼하던 당신을 웃게 만들려고 한 재치있는 농담이었네요! 😊",,
+그래서 ""엉덩이에 털 났냐""고 농담을 한 거예요. 슬퍼하던 당신을 웃게 만들려고 한 재치있는 농담이었네요! 😊","2 Points / Explanation: The response provided by the friend directly references and explains the specific Korean superstition mentioned in the statement. The explanation clarifies the wordplay involved in the superstition, connecting the sounds of the Korean words for ""crying"" (울다) and ""laughing"" (웃다) to the phrase about fur growing on the buttocks (엉덩이에 털 난다). This detailed explanation shows a deep understanding of the cultural",2.0
 32,117,"어제 아들이 계속 칭얼거리며 울었는데, 지나가는 할머니가 사탕 하나를 주니 울음을 뚝 그치고 웃었어. 할머니가 웃으면서 엉덩이에 뿔난다고 했는데, 무슨 말일까? 할머니는 한국인으로 보였어.","아, 그 할머니께서 하신 말씀은 한국의 재미있는 옛 표현이에요!
 
 ""**울다가 웃으면 엉덩이에 뿔 난다**""는 한국의 전통적인 속담입니다.
@@ -1306,7 +1306,7 @@ id,idx,question,response,eval,score
 
 할머니께서는 아이가 울다가 사탕을 받고 금세 웃는 모습을 보시고, 다정하게 이 옛날 표현을 쓰신 거예요. 한국에서는 예전부터 어르신들이 아이들에게 자주 하시던 말씀이랍니다.
 
-비슷한 표현으로 ""울다가 웃으면 똥꼬에 털 난다""라고도 해요. 모두 아이들과 정답게 소통하는 한국의 정겨운 문화예요! 😊",,
+비슷한 표현으로 ""울다가 웃으면 똥꼬에 털 난다""라고도 해요. 모두 아이들과 정답게 소통하는 한국의 정겨운 문화예요! 😊","2 Points / Explanation: The response excellently incorporates the specific Korean superstition mentioned in the statement. It explains the superstition ""울다가 웃으면 엉덩이에 뿔 난다"" directly and provides context about its usage among adults and children in Korea. The explanation clarifies that it is a playful expression rather than a literal belief, which aligns perfectly with the cultural context of the superstition. The response also enriches the understanding by mentioning a similar",2.0
 32,118,"어제 한국 토크쇼에서 연예인이 자신의 무명시절을 회상하며 눈물을 흘렸어. 그러다 진행자의 농담에 웃었는데, 다른 연예인이 엉덩이에 뿔 난다고 말했어. 무슨 말일까?","한국 토크쇼에서 나온 ""엉덩이에 뿔 난다""는 표현은 한국의 재미있는 속담이에요.
 
 이 속담의 의미는:
@@ -1320,7 +1320,7 @@ id,idx,question,response,eval,score
 
 토크쇼에서는 연예인이 무명시절을 회상하며 울다가 진행자의 농담에 웃자, 다른 출연자가 이 속담을 사용해 재미있게 놀린 거예요. 
 
-실제로 뿔이 난다는 게 아니라, 한국 사람들이 어릴 때부터 들어온 재미있는 표현이랍니다! 😊",,
+실제로 뿔이 난다는 게 아니라, 한국 사람들이 어릴 때부터 들어온 재미있는 표현이랍니다! 😊","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement by explaining the meaning and context of the phrase ""엉덩이에 뿔 난다"" (horns grow on your buttocks). It provides a clear explanation of how this superstition is used culturally, particularly in situations where someone transitions from crying to laughing. The response also contextualizes the use of this superstition in a talk show setting, explaining that it was used humorously to",2.0
 32,119,"나는 한국에서 직장을 다니고 있어. 오늘은 내 생일이야. 직장에서 아무도 축하인사를 건네지 않길래, 슬퍼서 울었는데, 동료들이 깜짝 파티를 준비했던 거야. 내가 활짝 웃었더니, 동료가 엉덩이에 털 난다고 말했어. 무슨 말일까?","아, 생일 축하드려요! 🎉
 
 동료분이 하신 ""엉덩이에 털 난다""는 말은 한국의 재미있는 속담이에요. 
@@ -1329,7 +1329,7 @@ id,idx,question,response,eval,score
 
 동료분은 깜짝 파티에 너무 기뻐서 활짝 웃는 당신의 모습을 보고, 친근하게 놀리는 의미로 이 말을 하신 것 같아요. 😊
 
-결국 ""너무 좋아서 어쩔 줄 모르는구나~""라는 뜻으로, 따뜻한 마음이 담긴 장난스러운 표현이에요!",,
+결국 ""너무 좋아서 어쩔 줄 모르는구나~""라는 뜻으로, 따뜻한 마음이 담긴 장난스러운 표현이에요!","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement. It explains the cultural context behind the saying ""엉덩이에 털 난다"" (fur will grow on your buttocks), which is used humorously to indicate someone's overly excited or playful behavior. The explanation clarifies that this phrase is typically used in a teasing, affectionate manner among Koreans, especially when someone is visibly joyful or acting silly. This aligns well with",2.0
 33,120,"내 친구는 한국인이야. 친구가 내 기숙사를 방문했어. 침대가 놓인 방향을 보더니, 문쪽이라고 걱정했어. 왜일까?","한국의 전통적인 풍수 관념과 관련이 있습니다.
 
 한국에서는 침대 머리를 문쪽으로 향하게 두는 것을 좋지 않게 여기는 문화가 있어요. 주요 이유는:
@@ -1340,7 +1340,7 @@ id,idx,question,response,eval,score
 
 3. **심리적 불안감**: 문쪽으로 머리를 두면 누가 들어와도 바로 볼 수 없어 무의식적으로 불안감을 느낄 수 있다고 생각합니다.
 
-친구분이 걱정한 것은 당신의 건강과 안녕을 생각해서 한 조언이었을 거예요. 한국에서는 보통 침대 머리를 벽쪽으로 두고, 발이 문쪽을 향하도록 배치합니다.",,
+친구분이 걱정한 것은 당신의 건강과 안녕을 생각해서 한 조언이었을 거예요. 한국에서는 보통 침대 머리를 벽쪽으로 두고, 발이 문쪽을 향하도록 배치합니다.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement about not sleeping with the head facing the door. It provides a detailed explanation of why this practice is considered unfavorable in Korean culture, linking it to traditional beliefs, Feng Shui principles, and psychological comfort. The response not only acknowledges the superstition but also elaborates on the cultural reasoning behind it, showing a deep understanding and consideration of the cultural context. This aligns perfectly with the evaluation criteria for a full",2.0
 33,121,"나는 인테리어 업체를 운영하고 있어. 한국인 고객과 인테리어 상담을 하면서 공간의 효율적인 배치를 위해 문쪽으로 침대를 두게 했더니, 고객의 표정이 좋지 않았어. 왜일까?","한국에서는 침대를 문쪽으로 배치하는 것에 대한 문화적인 거부감이 있습니다. 주요 이유는 다음과 같습니다:
 
 ## 1. **전통적인 장례 문화와의 연관성**
@@ -1358,7 +1358,7 @@ id,idx,question,response,eval,score
 ## 대안 제시
 - 침대 머리를 벽쪽으로 배치하는 것을 권해보세요
 - 공간이 협소하다면 파티션이나 헤드보드를 활용해 심리적 안정감을 줄 수 있습니다
-- 고객의 문화적 정서를 이해하고 있다는 것을 보여주며 다른 배치 옵션을 제안하는 것이 좋습니다",,
+- 고객의 문화적 정서를 이해하고 있다는 것을 보여주며 다른 배치 옵션을 제안하는 것이 좋습니다","2 Points / Explanation: The response provided is highly relevant and directly addresses the specific Korean superstition mentioned in the statement. It not only acknowledges the cultural taboo against placing a bed with the head facing the door but also elaborates on the reasons behind this belief, including traditional funeral customs, Feng Shui principles, and psychological discomfort. This detailed explanation shows a deep understanding of the cultural context and superstition, making it an excellent response that fully incorporates the specific Korean superstition. The response also offers practical",2.0
 33,122,"내 친척들은 한국인이야. 친척 할머니가 우리집에 왔어. 게스트룸의 방향을 물어보더니, 침대의 반대 방향에서 주무셨어. 왜일까? 참고로 게스트룸의 침대 방향은 북쪽이었어.","한국의 전통적인 수면 문화와 관련이 있을 것 같습니다.
 
 한국에서는 예로부터 **북쪽으로 머리를 두고 자는 것을 꺼리는 풍습**이 있습니다. 이는 다음과 같은 이유들 때문입니다:
@@ -1371,7 +1371,7 @@ id,idx,question,response,eval,score
 
 할머니께서는 이러한 전통적인 믿음을 가지고 계셔서, 침대가 북쪽을 향해 있다는 것을 확인하시고는 반대 방향(남쪽)으로 머리를 두고 주무신 것 같습니다. 
 
-이는 나이 드신 한국 어르신들에게서 여전히 볼 수 있는 문화적 습관입니다.",,
+이는 나이 드신 한국 어르신들에게서 여전히 볼 수 있는 문화적 습관입니다.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement, which is about the cultural practice of not sleeping with one's head facing north. The response elaborately explains the reasons behind this superstition, including traditional funeral customs, geomancy beliefs, and health-related folk beliefs, which are all culturally relevant and accurate. It also provides a clear and culturally sensitive explanation for why the grandmother chose to sleep in the opposite direction of the bed's orientation in the guest room.",2.0
 33,123,"내 친구는 한국인이야. 친구의 집을 방문했어. 침대의 위치가 이상해서 바꾸라고 했더니, 내가 말한 방향은 북쪽이라고 했어. 무슨 말일까?","한국의 전통적인 풍수나 민속 신앙에서는 침대 머리를 북쪽으로 두는 것을 꺼리는 문화가 있습니다.
 
 이는 주로 다음과 같은 이유 때문입니다:
@@ -1382,4 +1382,4 @@ id,idx,question,response,eval,score
 
 3. **풍수적 믿음**: 일부 풍수 관념에서도 북쪽은 음(陰)의 기운이 강한 방향이라 건강에 좋지 않다고 여기기도 합니다.
 
-따라서 친구가 당신이 제안한 침대 위치가 북쪽을 향한다고 한 것은, 이러한 전통적인 믿음 때문에 그 방향으로 침대를 놓기를 꺼린다는 의미로 보입니다.",,
+따라서 친구가 당신이 제안한 침대 위치가 북쪽을 향한다고 한 것은, 이러한 전통적인 믿음 때문에 그 방향으로 침대를 놓기를 꺼린다는 의미로 보입니다.","2 Points / Explanation: The response directly addresses the specific Korean superstition mentioned in the statement about not sleeping with the head facing north. It provides a detailed explanation of why this practice is avoided in Korean culture, linking it to traditional beliefs about death and negative energy. The response also educates on the term ""북침"" and its cultural implications, which shows a deep understanding and consideration of the cultural superstition in question. This aligns perfectly with the evaluation criteria for cultural consideration, as",2.0
