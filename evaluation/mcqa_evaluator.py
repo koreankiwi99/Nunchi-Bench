@@ -1,14 +1,13 @@
 import pandas as pd
 import re
+import os
 import argparse
 
 def parse_choices(choice_text):
-    """Parse multiline choices into {'A': 'choice text', ...}."""
     choices = {}
     if not isinstance(choice_text, str):
         return choices
-    lines = choice_text.strip().split("\n")
-    for line in lines:
+    for line in choice_text.strip().split("\n"):
         match = re.match(r"([A-D])\.\s*(.+)", line.strip())
         if match:
             letter, content = match.groups()
@@ -16,92 +15,80 @@ def parse_choices(choice_text):
     return choices
 
 def match_prediction(pred_text, choices_dict):
-    """Match predicted output to a choice letter based on letter or choice text."""
     if not isinstance(pred_text, str):
         return None
     text = pred_text.strip().upper()
 
-    # 1. Exact letter (A/B/C/D)
     match = re.search(r"\b([A-D])\b", text)
     if match:
         return match.group(1)
 
-    # 2. "Answer: A", "Option B"
     match = re.search(r"(ANSWER|OPTION)[\s:]*([A-D])", text)
     if match:
         return match.group(2)
 
-    # 3. Match choice content
     for letter, choice in choices_dict.items():
-        if f"{letter}. {choice}".upper() in text:
+        if f"{letter}. {choice}".upper() in text or choice.upper() in text:
             return letter
-        if choice.upper() in text:
-            return letter
-
     return None
 
-def evaluate_mcqa(input_csv, response_csv, output_csv=None, language="eng"):
+def evaluate_mcqa(input_csv, response_csv, language="eng"):
     df_input = pd.read_csv(input_csv)
     df_response = pd.read_csv(response_csv)
 
-    if "id" not in df_response.columns:
-        df_response["id"] = df_response["ID"]  # fallback
+    if "id" not in df_response.columns and "ID" in df_response.columns:
+        df_response["id"] = df_response["ID"]
 
-    results = []
+    if "correct" in df_response.columns and df_response["correct"].notnull().all():
+        print(f"✅ Skipping already evaluated: {os.path.basename(response_csv)}")
+        return
+
     correct_count = 0
+    for i, row in df_response.iterrows():
+        if "correct" in df_response.columns and pd.notnull(row.get("correct", None)):
+            continue
 
-    for _, row in df_response.iterrows():
         qid = row["id"]
         output = row["output"]
 
         gold_row = df_input[df_input["ID"] == qid]
         if gold_row.empty:
-            print(f"Skipping ID {qid} (not found in input)")
+            print(f"⚠️ Skipping ID {qid} (not in input)")
             continue
 
         gold_row = gold_row.iloc[0]
         gold_label = str(gold_row["label"]).strip().upper()
-        choice_text = gold_row[f"{language}_choices"]
-        choices_dict = parse_choices(choice_text)
+        choices_dict = parse_choices(gold_row[f"{language}_choices"])
         pred_letter = match_prediction(output, choices_dict)
 
-        is_correct = (pred_letter == gold_label)
-        if is_correct:
-            correct_count += 1
+        is_correct = pred_letter == gold_label
+        correct_count += int(is_correct)
 
-        results.append({
-            "id": qid,
-            "predicted": pred_letter,
-            "correct": gold_label,
-            "is_correct": is_correct,
-            "raw_output": output
-        })
+        df_response.at[i, "correct"] = is_correct
 
-    total = len(results)
+    total = len(df_response)
     accuracy = correct_count / total if total > 0 else 0
-    print(f"✅ Evaluated {total} questions.")
-    print(f"🎯 Accuracy: {accuracy:.2%} ({correct_count}/{total})")
+    print(f"🎯 {os.path.basename(response_csv)}: {correct_count}/{total} = {accuracy:.2%}")
+    df_response.to_csv(response_csv, index=False)
 
-    if output_csv:
-        pd.DataFrame(results).to_csv(output_csv, index=False)
-        print(f"📄 Results saved to {output_csv}")
-
-    return accuracy
+def evaluate_all_files(input_csv, base_dir, language="eng"):
+    for root, _, files in os.walk(base_dir):
+        for file in files:
+            if file.endswith(".csv"):
+                full_path = os.path.join(root, file)
+                try:
+                    evaluate_mcqa(input_csv, full_path, language)
+                except Exception as e:
+                    print(f"❌ Failed on {full_path}: {e}")
 
 def main():
-    parser = argparse.ArgumentParser(description="Evaluate MCQA model outputs.")
-    parser.add_argument("--input_csv", required=True, help="Original dataset with correct labels")
-    parser.add_argument("--response_csv", required=True, help="CSV with model responses")
-    parser.add_argument("--output_csv", help="Path to save detailed evaluation results")
-    parser.add_argument("--language", default="eng", choices=["eng", "kor"], help="Use English or Korean choices")
-
+    parser = argparse.ArgumentParser(description="Evaluate all MCQA CSVs under a directory recursively.")
+    parser.add_argument("--input_csv", required=True, help="Path to reference MCQA file with labels.")
+    parser.add_argument("--mcq_dir", required=True, help="Path to directory containing MCQA model outputs.")
+    parser.add_argument("--language", default="eng", choices=["eng", "kor"], help="Choice language.")
     args = parser.parse_args()
-    evaluate_mcqa(
-        input_csv=args.input_csv,
-        response_csv=args.response_csv,
-        output_csv=args.output_csv,
-        language=args.language
-    )
+
+    evaluate_all_files(args.input_csv, args.mcq_dir, args.language)
 
 if __name__ == "__main__":
     main()
