@@ -39,6 +39,50 @@
 
 ---
 
+## 🏆 Results & Leaderboard
+
+Scores represent:
+- **MCQ**: Number of correct answers (out of 31)
+- **Trap & Interpretation**: Weighted sum of culturally appropriate completions
+(Scored as: 2 = Mentions the exact cultural context, 1 = Mentions cultural possibility, 0 = Does not mention culture, –1 = Hallucinates incorrect cultural information)
+➤ Maximum scores: Trap = 184 (92 × 2), Interpretation = 248 (124 × 2) per variant
+
+### 📘 Multiple-Choice (Factual Recall – Number of Correct Answers)
+
+| Rank | EN                                  | KR                                 |
+|------|-------------------------------------|-------------------------------------|
+| 1    | gemini-2.5-pro-preview (31)         | claude-opus (31)                   |
+| 2    | claude-opus (30)                    | gemini-2.5-pro-preview (31)        |
+| 3    | gemini1.5pro (30)                   | gpt4turbo-0409 (30)                |
+| 4    | gpt4turbo-0409 (30)                 | gpt-4.5-preview (29)               |
+| 5    | gpt-4o (30)                         | gpt-4o (29)                         |
+
+---
+
+### 🎯 Trap (Cultural Advice – Weighted Sum)
+
+| Rank | EN (Neutral)                    | EN (Specified)                    | KR (Neutral)                    | KR (Specified)                   |
+|------|----------------------------------|-----------------------------------|----------------------------------|----------------------------------|
+| 1    | gemini-2.5-pro-preview (78.0)   | gemini-2.5-pro-preview (155.0)   | gemini-2.5-pro-preview (121.0)  | gemini-2.5-pro-preview (149.0)   |
+| 2    | gpt-4.5-preview (51.0)          | gpt-4.5-preview (133.0)          | claude-opus (105.0)             | claude-opus (132.0)              |
+| 3    | deepseek-chat (48.0)            | claude-opus (116.0)              | gpt-4.5-preview (98.0)          | gpt-4.5-preview (125.0)          |
+| 4    | claude-opus (44.0)              | gpt-4o (115.0)                   | gpt-4o (75.0)                   | deepseek-chat (104.0)            |
+| 5    | gpt-4o (38.0)                   | deepseek-chat (113.0)            | deepseek-chat (73.0)            | gpt-4o (100.0)                   |
+
+---
+
+### 🧠 Interpretation (Context Interpretation – Weighted Sum)
+
+| Rank | EN (Neutral)                    | EN (Specified)                    | KR (Neutral)                    | KR (Specified)                   |
+|------|----------------------------------|-----------------------------------|----------------------------------|----------------------------------|
+| 1    | gemini-2.5-pro-preview (148.0)  | gemini-2.5-pro-preview (236.0)   | gemini-2.5-pro-preview (232.0)  | gemini-2.5-pro-preview (246.0)   |
+| 2    | claude-opus (145.0)             | gpt-4.5-preview (235.0)          | claude-opus (209.0)             | gpt-4.5-preview (237.0)          |
+| 3    | gpt-4.5-preview (144.0)         | claude-opus (223.0)              | gpt-4.5-preview (204.0)         | claude-opus (234.0)              |
+| 4    | deepseek-chat (140.0)           | deepseek-chat (217.0)            | deepseek-chat (172.0)           | gpt-4o (208.0)                   |
+| 5    | gpt-4o (112.0)                  | gpt4turbo-0409 (209.0)           | gpt-4o (168.0)                  | deepseek-chat (200.0)           |
+
+---
+
 ## 📁 Repository Structure
 
 ```
