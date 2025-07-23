@@ -38,6 +38,64 @@
 
 ---
 
+## 📁 Repository Structure
+
+```
+
+NUNCHI-BENCH/
+├── data/                           # Benchmark data
+│   ├── nunchi\_mcq.csv
+│   ├── nunchi\_trap.csv
+│   └── nunchi\_interpret.csv
+│
+├── evaluation/                    # Scoring scripts
+│   ├── llm\_evaluator.py
+│   ├── mcqa\_evaluator.py
+│   ├── summarize\_mcq\_by\_topic.py
+│   ├── summarize\_mcq.py
+│   └── summarize\_trap\_interpret.py
+│
+├── scripts/                       # Model generation scripts
+│   ├── generate\_claude.py
+│   ├── generate\_deepseek.py
+│   ├── generate\_gemini.py
+│   └── generate\_gpt.py
+│
+├── results/                       # Output + scores
+│   ├── model\_outputs/
+│   │   ├── interpret/
+│   │   │   ├── eng\_default/
+│   │   │   ├── eng\_kor/
+│   │   │   ├── kor\_default/
+│   │   │   └── kor\_kor/
+│   │   ├── mcq/
+│   │   └── trap/
+│   ├── eval\_score\_summary\_\*.csv
+│   ├── mcq\_summary\_eng.csv
+│   ├── mcq\_summary\_kor.csv
+│   ├── mcq\_summary\_by\_topic\_eng.csv
+│   └── mcq\_summary\_by\_topic\_kor.csv
+├── prompts/                       # Prompt templates
+├── environment.yml                # Conda environment
+├── .gitignore
+└── README.md
+
+````
+### 📖 Citation
+
+If you use **Nunchi-Bench** in your work, please cite the arXiv version:
+
+```bibtex
+@misc{kim2025nunchibenchbenchmarkinglanguagemodels,
+  title={Nunchi-Bench: Benchmarking Language Models on Cultural Reasoning with a Focus on Korean Superstition}, 
+  author={Kyuhee Kim and Sangah Lee},
+  year={2025},
+  eprint={2507.04014},
+  archivePrefix={arXiv},
+  primaryClass={cs.CL},
+  url={https://arxiv.org/abs/2507.04014}
+}
+```
 
 ---
 
