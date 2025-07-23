@@ -45,6 +45,7 @@ Scores represent:
 - **MCQ**: Number of correct answers (out of 31)
 - **Trap & Interpretation**: Weighted sum of culturally appropriate completions
 (Scored as: 2 = Mentions the exact cultural context, 1 = Mentions cultural possibility, 0 = Does not mention culture, –1 = Hallucinates incorrect cultural information)
+
 ➤ Maximum scores: Trap = 184 (92 × 2), Interpretation = 248 (124 × 2) per variant
 
 ### 📘 Multiple-Choice (Factual Recall – Number of Correct Answers)
