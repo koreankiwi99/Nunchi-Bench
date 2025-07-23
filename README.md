@@ -2,7 +2,7 @@
   <h1>Nunchi-Bench 😬</h1>
   <p><strong>Nunchi-Bench</strong>: Benchmarking Language Models on Cultural Reasoning with a Focus on Korean Superstition</p>
   <p>
-    <a href="https://huggingface.co/datasets/koreankiwi99/Nunchi-Bench"><img src="https://img.shields.io/badge/Huggingface-Nunchi-Bench-red" alt="Dataset"></a>
+    <a href="https://huggingface.co/datasets/koreankiwi99/Nunchi-Bench"><img src="https://img.shields.io/badge/Huggingface-NunchiBench-red" alt="Dataset"></a>
     <a href="https://www.arxiv.org/abs/2507.04014">
       <img src="https://img.shields.io/badge/Paper-Findings%20of%20ACL%202025-blue" alt="Paper">
     </a>
