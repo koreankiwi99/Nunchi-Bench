@@ -50,10 +50,7 @@ NUNCHI-BENCH/
 │
 ├── evaluation/                    # Scoring scripts
 │   ├── llm\_evaluator.py
-│   ├── mcqa\_evaluator.py
-│   ├── summarize\_mcq\_by\_topic.py
-│   ├── summarize\_mcq.py
-│   └── summarize\_trap\_interpret.py
+│   └── mcqa\_evaluator.py
 │
 ├── scripts/                       # Model generation scripts
 │   ├── generate\_claude.py
@@ -70,11 +67,6 @@ NUNCHI-BENCH/
 │   │   │   └── kor\_kor/
 │   │   ├── mcq/
 │   │   └── trap/
-│   ├── eval\_score\_summary\_\*.csv
-│   ├── mcq\_summary\_eng.csv
-│   ├── mcq\_summary\_kor.csv
-│   ├── mcq\_summary\_by\_topic\_eng.csv
-│   └── mcq\_summary\_by\_topic\_kor.csv
 ├── prompts/                       # Prompt templates
 ├── environment.yml                # Conda environment
 ├── .gitignore
